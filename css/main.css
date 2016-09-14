@@ -1,3 +1,52 @@
+@font-face {
+  font-family: 'GeoSlab703 Md BT Bold';
+  src: url("../fonts/GeoSlab703 Md BT Bold.eot");
+  src: url("../fonts/GeoSlab703 Md BT Bold.woff") format('woff'), url("../fonts/GeoSlab703 Md BT Bold.ttf") format('truetype'), url("../fonts/GeoSlab703 Md BT Bold.svg") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GeoSlab703 Md BT Medium';
+  src: url("../fonts/GeoSlab703 Md BT Medium.eot");
+  src: url("../fonts/GeoSlab703 Md BT Medium.woff") format('woff'), url("../fonts/GeoSlab703 Md BT Medium.ttf") format('truetype'), url("../fonts/GeoSlab703 Md BT Medium.svg") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url("../fonts/Montserrat-Bold.eot");
+  src: url("../fonts/Montserrat-Bold.woff") format('woff'), url("../fonts/Montserrat-Bold.ttf") format('truetype'), url("../fonts/Montserrat-Bold.svg") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat-Hairline';
+  src: url("../fonts/Montserrat-Hairline.eot");
+  src: url("../fonts/Montserrat-Hairline.woff") format('woff'), url("../fonts/Montserrat-Hairline.ttf") format('truetype'), url("../fonts/Montserrat-Hairline.svg") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Montserrat-Light';
+  src: url("../fonts/Montserrat-Light.eot");
+  src: url("../fonts/Montserrat-Light.woff") format('woff'), url("../fonts/Montserrat-Light.ttf") format('truetype'), url("../fonts/Montserrat-Light.svg") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url("../fonts/Montserrat-Regular.eot");
+  src: url("../fonts/Montserrat-Regular.woff") format('woff'), url("../fonts/Montserrat-Regular.ttf") format('truetype'), url("../fonts/Montserrat-Regular.svg") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 .navbar-default{
 	background-color: white;
