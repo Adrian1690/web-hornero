@@ -30,7 +30,6 @@
   font-style: normal;
 }
 
-
 @font-face {
   font-family: 'Montserrat-Light';
   src: url("../fonts/Montserrat-Light.eot");
@@ -38,7 +37,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
 
 @font-face {
   font-family: 'Montserrat-Regular';
@@ -65,6 +63,11 @@
     padding-top: 22px;
 }
 
+.item-nav{
+    font-family: 'GeoSlab703 Md BT Bold';
+    text-transform: uppercase;
+    font-size: 12px;
+}
 .item-nav.active a,
 .item-nav a:hover{
 	background-color: white !important;
@@ -74,6 +77,40 @@
 	cursor: pointer;
 }
 
+.dropdown-nav{
+    background-color:  #77251B;
+    font-family: 'GeoSlab703 Md BT Bold';
+    
+}  
+
+.dropdown-nav a{
+    color: white !important;
+    text-transform: uppercase;
+    font-size: 12px;
+} 
+
+.dropdown-menu{
+    min-width: 231px;
+}
+
+.dropdown-menu li {
+    list-style: inherit !important; 
+}
+.dropdown-menu li a{
+    color: #7D7D7D !important;
+    padding-top: 6px;
+    height: 30px;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+    color: #7D7D7D !important; 
+    background-color: white;
+    text-transform: uppercase;
+    transition: 1s ease all;
+}
+.title-logo{
+    font-family: 'Montserrat-Regular';
+}
+
 .margin-left-10em{
 	margin-left: 10em;
 }
@@ -81,10 +118,147 @@
 	margin-right: 10em;
 }
 
+.footer-title{
+    text-align: center;
+    color: #8E4239;
+    font-family: 'GeoSlab703 Md BT Bold';
+    font-size: 22px;
+    letter-spacing: 1px;
+}
 
-@media only screen and (min-width: 769px) {
+.line{
+    margin: 0 auto;
+    width: 110px;
+    margin-top: 7px;
+    border-top: 2px solid #8E4239;
+}
+
+.container-carousel{
+    margin: 3% auto 0;
+    max-width: 955px;
+    width: 100%;
+    display: block;
+}
+
+.owl-controls .owl-prev {
+    width: 25px;
+    height: 40px;
+    float: left;
+    margin-left: -10%;
+    background-image: url("../img/flechitas.png");
+    font-size: 0px;
+    background-position: 0px center;
+    margin-top: -105px;
+}
+
+.owl-controls .owl-next {
+    width: 25px;
+    height: 40px;
+    font-size: 0px;
+    background-position: 24px center;
+    float: right;
+    background-image: url("../img/flechitas.png");
+    margin-right: -10%;
+    margin-top: -105px;
+}
+
+.container-carousel .owl-carousel .item{
+    height: 187px;
+    /*padding: 15px 5px;*/
+    position: relative;
+    overflow: hidden;
+}
+
+.line-footer{
+    margin: 0 auto;
+    width: 46px;
+    margin-top: 14px;
+    border-top: 2px solid white;
+}
+
+.info-fachada{
+    font-family : 'Montserrat-Bold';
+    color: white;
+    text-align: center;
+    background: rgba(54, 25, 25, .5);
+    /*opacity:0.5;*/
+    height: 100%;
+    width:100%;
+    padding-top: 25%;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.info-fachada span{
+    font-size: 20px;
+}
+
+.fachada{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    transition: 1s ease all;
+}
+
+.fachada-asia{
+    background-image: url("../img/fachada_asia.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 187px;
+}
+
+.fachada-barranco{
+    background-image: url("../img/fachada_barranco.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 187px;
+}
+.fachada-chorrillos{
+    background-image: url("../img/fachada_chorrillos.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 187px;
+}
+.fachada-lamolina{
+    background-image: url("../img/fachada_lamolina.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 187px;
+}
+
+.scale1-1{
+    transform: scale(1.1);
+}
+
+.propuesta{
+    width: 100%;
+    height: 187px;
+    position: relative;
+    overflow: hidden;
+}
+
+footer .fachada-saintfooter{
+    background-image: url("../img/fachada_sainttropez.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 187px;
+}
+
+footer .fachada-armandolafooter{
+    background-image: url("../img/fachada_armandola.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 187px;
+}
+
+footer .container-propuestas{
+    margin-top: 3%;
+}
+
+@media only screen and (min-width: 768px) {
   	.item-nav{
-		width: 8em;
+        width: 8em;
 	    text-align: center;
 	}
 }
@@ -98,7 +272,13 @@
 }
 
 @media only screen and (max-width: 768px) {
+    .owl-controls .owl-prev {
+        margin-left: -2%;
+    }
 
+    .owl-controls .owl-next {
+        margin-right: -2%;
+    }
 }
 
 /*   Small Devices, Tablets */

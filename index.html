@@ -8,6 +8,7 @@
 	<title>El Hornero</title>
 
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
+	<link rel="stylesheet" href="assets/css/owl.carousel.css"/>
     <link rel="stylesheet" href="css/main.css">
     
     
@@ -27,7 +28,10 @@
 				<div>
 					<a class="navbar-brand" href="#">
 						<img style="width: 60px;float:left;" class="img-responsive" src="img/el_hornero_isotipo.png" alt="iso">
-						<span style="float:left;">El Hornero</span>
+						<div style="float:left;">
+							<span class="title-logo">EL HORNERO</span> <br>
+							<span class="subtitle-logo" style="padding-left: 24px;">PARRILLADAS</span>	
+						</div>
 					</a>	
 				</div>
 				
@@ -41,28 +45,119 @@
 					<li class="item-nav" ><a href="#">Eventos</a></li>
 					<li class="item-nav" ><a href="#">Galeria</a></li>
 					<li class="item-nav margin-right-10em" ><a href="#">Reservas</a></li>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Seleccione su Restaurante. 
+					<li class="dropdown dropdown-nav">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+							Seleccione su Restaurante. 
 							<span class="caret"></span>
 						</a>
 
 						<ul class="dropdown-menu">
-							<li><a href="#">Action</a></li>
-							<li><a href="#">Another action</a></li>
-							<li><a href="#">Something else here</a></li>
-							<li role="separator" class="divider"></li>
-							<li class="dropdown-header">Nav header</li>
-							<li><a href="#">Separated link</a></li>
-							<li><a href="#">One more separated link</a></li>
+							<li><a href="#">ASIA</a></li>
+							<li><a href="#">CHORRILLOS</a></li>
+							<li><a href="#">BARRANCO</a></li>
+							<li><a href="#">LA MOLINA</a></li>
+							<li><a href="#">SAN ISIDRO</a></li>
 						</ul>
 					</li>
 				</ul>
 			</div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
   	</nav>
+	
+	<div class="container"></div>
+
+	<footer>
+		<div class="footer-title" >NUESTROS RESTAURANTES</div>
+		<div class="line" ></div>
+		
+		<div class="container-carousel">
+			<div class="owl-carousel owl-theme">
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-asia">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>ASIA</span>
+							<div class="line-footer" ></div>
+							<br>
+							ATENCIÓN TODO EL AÑO
+						</div>
+					</a>
+				</div>
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-barranco">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>BARRANCO</span>
+							<div class="line-footer" ></div>
+							<br>
+							ATENCIÓN TODO EL AÑO
+						</div>
+					</a>
+				</div>
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-chorrillos">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>CHORRILLOS</span>
+							<div class="line-footer" ></div>
+							<br>
+							ATENCIÓN TODO EL AÑO
+						</div>
+					</a>
+				</div>
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-lamolina">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>LA MOLINA</span>
+							<br>
+							<div class="line-footer" ></div>
+							<br>
+							ATENCIÓN TODO EL AÑO
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+		<br><br><br>
+		<div class="footer-title" >NUEVAS PROPUESTAS GRASTRONÓMICAS</div>
+		<div class="line" ></div>
+		<div class="row container-propuestas">
+			<div class="col-md-10 col-md-offset-1">
+				<div class="row">
+					<div class="col-md-5 col-md-offset-1">
+						<div class="propuesta">
+							<div class="fachada fachada-saintfooter"></div>
+							<div class="info-fachada" style="display:none;">
+								<span>SAINT TROPEZ</span>
+								<br>
+								RESTAURANTE
+							</div>	
+						</div>
+						
+					</div>
+					<div class="col-md-5">
+						<div class="propuesta">
+							<div class="fachada fachada-armandolafooter"></div>
+							<div class="info-fachada" style="display:none;">
+								<span>ARMÁNDOLA</span>
+								<br>
+								PRÓXIMAMENTE
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
 
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/owl.carousel.min.js"></script>
 	<script src="js/main.js"></script>
 </body>
 </html>
