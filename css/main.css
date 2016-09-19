@@ -298,7 +298,7 @@ footer .container-info{
     background-color: #81291E;
     color:white;
     padding-top: 3%;
-    padding-bottom: 3%;
+    padding-bottom: 1%;
 }
 
 footer .container-info .izquierda{
@@ -337,6 +337,17 @@ footer .li-telefono: hover{
     text-decoration: none;
     color:white;
 }
+
+footer .footer-mencion{
+    margin: 0 14% 0 14%;   
+}
+footer .content-mencion{
+    color: #A8847F;
+    font-size: 12px;
+    font-family: 'font-GeoSlab703bold';
+}
+
+
 
 @media only screen and (min-width: 768px) {
   	.item-nav{
