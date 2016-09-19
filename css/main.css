@@ -65,9 +65,7 @@
   font-style: normal;
 }
 
-body{
-    padding-top: 90px;
-}
+
 .font-Montserrat-Regular{
     font-family: 'Montserrat-Regular';
 }
@@ -410,10 +408,84 @@ footer .footer-mencion{
 footer .content-mencion{
     color: #A8847F;
     font-size: 12px;
-    font-family: 'font-GeoSlab703bold';
+    font-family: 'GeoSlab703 Md BT Bold';
+}
+
+.border-button{
+    border: 2px solid #8E4239;
+    color: #8E4239;
+    background-color: white;
+    font-family: 'GeoSlab703 Md BT Medium';
+    padding: 8px 20px 8px 20px;
+    text-transform: uppercase;
+}
+
+#index_section{
+    transition: 1.5s ease all;
+    background-image: url(../img/portada_slide_1.jpg);
+}
+
+.cont-fachada{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.width-100per{
+    width: 100%;
 }
 
 
+.fachada-all{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    transition: 1s ease all;
+    background-position: center center;
+    background-size: cover;
+}
+
+.fachada-historyhornero{
+    background-image: url("../img/fachada_chorrillos.jpg");
+    height: 100%;
+}
+
+.Hmiddle-screen{
+    min-height: 50vh;
+}
+
+#history_section{
+    padding-top: 6%;
+    padding-bottom: 4%;
+}
+
+#history_section .fachada-historyhornero{
+    background-image: url("../img/fachada_chorrillos.jpg");
+    height: 100%;
+}
+
+#history_section .texto-historyhornero{
+    background-image: url("../img/adorno/fachada_chorrillos.jpg");
+}
+
+#history_section p{
+    color:#777;
+    letter-spacing: 2px;
+    font-family: 'GeoSlab703 Md BT Medium';
+    margin: 2em;
+
+}
+
+.title-all{
+    padding-top: 3%;
+    text-align: center;
+    color: #8E4239;
+    font-family: 'GeoSlab703 Md BT Bold';
+    font-size: 22px;
+    letter-spacing: 1px;
+}
 
 @media only screen and (min-width: 768px) {
   	.item-nav{
@@ -447,4 +519,53 @@ footer .content-mencion{
 
 @media only screen and (max-width: 480px) {
 
+}
+
+/* fullscreen setup */
+html{
+  /* give this to all tags from html to .fullscreen */
+    height:100%;
+}
+
+body{
+    height:100%;
+    padding-top: 72px;
+    width: 100%;
+}
+
+.contenedor{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+    min-height: 500px;
+}
+
+.fullscreen{
+  padding: 0px;
+}
+.fullscreen,
+.content-a {
+  width:100%;
+  min-height:767px;
+  height:100%;
+  overflow:hidden;
+}
+.fullscreen.overflow,
+.fullscreen.overflow .content-a {
+  /*height:auto;*/
+  /*min-height:100%;*/
+  min-height:767px;
+}
+
+/* content centering styles */
+.content-a {
+  display:table;
+}
+.content-b {
+  display:table-cell;
+  position:relative;
+  vertical-align:middle;
+  text-align:center;
 }
