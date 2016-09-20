@@ -29,14 +29,21 @@
 	-->
 	
     <section id="history_section" class="contenedor">
-        <div class="row">
-        	<div class="col-md-5 col-md-offset-1">
-        		<div class="cont-fachada Hmiddle-screen">
+        <div class="row text-center">
+        	<div class="col-md-6  padding-right-0 padding-left-0">
+        		<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-historyhornero"></div>
         		</div>
         	</div>
-        	<div class="col-md-5">
-        		<div class="width-100per" style="padding: 4% 0 4% 0;">
+        	<div class="col-md-6 padding-right-0 padding-left-0">
+        		<div class="width-100per" style="padding: 13% 0 4% 0;min-height:400px;">
+        			<div class="line" style="position: absolute;top: -6px;width:40%;"></div>
+        			<div class="line" style="position: absolute;bottom: 0;width:40%;"></div>
+        			<div class="linea-right" style="    position: absolute;
+													    right: 0px;
+													    height: 40%;
+													    top: 6em;
+													    border-left: 2px solid #8E4239;"></div>
         			<div class="texto-historyhornero text-center">
         				<span class="title-all">El PRIMER HORNERO</span>
         				<div class="line"></div>
@@ -54,8 +61,13 @@
 						</a>
         			</div>
         		</div>
+        		
         	</div>
+			
+			<img style="margin-top:4em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">
         </div>
+
+
     </section>
     
 	

@@ -193,7 +193,7 @@ footer{
 
 .container-carousel{
     margin: 3% auto 0;
-    max-width: 955px;
+    max-width: 985px;
     width: 100%;
     display: block;
 }
@@ -305,9 +305,13 @@ footer{
     height: 187px;
     position: relative;
     overflow: hidden;
-    z-index: 1
+    z-index: 1;
+    margin-bottom: 1em;
 }
 
+.margin-auto{
+    margin: 0 auto;
+}
 
 
 footer .fachada-saintfooter{
@@ -457,8 +461,7 @@ footer .content-mencion{
 }
 
 #history_section{
-    padding-top: 6%;
-    padding-bottom: 4%;
+    
 }
 
 #history_section .fachada-historyhornero{
@@ -467,7 +470,7 @@ footer .content-mencion{
 }
 
 #history_section .texto-historyhornero{
-    background-image: url("../img/adorno/fachada_chorrillos.jpg");
+    /*background-image: url("../img/adorno/fachada_chorrillos.jpg");*/
 }
 
 #history_section p{
@@ -478,6 +481,13 @@ footer .content-mencion{
 
 }
 
+.padding-left-0{
+    padding-left: 0;
+}
+.padding-right-0{
+    padding-right: 0;
+}
+
 .title-all{
     padding-top: 3%;
     text-align: center;
@@ -486,6 +496,30 @@ footer .content-mencion{
     font-size: 22px;
     letter-spacing: 1px;
 }
+
+.backtitle{
+    height: 55%;
+    width:100%;
+    text-align: center;
+    font-family: 'GeoSlab703 Md BT Bold';
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.backtitle .title{
+    color:white;
+} 
+
+.backtitle .lineback{
+    width: 50px;
+    border-bottom: 1px solid white;
+} 
+
+.ourhistoryback{
+    background-image: url('../img/portada_nuestra_historia.jpg');
+    background-position: center center;
+}
+
 
 @media only screen and (min-width: 768px) {
   	.item-nav{
@@ -536,6 +570,8 @@ body{
 .contenedor{
     padding-right: 15px;
     padding-left: 15px;
+    padding-top: 6%;
+    padding-bottom: 4%;
     margin-right: auto;
     margin-left: auto;
     width: 75%;
