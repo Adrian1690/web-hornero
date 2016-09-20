@@ -9,6 +9,7 @@
 
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.css"/>
+	<link rel="stylesheet" href="css/mansory.css"/>
     <link rel="stylesheet" href="css/main.css">
     
     
@@ -38,9 +39,84 @@
 
     <section id="ourhistory_section" class="contenedor">
        
+       	<div class="grid">
+		<div class="grid-sizer"></div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height4 ">
+				<div class="fachada-all fachada-chorrillos"></div>	
+				<div class="info-fachada-all" style="display: none;">
+					<div class="verticalAuto">
+						<span>CHORRILLOS</span>
+						<div class="line-footer"></div>
+						<br>
+						ATENCIÓN TODO EL AÑO
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height2 ">
+				<div class="fachada-nh1"></div>	
+			</div>	
+		</div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height3 ">
+				<div class="fachada-nh2"></div>	
+			</div>	
+		</div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height2 ">
+				<div class="fachada-nh3byn"></div>	
+			</div>	
+		</div>
+		<div class="grid-item ">
+			<div class="cont-fachada grid-item--height4 ">
+				<div class="fachada-all fachada-pasaron"></div>	
+				<div class="info-fachada-all" style="display: none;">
+					<div class="verticalAuto">
+						<span>CHORRILLOS</span>
+						<div class="line-footer"></div>
+						<br>
+						ATENCIÓN TODO EL AÑO
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height3 ">
+				<div class="fachada-mensaje2"></div>	
+			</div>	
+		</div>
 
-
-    </section>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height4 ">
+				<div class="fachada-all fachada-asia"></div>	
+				<div class="info-fachada-all" style="display: none;">
+					<div class="verticalAuto">
+						<span>CHORRILLOS</span>
+						<div class="line-footer"></div>
+						<br>
+						ATENCIÓN TODO EL AÑO
+					</div>
+				</div>
+			</div>	
+		</div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height3 ">
+				<div class="fachada-hornero-carnicero"></div>	
+			</div>	
+		</div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height3 ">
+				<div class="fachada-mensaje3"></div>	
+			</div>	
+		</div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height2 ">
+				<div class="fachada-carne-verduras"></div>	
+			</div>	
+		</div>
+	</section>
     
 	
 	
@@ -50,6 +126,9 @@
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="assets/js/masonry.pkgd.min.js"></script>
+	<script src="assets/js/imagesloaded.pkgd.min.js"></script>
 	<script src="js/main.js"></script>
+	<script src="js/initmansory.js"></script>
 </body>
 </html>
