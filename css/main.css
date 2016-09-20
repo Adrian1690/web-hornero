@@ -498,26 +498,33 @@ footer .content-mencion{
 }
 
 .backtitle{
-    height: 55%;
+    height: 40%;
     width:100%;
     text-align: center;
-    font-family: 'GeoSlab703 Md BT Bold';
+    font-family: 'GeoSlab703 Md BT Medium';
     font-size: 30px;
     text-transform: uppercase;
 }
 
 .backtitle .title{
     color:white;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 } 
 
 .backtitle .lineback{
-    width: 50px;
-    border-bottom: 1px solid white;
+    width: 60px;
+    border-bottom: 3px solid white;
+    /* position: relative; */
+    margin: 0 auto;
+    margin-top: 7px;
 } 
 
 .ourhistoryback{
     background-image: url('../img/portada_nuestra_historia.jpg');
-    background-position: center center;
+    /*background-position: center center;*/
+    background-position: -175px -300px;
 }
 
 

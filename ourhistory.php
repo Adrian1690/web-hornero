@@ -29,8 +29,11 @@
 	-->
 	
 	<section class="backtitle ourhistoryback parallax">
-		<div class="title">Nuestra Historia</div>
-		<div class="lineback"></div>
+		<div class="title">
+			Nuestra Historia
+			<div class="lineback"></div>
+		</div>
+		
 	</section>
 
     <section id="ourhistory_section" class="contenedor">
