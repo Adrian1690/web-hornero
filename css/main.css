@@ -385,6 +385,20 @@ footer{
     height: 100%;
 }
 
+.fachada-historia2{
+    background-image: url("../img/el_hornero_historia2.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-menu{
+    background-image: url("../img/el_hornero_menu.jpg");
+    background-position: center -132px;
+    background-size: cover;
+    height: 100%;
+}
+
 .scale1-1{
     transform: scale(1.1);
 }

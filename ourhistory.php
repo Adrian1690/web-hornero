@@ -112,11 +112,35 @@
 			</div>	
 		</div>
 		<div class="grid-item">
-			<div class="cont-fachada grid-item--height2 ">
+			<div class="cont-fachada grid-item--height3 ">
 				<div class="fachada-carne-verduras"></div>	
 			</div>	
 		</div>
+		
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height4 ">
+				<div class="fachada-all fachada-historia2"></div>	
+				<div class="info-fachada-all" style="display: none;">
+					<div class="verticalAuto">
+						<span>CHORRILLOS</span>
+						<div class="line-footer"></div>
+						<br>
+						ATENCIÓN TODO EL AÑO
+					</div>
+				</div>
+			</div>	
+		</div>
+		<div class="grid-item">
+			<div class="cont-fachada grid-item--height3 ">
+				<div class="fachada-menu"></div>	
+			</div>	
+		</div>
+
+
 	</section>
+    <div class="text-center">
+    	<img style="margin-top:1em;margin-bottom:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
+    </div>
     
 	
 	
