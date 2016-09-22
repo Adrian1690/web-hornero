@@ -44,12 +44,23 @@
 		<div class="grid-item">
 			<div class="cont-fachada grid-item--height4 ">
 				<div class="fachada-all fachada-chorrillos"></div>	
-				<div class="info-fachada-all" style="display: none;">
-					<div class="verticalAuto">
-						<span>CHORRILLOS</span>
-						<div class="line-footer"></div>
-						<br>
-						ATENCIÓN TODO EL AÑO
+				<div class="info-fachada-all" style="display: block;">
+					<div class="verticalAuto" style="top:56%;">
+						<div class="fachadaall-middletext">
+							<span> 	
+							Luego de haber trabajado 
+							como un respetado mozo 
+							en los mejores restaurantes de 
+							la ciudad, Armando Tafur se 
+							aventuró por abrir su primer 
+							restaurante “EL HORNERO” 
+							en el histórico distrito de 
+							Chorrillos. 
+							</span>	
+							<img  class="margin-auto" style="margin-top:10%;" src="img/adorno/nuestra_historia_adorno_mensajes.png" alt="">	
+						</div>
+						
+						<!-- <div class="ornamental-blanco"></div> -->
 					</div>
 				</div>
 			</div>
@@ -72,12 +83,22 @@
 		<div class="grid-item ">
 			<div class="cont-fachada grid-item--height4 ">
 				<div class="fachada-all fachada-pasaron"></div>	
-				<div class="info-fachada-all" style="display: none;">
-					<div class="verticalAuto">
-						<span>CHORRILLOS</span>
-						<div class="line-footer"></div>
-						<br>
-						ATENCIÓN TODO EL AÑO
+				<div class="info-fachada-all" style="display: block;">
+					<div class="verticalAuto" style="top:56%;">
+						<div class="fachadaall-middletext">
+							<span>
+								No pasaron muchos años, para 
+								que Armando junto a su familia, 
+								construyeran una empresa 
+								familiar, siendo pioneros en 
+								albergar los mejores cortes de 
+								carne americana (Certified 
+								Angus Beef).			 
+					
+							</span>
+						</div>	
+						<img class="margin-auto" style="margin-top:6%;" src="img/adorno/nuestra_historia_adorno_mensajes.png" alt="">
+						
 					</div>
 				</div>
 			</div>
@@ -91,12 +112,22 @@
 		<div class="grid-item">
 			<div class="cont-fachada grid-item--height4 ">
 				<div class="fachada-all fachada-asia"></div>	
-				<div class="info-fachada-all" style="display: none;">
-					<div class="verticalAuto">
-						<span>CHORRILLOS</span>
-						<div class="line-footer"></div>
-						<br>
-						ATENCIÓN TODO EL AÑO
+				<div class="info-fachada-all" style="display: block;">
+					<div class="verticalAuto" style="top:56%;">
+						<div class="fachadaall-middletext">
+							<span>
+								En los últimos años, la familia “EL
+								HORNERO” ha sumado nuevos
+								integrantes, como el restaurante
+								de La Molina, San Isidro,
+								Barranco y el Boulevard de Asia,
+								el cual abre todo el año.
+								Próximamente, se sumarán
+								nuevos locales en los mejores
+								distritos de la ciudad.
+							</span>
+							<img class="margin-auto" style="margin-top:10%;" src="img/adorno/nuestra_historia_adorno_mensajes.png" alt="">
+						</div>
 					</div>
 				</div>
 			</div>	
@@ -120,12 +151,21 @@
 		<div class="grid-item">
 			<div class="cont-fachada grid-item--height4 ">
 				<div class="fachada-all fachada-historia2"></div>	
-				<div class="info-fachada-all" style="display: none;">
-					<div class="verticalAuto">
-						<span>CHORRILLOS</span>
-						<div class="line-footer"></div>
-						<br>
-						ATENCIÓN TODO EL AÑO
+				<div class="info-fachada-all font-Montserrat-Regular" style="display: block;">
+					<div class="verticalAuto" style="top:56%;">
+						<div class="fachadaall-middletext">
+							<span>
+								Hoy, “El Hornero” es distinguido 
+								entre sus comensales por su 
+								buen servicio y sus ambientes 
+								placenteros. Un lugar donde se 
+								cuida el sabor al máximo, 
+								sazonado con guarniciones, 
+								piqueos, vinos y una 
+								atención personalizada. 
+							</span>
+							<img class="margin-auto" style="margin-top:10%;" src="img/adorno/nuestra_historia_adorno_mensajes.png" alt="">
+						</div>
 					</div>
 				</div>
 			</div>	

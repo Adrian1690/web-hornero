@@ -47,11 +47,11 @@ $(document).ready(function(){
     /* General Zoom img */
     $('.cont-fachada').hover(
         function(){
-            $(this).find('.info-fachada-all').fadeIn();
+            $(this).find('.info-fachada-all.hidefachada').fadeIn();
             $(this).find('.fachada-all').addClass('scale1-1');
         },
         function(){
-            $(this).find('.info-fachada-all').fadeOut();
+            $(this).find('.info-fachada-all.hidefachada').fadeOut();
             $(this).find('.fachada-all').removeClass('scale1-1');
         }
     );

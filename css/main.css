@@ -260,10 +260,10 @@ footer{
 }
 
 .info-fachada-all{
-    font-family : 'Montserrat-Bold';
+    font-family : 'Montserrat-Light';
     color: white;
     text-align: center;
-    background: rgba(54, 25, 25, .5);
+    background: rgba(0, 0, 0, .5);
     /*opacity:0.5;*/
     height: 100%;
     width:100%;
@@ -279,8 +279,10 @@ footer{
 }
 
 .info-fachada-all span{
-    font-size: 20px;
+    font-size: 19px;
 }
+
+
 
 .fachada-all{
     position: absolute;
@@ -289,6 +291,13 @@ footer{
     transition: 1s ease all;
     background-position: center center;
     background-size: cover;
+}
+
+.fachadaall-middletext{
+    width: 60%;
+    margin: 0 auto;
+    text-align: justify;
+    text-align-last: center;
 }
 
 .fachada{
@@ -416,7 +425,10 @@ footer{
     margin: 0 auto;
 }
 
+.ornamental-blanco{
+    background-image: url('../img/adorno/nuestra_historia_adorno_mensajes.png');
 
+}
 footer .fachada-saintfooter{
     background-image: url("../img/fachada_sainttropez.jpg");
     background-position: center center;
@@ -660,7 +672,16 @@ footer .content-mencion{
 }
 
 @media only screen and (max-width: 992px) {
+    .contenedor{
+        width: 95%
+    }
+    .info-fachada-all span{
+        font-size: 16px;
+    }
 
+    .info-fachada-all img{
+        width: 120px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -679,7 +700,14 @@ footer .content-mencion{
 
 /*   Small Devices, Tablets */
 @media only screen and (max-width: 600px) {
+    
+    .info-fachada-all span{
+        font-size: 14px;
+    }
 
+    .info-fachada-all img{
+        width: 120px;
+    }
 }
 
 @media only screen and (max-width: 480px) {
