@@ -47,13 +47,16 @@
         			<div class="texto-historyhornero text-center">
         				<span class="title-all">El PRIMER HORNERO</span>
         				<div class="line"></div>
-
-        				<p >Hace más de 15 años, Armando Tafur <br>	
-							siguió un sueño de éxito, tener el <br>
-							Restaurante con las mejores Carnes y <br>
-							Parrillas de Lima. Abriendo así su primer <br>
-							restaurante “El HORNERO” en el <br>
-							emblemático distrito de Chorrillos.</p>
+						<div class="fachadaall-middletext">
+	        				<p>	
+	        					Hace más de 15 años, Armando Tafur 
+								siguió un sueño de éxito, tener el
+								Restaurante con las mejores Carnes y
+								Parrillas de Lima. Abriendo así su primer
+								restaurante “El HORNERO” en el
+								emblemático distrito de Chorrillos.
+							</p>
+						</div>		
 						<a href="#">
 							<button class="border-button">
 								Descubre más <br> de nuestra historia	

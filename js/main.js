@@ -1,8 +1,10 @@
 'use strict';
 
-$(document).ready(function(){
-	console.log('Page is readyy');
 
+$(document).ready(function(){
+	/*console.log('Page is readyy');*/
+
+    
 	$('.owl-carousel').owlCarousel({
         loop: true,
         autoplay : false,
@@ -57,6 +59,16 @@ $(document).ready(function(){
     );
 
 });
+
+
+function allResize(){
+    // all function to get resisze
+    var Hnav = $('nav.navbar.navbar-default.navbar-fixed-top').height();
+    $('body').css('padding-top', Hnav);    
+}
+
+allResize();
+$(window).resize(allResize);
 
 /* detect touch */
 if("ontouchstart" in window){
