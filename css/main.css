@@ -649,6 +649,12 @@ footer .content-mencion{
     background-position: -175px -300px;
 }
 
+.cart{
+    background-image: url('../img/carne_vino.jpg');
+    /*background-position: center center;*/
+    background-position: center 600px;
+}
+
 .contenedor{
     padding-right: 15px;
     padding-left: 15px;
@@ -724,6 +730,7 @@ body{
     height:100%;
     padding-top: 70px;
     width: 100%;
+    overflow-x: hidden;
 }
 
 
