@@ -9,6 +9,7 @@
 
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.css"/>
+	<link rel="stylesheet" href="css/mansory.css"/>
     <link rel="stylesheet" href="css/main.css">
     
     
@@ -28,8 +29,22 @@
 	</div>
 	-->
 	
-    <section id="history_section" class="contenedor">
-        <div class="row text-center">
+	<section class="backtitle eventsback parallax">
+		<div class="title">
+			EVENTOS
+			<div class="lineback"></div>
+		</div>
+	</section>
+
+	<section id="events_section" class="contenedor">
+		<div class="title-all" style="padding-top:0;">
+			"AMPLIOS ESPACIOS EN LOS DISTRITOS <br> MÁS DISTINGUIDOS DE LA CIUDAD"
+			<br><br>
+			<a id="fa" href="#fa"><div class="flechaabajo"></div></a>
+		</div>
+		<br><br>
+
+		<div id="events-content" class="row text-center">
         	<div class="col-md-6  padding-right-0 padding-left-0">
         		<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-historyhornero"></div>
@@ -44,34 +59,34 @@
 													    height: 40%;
 													    top: 6em;
 													    border-left: 2px solid #8E4239;"></div>
-        			<div class="texto-historyhornero text-center verticalAuto">
-        				<span class="title-all">El PRIMER HORNERO</span>
-        				<div class="line"></div>
-						<div class="fachadaall-middletext">
-	        				<p>	
-	        					Hace más de 15 años, Armando Tafur 
-								siguió un sueño de éxito, tener el
-								Restaurante con las mejores Carnes y
-								Parrillas de Lima. Abriendo así su primer
-								restaurante “El HORNERO” en el
-								emblemático distrito de Chorrillos.
-							</p>
-						</div>		
-						<a href="#">
-							<button class="border-button">
-								Descubre más <br> de nuestra historia	
-							</button>
-						</a>
-        			</div>
+        			<div class="texto-events width-100per  verticalAuto">
+        				<div class="text-center">
+        					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
+	        				<div class="line"></div>
+	        				<br>
+	        				<span class="title-all">GRAN SALON <br> "LA PAMPA"</span>
+	        				<br> <br>
+	        				<p>
+	        					CAPACIDAD : 180 PERS.
+	        				</p>
+	        				<p>
+	        					ATENCION PERSONALIZADA
+	        				</p>
+	        				<p class="sede">
+	        					EL HORNERO CHORRILLOS
+	        				</p>
+        				</div>
+						
+	        		</div>
         		</div>
         		
         	</div>
 			
 			<img style="margin-top:4em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">
-        </div>
 
+	</section>
 
-    </section>
+    
     
 	
 	
@@ -81,6 +96,9 @@
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="assets/js/masonry.pkgd.min.js"></script>
+	<script src="assets/js/imagesloaded.pkgd.min.js"></script>
 	<script src="js/main.js"></script>
+	<script src="js/initmansory.js"></script>
 </body>
 </html>

@@ -198,6 +198,19 @@ footer{
     display: block;
 }
 
+.flechaabajo{
+    background-image: url(../img/adorno/flecha_abajo.png);
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    transition: .5s ease all;
+}
+
+.flechaabajo:hover{
+    background-image: url("../img/adorno/flecha_abajo_over.png");
+    cursor: pointer;
+}
+
 .owl-controls .owl-prev {
     width: 30px;
     height: 30px;
@@ -207,6 +220,7 @@ footer{
     font-size: 0px;
     /*background-position: 0px center;*/
     margin-top: -115px;
+    transition: .5s ease all;
 }
 .owl-controls .owl-prev:hover {
     background-image: url("../img/adorno/flecha_izquierda_over.png");
@@ -221,6 +235,7 @@ footer{
     background-image: url("../img/adorno/flecha_derecha.png");
     margin-right: -10%;
     margin-top: -115px;
+    transition: .5s ease all;
 }
 
 .owl-controls .owl-next:hover{
@@ -626,6 +641,19 @@ footer .content-mencion{
 }
 
 
+#events_section .texto-events p{
+    font-family: 'GeoSlab703 Md BT Bold';
+    /* #6A6A6A */
+    color: #6A6A6A;
+    font-size: 13px;
+}
+
+#events_section .texto-events p.sede{
+    font-family: 'Montserrat-Regular';
+    /* #6A6A6A */
+    color: #909090;
+    font-size: 11px;
+}
 
 .padding-left-0{
     padding-left: 0;
@@ -663,7 +691,7 @@ footer .content-mencion{
 } 
 
 .verticalAuto{
-    position: relative;
+    position: absolute;
     top: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
@@ -682,6 +710,12 @@ footer .content-mencion{
     background-image: url('../img/portada_nuestra_historia.jpg');
     /*background-position: center center;*/
     background-position: -175px -300px;
+}
+
+.eventsback{
+    background-image: url('../img/portada_reservas.jpg');
+    /*background-position: center center;*/
+    background-position: center 80%;
 }
 
 .cart{
