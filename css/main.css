@@ -458,6 +458,33 @@ footer{
     height: 100%;
 }
 
+.fachada-asiaterraza{
+    background-image: url("../img/el_hornero_asia_terraza.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-chorrillosterraza{
+    background-image: url("../img/el_hornero_chorrillos_terraza.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-barrancoterraza{
+    background-image: url("../img/el_hornero_barranco_terraza.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-lamolinaterraza2{
+    background-image: url("../img/el_hornero_lamolina_terraza2.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
 .scale1-1{
     transform: scale(1.1);
 }
@@ -740,6 +767,14 @@ footer .content-mencion{
     margin: 0 auto;
     margin-top: 7px;
 } 
+
+.lineback-all{
+    width: 60px;
+    border-bottom: 3px solid white;
+    /* position: relative; */
+    margin: 0 auto;
+    margin-top: 7px;
+}
 
 .ourhistoryback{
     background-image: url('../img/portada_nuestra_historia.jpg');
