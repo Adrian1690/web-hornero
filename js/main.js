@@ -34,6 +34,25 @@ $(document).ready(function(){
         }
     });
 
+    $("#events-wrapper").tosrus({
+       autoplay   : {
+          play       : false
+       },
+       slides     : {
+          scale      : "fit"
+       },
+       effect : "fade",
+       buttons    : false,
+       pagination : {
+          add     :   true
+          
+       }
+    });
+
+    $('.tos-pagination.tos-bullets a').click(function(){
+        console.log( $(this).parent().parent() )
+    });
+
     $('.container-carousel .owl-carousel .item , .container-propuestas .propuesta').hover(
     	function(){
     		$(this).find('.info-fachada').fadeIn();

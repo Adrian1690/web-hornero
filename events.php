@@ -9,6 +9,7 @@
 
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.css"/>
+	<link rel="stylesheet" href="assets/css/jquery.tosrus.all.css"/>
 	<link rel="stylesheet" href="css/mansory.css"/>
     <link rel="stylesheet" href="css/main.css">
     
@@ -46,8 +47,21 @@
 
 		<div id="events-content" class="row text-center">
         	<div class="col-md-6  padding-right-0 padding-left-0">
-        		<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-historyhornero"></div>
+        		<div class="cont-fachada " style="height:400px;"> 
+        			<!-- <div class="fachada-historyhornero"></div> -->
+        			<div id="events-wrapper" class="example gallery" style="height:100%;">
+						<div class="fullback fachada-lapampa">
+						</div>
+						<div class="fullback fachada-lacupula">
+							
+						</div>
+						<div class="fullback fachada-recuay">
+							
+						</div>
+						<div class="fullback fachada-miguelgrau">
+							
+						</div>
+					</div>
         		</div>
         	</div>
         	<div class="col-md-6 padding-right-0 padding-left-0">
@@ -86,11 +100,6 @@
 
 	</section>
 
-    
-    
-	
-	
-
 	<?php include('footer.php'); ?>
 
 	<script src="assets/js/jquery.min.js"></script>
@@ -98,6 +107,8 @@
 	<script src="assets/js/owl.carousel.min.js"></script>
 	<script src="assets/js/masonry.pkgd.min.js"></script>
 	<script src="assets/js/imagesloaded.pkgd.min.js"></script>
+	<script src="assets/js/jquery.tosrus.all.min.js"></script>
+	<script src="assets/js/hammer.min.js"></script>
 	<script src="js/main.js"></script>
 	<script src="js/initmansory.js"></script>
 </body>
