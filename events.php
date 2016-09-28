@@ -74,7 +74,7 @@
 													    top: 6em;
 													    border-left: 2px solid #8E4239;"></div>
         			<div class="texto-events width-100per  verticalAuto">
-        				<div class="text-center">
+        				<div id="infoevent-0" class="infoevent text-center">
         					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
 	        				<div class="line"></div>
 	        				<br>
@@ -90,7 +90,66 @@
 	        					EL HORNERO CHORRILLOS
 	        				</p>
         				</div>
-						
+						<div id="infoevent-1" class="infoevent text-center" style="display:none">
+        					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
+	        				<div class="line"></div>
+	        				<br>
+	        				<span class="title-all">GRAN SALON <br> "LA CÚPULA"</span>
+	        				<br> <br>
+	        				<p>
+	        					CAPACIDAD : 500 PERS.
+	        				</p>
+	        				<p>
+	        					ATENCION PERSONALIZADA
+	        				</p>
+	        				<p class="sede">
+	        					EL HORNERO BARRANCO
+	        				</p>
+        				</div>
+        				<div id="infoevent-2" class="infoevent text-center" style="display:none">
+        					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
+	        				<div class="line"></div>
+	        				<br>
+	        				<span class="title-all">PRIVADO "RECUAY"</span>
+	        				<br> <br>
+	        				<p>
+	        					CAPACIDAD : 80 PERS.
+	        				</p>
+	        				<p>
+	        					ATENCION PERSONALIZADA
+	        				</p>
+	        				<p>
+	        					AIRE ACONDICIONADO
+	        				</p>
+	        				<p>
+	        					TV HD
+	        				</p>
+	        				<p>
+	        					SSH
+	        				</p>
+	        				<p class="sede">
+	        					EL HORNERO LA MOLINA
+	        				</p>
+        				</div>
+        				<div id="infoevent-3" class="infoevent text-center" style="display:none">
+        					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
+	        				<div class="line"></div>
+	        				<br>
+	        				<span class="title-all">PRIVADO <br> "MIGUEL GRAU"</span>
+	        				<br> <br>
+	        				<p>
+	        					CAPACIDAD : 80 PERS.
+	        				</p>
+	        				<p>
+	        					ATENCION PERSONALIZADA
+	        				</p>
+	        				<p>
+	        					VISTA AL MALECÓN
+	        				</p>
+	        				<p class="sede">
+	        					EL HORNERO CHORRILLOS
+	        				</p>
+        				</div>
 	        		</div>
         		</div>
         		

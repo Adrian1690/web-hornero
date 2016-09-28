@@ -50,7 +50,15 @@ $(document).ready(function(){
     });
 
     $('.tos-pagination.tos-bullets a').click(function(){
-        console.log( $(this).parent().parent() )
+        var father = $( $(this).parent() ).children();
+
+        $.each(father, function(index, value) { 
+            if( $(value).hasClass('tos-selected')) {
+                console.log(index) 
+                $('.infoevent').hide();
+                $('#infoevent-' + index).fadeIn();
+            }
+        });
     });
 
     $('.container-carousel .owl-carousel .item , .container-propuestas .propuesta').hover(
