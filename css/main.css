@@ -485,6 +485,71 @@ footer{
     background-size: cover;
     height: 100%;
 }
+
+.fachada-molinatoro{
+    background-image: url("../img/el_hornero_lamolina_toro.jpg");
+    background-position: center bottom;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-cortecarne{
+    background-image: url("../img/el_hornero_corte_carne.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-molinaangel{
+    background-image: url("../img/el_hornero_lamolina_angel.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-carnicerosal{
+    background-image: url("../img/el_hornero_carnicero_sal.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-molinaangel{
+    background-image: url("../img/el_hornero_lamolina_angel.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-barrilcartas{
+    background-image: url("../img/el_hornero_barril_cartas.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+    width: 103%;
+}
+
+.fachada-molinaescalera{
+    background-image: url("../img/el_hornero_lamolina_escalera.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-carnebodegon{
+    background-image: url("../img/carne_bodegon.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-portadareservas{
+    background-image: url('../img/portada_reservas.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
 .scale1-1{
     transform: scale(1.1);
 }
@@ -654,7 +719,8 @@ footer .content-mencion{
 .fachada-cart3{
     background-image: url("../img/carta_cava_el_tinto.jpg");
     height: 100%;
-    background-position: center 0;
+    background-position: 0 center;
+    background-size: cover;
 }
 
 .fachada-cart4{
@@ -788,6 +854,12 @@ footer .content-mencion{
     background-position: center 80%;
 }
 
+.galleryback{
+    background-image: url('../img/portada_slide_2.jpg');
+    /*background-position: center center;*/
+    background-position: center 0;
+}
+
 .cart{
     background-image: url('../img/carne_vino.jpg');
     /*background-position: center center;*/
@@ -815,6 +887,9 @@ footer .content-mencion{
     opacity: 1;
 }
 
+.no-padding{
+    padding: 0;
+}
 /*
 Pagination tosrus events.php
 

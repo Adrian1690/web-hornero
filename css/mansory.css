@@ -27,9 +27,13 @@ html { overflow-y: scroll; }
   	width: 50%;
 }
 
-.grid-item {
+.grid-item,.grid-sizer {
 	padding:7px;
 	float: left;
+}
+
+.grid-sizer{
+	/*padding: 7px;*/
 }
 
 .grid-item img {
@@ -44,6 +48,13 @@ html { overflow-y: scroll; }
 .grid-item--height2 { height: 240px; }
 .grid-item--height3 { height: 340px; }
 .grid-item--height4 { height: 440px; }
+
+.grid-item--height2g { height: 263px; }
+.grid-item--height4g { height: 540px; }
+
+.grid-item--height3-2g { height: 213px; }
+
+.grid-item--height3g { height: 440px; }
 
 @media only screen  and (max-width: 1200px){ /* lg devicea */
 	
