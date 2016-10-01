@@ -254,7 +254,11 @@
 					</button>
 				</a>
 	        </div>	
-			<img style="margin-top:4em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">
+        </div>	
+        <div class="text-center">
+        	<img style="margin-top:4em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
+        </div>
+		
 
 	</section>
 

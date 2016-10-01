@@ -111,9 +111,6 @@
     	<img style="margin-top:1em;margin-bottom:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
     </div>
     
-	
-	
-
 	<?php include('footer.php'); ?>
 
 	<script src="assets/js/jquery.min.js"></script>
