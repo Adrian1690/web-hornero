@@ -594,7 +594,7 @@ footer .container-info{
     margin-top: 3%;
     background-color: #81291E;
     color:white;
-    padding-top: 3%;
+    padding-top: 5%;
     padding-bottom: 1%;
 }
 
@@ -608,6 +608,10 @@ footer .container-info .derecha{
 
 .linea-bottom-full{
     border-bottom: 2px solid;
+}
+
+.linea-top-full{
+    border-top: 2px solid;
 }
 
 .linea-right{

@@ -90,14 +90,12 @@
 		<div class="col-md-10 col-md-offset-1" style="margin-bottom: 1%;">
 			<div class="row">
 
-				<div class="izquierda col-md-2 col-md-offset-1 text-center">
-					<img style="width: 110px" class="img-responsive" src="img/el_hornero_isotipo.png" alt="iso">
+				<div class="izquierda col-md-2 col-md-offset-1 text-center padding-left-0">
+					<img style="margin-top:-20px;" class="img-responsive" src="img/adorno/logo_el_hornero_vertical.png" alt="iso">
 					<div class="linea-right"></div>
-					<span class="title-logo">EL HORNERO</span> <br>
-					<span class="subtitle-logo">PARRILLADAS</span>	
 				</div>
 				
-				<div class="derecha linea-bottom-full col-md-8">
+				<div class="derecha col-md-8">
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							ASIA
@@ -157,23 +155,24 @@
 							</ul>
 						</div>
 					</div>
+					<div class="row linea-top-full">
+						<div class="derecha col-md-12">
+							<ul class="list-inline">
+								<li class="font-Montserrat-Regular"><a href="">RESERVAS</a></li>
+								<li class="font-Montserrat-Regular"><a href="">EVENTOS</a></li>
+								<li class="font-Montserrat-Regular"><a href="">FACTURACIÓN ELECTRÓNICA</a></li>
+								<li class="font-Montserrat-Regular" style="float:right;">
+									SIGUENOS EN : 
+									<a style="margin: 0 10px 0 9px" href=""><img  style="height: 23px;" src="img/adorno/fb.png" alt=""></a>
+									<a href=""><img  style="height: 23px;" src="img/adorno/youtube.png" alt=""></a>
+								</li>
+							</ul>
+						</div>	
+					</div>
 				</div>		
 			</div>
 			
-			<div class="row">
-				<div class="derecha col-md-8 col-md-offset-3">
-					<ul class="list-inline">
-						<li class="font-Montserrat-Regular"><a href="">RESERVAS</a></li>
-						<li class="font-Montserrat-Regular"><a href="">EVENTOS</a></li>
-						<li class="font-Montserrat-Regular"><a href="">FACTURACIÓN ELECTRÓNICA</a></li>
-						<li class="font-Montserrat-Regular" style="float:right;">
-							SIGUENOS EN : 
-							<a style="margin: 0 10px 0 9px" href=""><img  style="height: 23px;" src="img/adorno/fb.png" alt=""></a>
-							<a href=""><img  style="height: 23px;" src="img/adorno/youtube.png" alt=""></a>
-						</li>
-					</ul>
-				</div>	
-			</div>
+			
 
 		</div>
 		<div class="clearboth"></div>
