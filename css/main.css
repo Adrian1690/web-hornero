@@ -852,7 +852,8 @@ footer .content-mencion{
 .ourhistoryback{
     background-image: url('../img/portada_nuestra_historia.jpg');
     /*background-position: center center;*/
-    background-position: center center;
+    background-position: center bottom 11%;
+    ;
 }
 
 .eventsback{

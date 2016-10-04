@@ -29,7 +29,7 @@
 	</div>
 	-->
 	
-	<section class="backtitle ourhistoryback parallax">
+	<section class="backtitle ourhistoryback">
 		<div class="title">
 			Nuestra Historia
 			<div class="lineback"></div>
