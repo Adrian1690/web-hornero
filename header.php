@@ -10,11 +10,7 @@
 			</button>
 			<div>
 				<a class="navbar-brand" href="#">
-					<img style="width: 60px;float:left;" class="img-responsive" src="img/el_hornero_isotipo.png" alt="iso">
-					<div style="float:left;">
-						<span class="title-logo">EL HORNERO</span> <br>
-						<span class="subtitle-logo" style="padding-left: 24px;">PARRILLADAS</span>	
-					</div>
+					<img style="margin-top: -8px;" class="img-responsive" src="img/adorno/logo_el_hornero.png" alt="iso">
 				</a>	
 			</div>
 			
