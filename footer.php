@@ -155,7 +155,7 @@
 							</ul>
 						</div>
 					</div>
-					<div class="row linea-top-full">
+					<div class="row linea-top-full" style="margin-top:2em;">
 						<div class="derecha col-md-12">
 							<ul class="list-inline">
 								<li class="font-Montserrat-Regular"><a href="">RESERVAS</a></li>
