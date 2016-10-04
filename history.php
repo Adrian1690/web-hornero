@@ -57,7 +57,7 @@
 								emblemático distrito de Chorrillos.
 							</p>
 						</div>		
-						<a href="#">
+						<a href="ourhistory.php">
 							<button class="border-button">
 								Descubre más <br> de nuestra historia	
 							</button>
