@@ -29,7 +29,7 @@
 	</div>
 	-->
 	
-	<section class="backtitle cart parallax">
+	<section class="backtitle cart">
 		<div class="title">
 			LA CARTA
 			<div class="lineback"></div>

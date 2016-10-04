@@ -869,8 +869,8 @@ footer .content-mencion{
 
 .cart{
     background-image: url('../img/carne_vino.jpg');
-    /*background-position: center center;*/
-    background-position: center 600px;
+    background-position: center bottom 45%;
+    /*background-position: center 600px;*/
 }
 
 .notice-cart{
