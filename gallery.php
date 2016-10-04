@@ -43,7 +43,7 @@
 			
 			<div class="grid-item">
 				<div class="cont-fachada grid-item--height4g ">
-					<div class="fachada-molinatoro"></div>	
+					<div class="fachada-all fachada-molinatoro"></div>	
 				</div>
 			</div>
 			<!-- ejemplo -->
@@ -79,12 +79,12 @@
 			</div>
 			<div class="grid-item">
 				<div class="cont-fachada grid-item--height3g ">
-					<div class="fachada-cart3"></div>	
+					<div class="fachada-all fachada-cart3"></div>	
 				</div>	
 			</div>
 			<div class="grid-item width-100per">
 				<div class="cont-fachada grid-item--height3g ">
-					<div class="fachada-barrilcartas"></div>	
+					<div class="fachada-all fachada-barrilcartas"></div>	
 				</div>	
 			</div>
 			<div class="grid-item">
