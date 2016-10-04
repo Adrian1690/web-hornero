@@ -9,7 +9,7 @@
 			  <span class="icon-bar"></span>
 			</button>
 			<div>
-				<a class="navbar-brand" href="index.php">
+				<a class="navbar-brand" href="/">
 					<img style="margin-top: -8px;" class="img-responsive" src="img/adorno/logo_el_hornero.png" alt="iso">
 				</a>	
 			</div>
