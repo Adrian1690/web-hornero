@@ -39,9 +39,9 @@
 
    
     <section id="cart_section" class="contenedor" style="padding-top: 4%;">
-    	<div class="title-all" style="font-size:25px;padding-top:0;">CARNES Y PARRILLAS </div>
-    	<div class="line" style="width: 70px; border-top:1px solid #8E4239;"></div>
-		<br>
+    	<div class="title-all" style="margin-top: 1em;font-size:25px;padding-top:0;">CARNES Y PARRILLAS </div>
+    	<div class="line" style="width: 70px; border-top:2px solid #8E4239;"></div>
+		<br><br>
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
@@ -98,10 +98,10 @@
 			CARTAS EJEMPLO, SUJETAS A CAMBIO
 		</div>
 
+		
+		<div class="title-all" style="margin-top: 4em;font-size:25px;padding-top:0;">CAVA "EL TINTO" </div>
+    	<div class="line" style="width: 70px; border-top:2px solid #8E4239;"></div>
 		<br><br>
-		<div class="title-all" style="font-size:25px;padding-top:0;">CAVA "EL TINTO" </div>
-    	<div class="line" style="width: 70px; border-top:1px solid #8E4239;"></div>
-		<br>
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">

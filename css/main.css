@@ -649,6 +649,12 @@ footer li a:hover{
     cursor: pointer;
 }
 
+a,
+a:hover{
+    text-decoration: none;
+    cursor: pointer;
+}
+
 footer .container-info img{
     margin: 0 auto;
 }

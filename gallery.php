@@ -73,7 +73,7 @@
 				</div>
 				<div class="grid-sizer width-100per" style="">
 					<div class="cont-fachada grid-item--height3-2g ">
-						<div class="fachada-lacupula"></div>	
+						<div class="fachada-all fachada-lacupula"></div>	
 					</div>	
 				</div>
 			</div>
@@ -84,7 +84,7 @@
 			</div>
 			<div class="grid-item width-100per">
 				<div class="cont-fachada grid-item--height3g ">
-					<div class="fachada-all fachada-barrilcartas"></div>	
+					<div class="fachada-barrilcartas"></div>	
 				</div>	
 			</div>
 			<div class="grid-item">
@@ -94,7 +94,7 @@
 			</div>
 			<div class="grid-item">
 				<div class="cont-fachada grid-item--height3-2g ">
-					<div class="fachada-carnebodegon"></div>	
+					<div class="fachada-all fachada-carnebodegon"></div>	
 				</div>	
 			</div>
 
