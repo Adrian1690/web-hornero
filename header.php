@@ -19,7 +19,7 @@
 			<!-- <ul class="nav navbar-nav">
 			</ul> -->
 			<ul class="nav navbar-nav navbar-right">
-				<li class="item-nav active"><a href="history.php">Historia</a></li>
+				<li class="item-nav active"><a href="ourhistory.php">Historia</a></li>
 				<li class="item-nav" ><a href="cart.php">La carta</a></li>
 				<li class="item-nav" ><a href="events.php">Eventos</a></li>
 				<li class="item-nav" ><a href="gallery.php">Galeria</a></li>
