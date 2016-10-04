@@ -141,7 +141,7 @@
     color: #7D7D7D !important;
     padding-top: 6px;
     height: 30px;
-    transition: 1s ease;
+    /*transition: 1s ease;*/
 }
 
 .dropdown-menu li a.active,
