@@ -120,5 +120,8 @@
 	<script src="assets/js/imagesloaded.pkgd.min.js"></script>
 	<script src="js/main.js"></script>
 	<script src="js/initmansory.js"></script>
+	<script type="text/javascript">
+		$('#pagegallery').addClass('active');
+	</script>
 </body>
 </html>

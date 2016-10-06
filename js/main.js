@@ -3,7 +3,7 @@
 
 $(document).ready(function(){
 	/*console.log('Page is readyy');*/
-
+    
     $('.border-button').click(function(){
         $('.border-button').removeClass('active');
         $(this).addClass('active');

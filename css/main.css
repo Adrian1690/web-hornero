@@ -131,7 +131,8 @@
     color: #7D7D7D !important; 
 }
 
-.dropdown-menu li.vineta-header:hover{
+.dropdown-menu li.vineta-header:hover,
+.dropdown-menu li.vineta-header.active{
     background-color: #8E4239 !important;
     color:white !important;
     transition: 1s ease;
@@ -150,6 +151,11 @@
     color:white !important;
 }
 
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus{
+    background-color: #81291E !important;
+    color:white !important;
+    transition: 1s ease;
+}
 
 .navbar-default .navbar-nav > .open > a, 
 .navbar-default .navbar-nav > .open > a:hover, 
@@ -931,8 +937,8 @@ footer .content-mencion{
 .info-history
 {
     color:#777;
-    letter-spacing: 2px;
-    font-family: 'GeoSlab703 Md BT Medium';
+    letter-spacing: 1px;
+    font-family: 'Montserrat-Regular';
     margin: 2em;
 }
 

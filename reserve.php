@@ -174,6 +174,8 @@
 	<script src="js/main.js"></script>
 	<script src="js/events.js"></script>
 	<script src="js/initmansory.js"></script>
-
+	<script type="text/javascript">
+		$('#pagereserve').addClass('active');
+	</script>
 </body>
 </html>

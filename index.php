@@ -92,5 +92,8 @@
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>
 	<script src="js/main.js"></script>
+	<script>
+		$('#onlyfirst').show();
+	</script>
 </body>
 </html>

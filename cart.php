@@ -159,6 +159,9 @@
 		</div>
     </section>
 	
+	<div class="text-center">
+    	<img style="margin-top:1em;margin-bottom:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
+    </div>
 	
 
 	<?php include('footer.php'); ?>
@@ -170,5 +173,8 @@
 	<script src="assets/js/imagesloaded.pkgd.min.js"></script>
 	<script src="js/main.js"></script>
 	<script src="js/initmansory.js"></script>
+	<script type="text/javascript">
+		$('#pagecart').addClass('active');
+	</script>
 </body>
 </html>

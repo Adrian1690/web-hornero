@@ -1,93 +1,94 @@
 <footer>
-	<div class="footer-title" >NUESTROS RESTAURANTES</div>
-	<div class="line" ></div>
-	
-	<div class="container-carousel">
-		<div class="owl-carousel owl-theme">
-			<div class="item">
-				<a href="#">
-					<div class="fachada fachada-asia">
-					</div>
-					<div class="info-fachada" style="display:none;">
-						<span>ASIA</span>
-						<div class="line-footer" ></div>
-						<br>
-						ATENCIÓN TODO EL AÑO
-					</div>
-				</a>
-			</div>
-			<div class="item">
-				<a href="#">
-					<div class="fachada fachada-barranco">
-					</div>
-					<div class="info-fachada" style="display:none;">
-						<span>BARRANCO</span>
-						<div class="line-footer" ></div>
-						<br>
-						ATENCIÓN TODO EL AÑO
-					</div>
-				</a>
-			</div>
-			<div class="item">
-				<a href="#">
-					<div class="fachada fachada-chorrillos">
-					</div>
-					<div class="info-fachada" style="display:none;">
-						<span>CHORRILLOS</span>
-						<div class="line-footer" ></div>
-						<br>
-						ATENCIÓN TODO EL AÑO
-					</div>
-				</a>
-			</div>
-			<div class="item">
-				<a href="#">
-					<div class="fachada fachada-lamolina">
-					</div>
-					<div class="info-fachada" style="display:none;">
-						<span>LA MOLINA</span>
-						<br>
-						<div class="line-footer" ></div>
-						<br>
-						ATENCIÓN TODO EL AÑO
-					</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	<br><br><br>
-	<div class="footer-title" >NUEVAS PROPUESTAS GASTRONÓMICAS</div>
-	<div class="line" ></div>
-	<div class="row container-propuestas">
-		<div class="col-md-10 col-xs-offset-1 col-md-offset-1 ">
-			<div class="row">
-				<div class="col-md-5 col-md-offset-1">
-					<a target="_blank" href="http://sainttropez.com.pe/">
-						<div class="propuesta">
-							<div class="fachada fachada-saintfooter"></div>
-							<div class="info-fachada" style="display:none;padding-top:6em;">
-								<span>SAINT TROPEZ</span>
-								<br>
-								RESTAURANTE
-							</div>	
+	<div id="onlyfirst" style="display: none;">
+		<div class="footer-title" >NUESTROS RESTAURANTES</div>
+		<div class="line" ></div>
+		
+		<div class="container-carousel">
+			<div class="owl-carousel owl-theme">
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-asia">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>ASIA</span>
+							<div class="line-footer" ></div>
+							<br>
+							ATENCIÓN TODO EL AÑO
 						</div>
 					</a>
-					
 				</div>
-				<div class="col-md-5">
-					<div class="propuesta">
-						<div class="fachada fachada-armandolafooter"></div>
-						<div class="info-fachada" style="display:none;padding-top:6em;">
-							<span>ARMÁNDOLA</span>
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-barranco">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>BARRANCO</span>
+							<div class="line-footer" ></div>
 							<br>
-							PRÓXIMAMENTE
+							ATENCIÓN TODO EL AÑO
+						</div>
+					</a>
+				</div>
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-chorrillos">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>CHORRILLOS</span>
+							<div class="line-footer" ></div>
+							<br>
+							ATENCIÓN TODO EL AÑO
+						</div>
+					</a>
+				</div>
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-lamolina">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>LA MOLINA</span>
+							<br>
+							<div class="line-footer" ></div>
+							<br>
+							ATENCIÓN TODO EL AÑO
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+		<br><br><br>
+		<div class="footer-title" >NUEVAS PROPUESTAS GASTRONÓMICAS</div>
+		<div class="line" ></div>
+		<div class="row container-propuestas">
+			<div class="col-md-10 col-xs-offset-1 col-md-offset-1 ">
+				<div class="row">
+					<div class="col-md-5 col-md-offset-1">
+						<a target="_blank" href="http://sainttropez.com.pe/">
+							<div class="propuesta">
+								<div class="fachada fachada-saintfooter"></div>
+								<div class="info-fachada" style="display:none;padding-top:6em;">
+									<span>SAINT TROPEZ</span>
+									<br>
+									RESTAURANTE
+								</div>	
+							</div>
+						</a>
+						
+					</div>
+					<div class="col-md-5">
+						<div class="propuesta">
+							<div class="fachada fachada-armandolafooter"></div>
+							<div class="info-fachada" style="display:none;padding-top:6em;">
+								<span>ARMÁNDOLA</span>
+								<br>
+								PRÓXIMAMENTE
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-
 	<div class="row container-info" style="margin-right: 0px;margin-left: 0px;">
 		<div class="col-md-10 col-md-offset-1" style="margin-bottom: 1%;">
 			<div class="row">
