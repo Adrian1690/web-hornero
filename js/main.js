@@ -4,6 +4,12 @@
 $(document).ready(function(){
 	/*console.log('Page is readyy');*/
     
+    /*$('#nav_drop').hover(function(){
+
+        $(this).find('.dropdown-toggle').css('color', '#7D7D7D !important');
+        console.log($(this).find('.dropdown-toggle') );
+    });*/
+
     $('.border-button').click(function(){
         $('.border-button').removeClass('active');
         $(this).addClass('active');

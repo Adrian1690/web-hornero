@@ -24,9 +24,9 @@
 				<li id="pageevents" class="item-nav" ><a href="events.php">Eventos</a></li>
 				<li id="pagegallery" class="item-nav" ><a href="gallery.php">Galeria</a></li>
 				<li id="pagereserve" class="item-nav margin-right-10em" ><a href="reserve.php">Reservas</a></li>
-				<li class="dropdown dropdown-nav">
+				<li id="nav_drop" class="dropdown dropdown-nav">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-						Seleccione su Restaurante. 
+						Seleccione su Restaurante
 						<span class="caret"></span>
 					</a>
 

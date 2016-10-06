@@ -118,7 +118,7 @@
 		</div>
 
 		<div class="text-center">
-        	<img style="margin-top:1em;margin-bottom:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
+        	<img style="margin-top:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
         </div>
 
 		
