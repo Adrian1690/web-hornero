@@ -30,9 +30,9 @@
 	</div>
 	-->
 	
-	<section class="backtitle asiaback">
+	<section class="backtitle barrancoback">
 		<div class="title">
-			ASIA
+			BARRANCO
 			<div class="lineback"></div>
 		</div>
 		
@@ -41,7 +41,10 @@
    
     <section id="asia_section" class="contenedor">
     	<div class="title-all" style="padding-top:0;">
-			"BRINDAMOS ATENCIÓN <br> TODO EL AÑO
+			
+			“CON PERFECTOS CORTES SIMÉTRICOS Y UN
+			<br>
+			AROMA REDONDO DE CARNES Y VINOS”
 			<br><br>
 			<a id="fa" href="#fa"><div class="flechaabajo"></div></a>
 		</div>
@@ -62,12 +65,12 @@
         		<div class="cont-fachada " style="height:400px;"> 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
-						<div class="fullback fachada-asiabar">
+						<div class="fullback fachada-lacupula">
 						</div>
-						<div class="fullback fachada-asiasalon2">
+						<div class="fullback fachada-barrancolavista">
 							
 						</div>
-						<div class="fullback fachada-asiaterraza">
+						<div class="fullback fachada-barrancoterraza">
 						</div>
 					</div>
 
@@ -90,23 +93,20 @@
         				
         				<div id="infoevent-0" class="infoevent text-center">
         					
-        					<a href="tef:01 530 7305">
+        					<a href="tef:01 247 4646">
 	        					<div class="button-local">
 				        			
-										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 530 7305
+										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 247 4646
 									
 	        					</div>
         					</a>				
 							<br>
 	        				<div class="locals-middletext">
 		        				<ul class="list-locals">
-		        					<li class="vineta-tel-locals"><p>Panamericana Sur Km. 97.50, Boulevard de Asia</p></li>
+		        					<li class="vineta-tel-locals"><p>Av. Paseo de la República 6500, Barranco</p></li>
 		        					<li class="vineta-ubi-locals redtext" style="margin-bottom: 10px;">HORARIO DE ATENCIÓN:</li>
-		        					<li class="list-style-none redtext">Temporada Alta (Dic. - Mar.)</li>
-		        					<li class="list-style-none ">L - S de 12:00 p.m. a 02:00 a.m.</li>
-		        					<li class="list-style-none ">D de 12:00 p.m. a 00:00 a.m.</li>
-		        					<li class="list-style-none redtext">Fuera de Temporada (Abr. - Nov.)</li>
-		        					<li class="list-style-none ">L - S de 12:00 p.m. a 10:00 p.m.</li>
+		        					
+		        					<li class="list-style-none ">L - S de 12:00 p.m. a 00:00 a.m.</li>
 		        					<li class="list-style-none ">D de 12:00 p.m. a 06:00 p.m.</li>
 		        				</ul>
 		        			</div>
@@ -116,13 +116,16 @@
         		
         	</div>
 		</div>
+
+		<div class="text-center">
+        	<img style="margin-top:4em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
+        </div>
+
+		
     </section>
 	
 	
-	<div class="text-center">
-        	<img style="margin-top:4em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
-    </div>
-    
+
 	<?php include('footer.php'); ?>
 
 	<script src="assets/js/jquery.min.js"></script>

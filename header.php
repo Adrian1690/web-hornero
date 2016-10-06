@@ -31,10 +31,10 @@
 					</a>
 
 					<ul class="dropdown-menu">
-						<li class="vineta-header" ><a class="" href="#">ASIA</a></li>
-						<li class="vineta-header" ><a class="" href="#">CHORRILLOS</a></li>
-						<li class="vineta-header" ><a class="" href="#">BARRANCO</a></li>
-						<li class="vineta-header" ><a class="" href="#">LA MOLINA</a></li>
+						<li class="vineta-header" ><a class="" href="asia.php">ASIA</a></li>
+						<li class="vineta-header" ><a class="" href="chorrillos.php">CHORRILLOS</a></li>
+						<li class="vineta-header" ><a class="" href="barranco.php">BARRANCO</a></li>
+						<li class="vineta-header" ><a class="" href="lamolina.php">LA MOLINA</a></li>
 						<li class="vineta-header" ><a class="" href="#">SAN ISIDRO</a></li>
 					</ul>
 				</li>

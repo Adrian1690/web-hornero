@@ -561,6 +561,104 @@ footer{
     height: 100%;
 }
 
+.fachada-asiabar{
+    background-image: url("../img/el_hornero_asia_bar.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-asiasalon2{
+    background-image: url("../img/el_hornero_asia_salon2.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-chorrillos1erpiso{
+    background-image: url("../img/el_hornero_chorrillos_1erpiso.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-chorrillos1erpiso{
+    background-image: url("../img/el_hornero_chorrillos_1erpiso.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-chorrillos2dopiso{
+    background-image: url("../img/el_hornero_chorrillos_2dopiso.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-chorrillosterraza{
+    background-image: url("../img/el_hornero_chorrillos_2dopiso-2.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-chorrilloprivado2{
+    background-image: url("../img/el_hornero_chorrillos_privadop2.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-chorrilloprivado3{
+    background-image: url("../img/el_hornero_chorrillos_privadop3.jpg");
+    background-position: center bottom 100px;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-barrancolavista{
+    background-image: url("../img/el_hornero_barranco_lavista2.jpg");
+    background-position: center bottom 100px;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-lamolina1erpiso{
+    background-image: url("../img/el_hornero_lamolina_1erpiso.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-lamolina2dopiso{
+    background-image: url("../img/el_hornero_lamolina_2dopiso.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-lamolinacavaeltinto{
+    background-image: url("../img/el_hornero_lamolina_cava_eltinto.jpg");
+    background-position: center top;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-lamolinalareja{
+    background-image: url("../img/el_hornero_lamolina_lareja.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-lamolinaelangel{
+    background-image: url("../img/el_hornero_lamolina_privadop1.jpg");
+    background-position: center bottom;
+    background-size: cover;
+    height: 100%;
+}
+
 .scale1-1{
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
@@ -969,6 +1067,20 @@ footer .content-mencion{
     background-image: url("../img/fachada_chorrillos.jpg");
     /*background-position: center center;*/
     background-position: center bottom 50%;
+    background-size: cover;
+}
+
+.lamolinaback{
+    background-image: url("../img/fachada_lamolina.jpg");
+    /*background-position: center center;*/
+    background-position: center bottom -35%;
+    background-size: cover;
+}
+
+.barrancoback{
+    background-image: url("../img/fachada_barranco.jpg");
+    /*background-position: center center;*/
+    background-position: center bottom 38%;
     background-size: cover;
 }
 

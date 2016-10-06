@@ -30,21 +30,19 @@
 	</div>
 	-->
 	
-	<section class="backtitle chorrillosback">
+	<section class="backtitle lamolinaback">
 		<div class="title">
-			CHORRILLOS
+			LA MOLINA
 			<div class="lineback"></div>
 		</div>
-		
 	</section>
 
    
     <section id="asia_section" class="contenedor">
     	<div class="title-all" style="padding-top:0;">
-			
-			“PARA DISFRUTAR DE UN BUEN CORTE DE
+			“PARA LOS AMANTES DE LA CARNE QUE PREFIEREN
 			<br>
-			CARNE FRENTE AL MAR DE GRAU”
+			UN VASTO LUGAR PARA DISFRUTARLA”
 			<br><br>
 			<a id="fa" href="#fa"><div class="flechaabajo"></div></a>
 		</div>
@@ -65,12 +63,12 @@
         		<div class="cont-fachada " style="height:400px;"> 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
-						<div class="fullback fachada-chorrillos1erpiso">
+						<div class="fullback fachada-lamolina1erpiso">
 						</div>
-						<div class="fullback fachada-chorrillos2dopiso">
+						<div class="fullback fachada-lamolina2dopiso">
 							
 						</div>
-						<div class="fullback fachada-chorrillosterraza">
+						<div class="fullback fachada-lamolinacavaeltinto">
 						</div>
 					</div>
 
@@ -103,11 +101,11 @@
 							<br>
 	        				<div class="locals-middletext">
 		        				<ul class="list-locals">
-		        					<li class="vineta-tel-locals"><p>Malecón Grau 983, Chorrillos</p></li>
+		        					<li class="vineta-tel-locals"><p>Av. Circunvalación del Golf 408, Camacho - La Molina</p></li>
 		        					<li class="vineta-ubi-locals redtext" style="margin-bottom: 10px;">HORARIO DE ATENCIÓN:</li>
 		        					
-		        					<li class="list-style-none ">L - S de 12:00 p.m. a 00:00 a.m.</li>
-		        					<li class="list-style-none ">D de 12:00 p.m. a 10:30 p.m.</li>
+		        					<li class="list-style-none ">L - S de 11:30 a.m. a 00:00 a.m.</li>
+		        					<li class="list-style-none ">D de 11:30 a.m. a 10:30 p.m.</li>
 		        				</ul>
 		        			</div>
         				</div>
@@ -127,16 +125,19 @@
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
 				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-lapampa"></div>
+        			<div class="fachada-all fachada-recuay"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
 				<div class="width-100per" style="min-height:400px;">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">GRAN SALÓN <br> "LA PAMPA"</div>
-						<p class="plocalsaforo">CAPACIDAD: 180 PERS.</p>
+						<div class="title-all">PRIVADO <br> "RECUAY"</div>
+						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
+						<p class="plocals" style="margin-top:0px;">TV HD</p>
+						<p class="plocals" style="margin-top:0px;">SSHH</p>
 					</div>
 				</div>
 			</div>
@@ -146,8 +147,8 @@
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
 				<div class="width-100per" style="min-height:400px;">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "LA YEGUA"</div>
-						<p class="plocalsaforo">CAPACIDAD: 28 PERS.</p>
+						<div class="title-all">PRIVADO <br> "LA REJA"</div>
+						<p class="plocalsaforo">CAPACIDAD: 20 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
 						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
@@ -156,7 +157,7 @@
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0">
 				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-chorrilloprivado2"></div>
+        			<div class="fachada-all fachada-lamolinalareja"></div>
         		</div>
 			</div>
 		</div>
@@ -164,16 +165,17 @@
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
 				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-chorrilloprivado3"></div>
+        			<div class="fachada-all fachada-lamolinaelangel"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
 				<div class="width-100per" style="min-height:400px;">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "EL CHALAN"</div>
+						<div class="title-all">PRIVADO <br> "EL ANGEL"</div>
 						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
 					</div>
 				</div>
 			</div>
@@ -183,11 +185,11 @@
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left border-bottom">
 				<div class="width-100per" style="min-height:400px;">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "MIGUEL GRAU"</div>
-						<p class="plocalsaforo">CAPACIDAD: 8 PERS.</p>
+						<div class="title-all">PRIVADO <br> "CUERO DE VACA"</div>
+						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
-						<p class="plocals" style="margin-top:0px;">VISTA AL MALECÓN DE CHORRILLOS</p>
+						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
 					</div>
 				</div>
     		</div>
@@ -198,7 +200,25 @@
         		</div>
 			</div>
 		</div>
-
+		
+		<div class="row">
+			<div class="col-md-6 padding-left-0 padding-right-0">
+				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-chorrilloprivado3"></div>
+        		</div>
+			</div>
+			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
+				<div class="width-100per" style="min-height:400px;">
+        			<div class="verticalAuto text-center width-100per">
+						<div class="title-all">PRIVADO <br> "CUERO DE VACA 2"</div>
+						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>
+						<div class="lineback-locals"></div>
+						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
+					</div>
+				</div>
+			</div>
+		</div>
     </section>
 	
 	<div class="text-center">
