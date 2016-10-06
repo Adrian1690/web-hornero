@@ -201,7 +201,7 @@ footer{
 .flechaabajo{
     background-image: url(../img/adorno/flecha_abajo.png);
     width: 30px;
-    height: 30px;
+    height: 32px;
     margin: 0 auto;
     transition: .5s ease all;
 }
@@ -313,6 +313,17 @@ footer{
     margin: 0 auto;
     text-align: justify;
     text-align-last: center;
+}
+
+.locals-middletext{
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    /*text-align-last: center;*/
+}
+
+.list-style-none{
+    list-style: none;
 }
 
 .fachada{
@@ -642,6 +653,14 @@ footer .container-info .derecha ul li.vineta-ubi{
     list-style-image: url('../img/adorno/gps_foot.png');
 }
 
+.vineta-tel-locals{
+    list-style-image: url('../img/adorno/gps_locales.png');   
+}
+
+.vineta-ubi-locals{
+    list-style-image: url('../img/adorno/icon_reloj_locales.png');   
+}
+
 footer li a,
 footer li a:hover{
     text-decoration: none;
@@ -685,6 +704,36 @@ footer .content-mencion{
     font-family: 'GeoSlab703 Md BT Bold';
 }
 
+
+.button-local{
+    border: 2px solid #8E4239;
+    color: #8E4239 !important;
+    background-color: white;
+    font-family: 'GeoSlab703 Md BT Medium';
+    padding: 8px 20px 8px 20px;
+    text-transform: uppercase;
+    transition: .5s ease all;
+    margin: 0 auto;
+    font-size: 27px;
+    width: 227px;
+}
+
+.button-local:hover,
+.button-local.active{
+    color: white !important;
+    /*border-color: white;*/
+    background-color: #8E4239;
+}
+
+.button-local a{
+    color:#8E4239;
+    text-decoration: none;
+}
+.button-local a:hover{
+    color: white;
+    text-decoration: none;
+}
+
 .border-button{
     border: 2px solid #8E4239;
     color: #8E4239;
@@ -695,10 +744,18 @@ footer .content-mencion{
     transition: .5s ease all;
 }
 
-.border-button:hover {
+.border-button:hover,
+.border-button.active{
     color: white;
-    border-color: white;
+    /*border-color: white;*/
     background-color: #8E4239;
+}
+
+.border-button:focus{
+    outline: -webkit-focus-ring-color auto 5px;
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+    outline-width: 0px;
 }
 
 #index_section{
@@ -781,19 +838,45 @@ footer .content-mencion{
     margin: 2em;
 }
 
-
-#events_section .texto-events p{
+.plocalsaforo{
     font-family: 'GeoSlab703 Md BT Bold';
+    color: #3C3C3C;
+    font-size: 14px;
+    margin-top: 15px;
+}
+.plocals{
+    font-family: 'Montserrat-Light';
+    /* #6A6A6A */
+    color: #6A6A6A;
+    font-size: 12px;
+    margin-top: 17px;
+}
+
+#events_section .texto-events p,
+#asia_section .texto-events p{
+    font-family: 'Montserrat-Regular';
     /* #6A6A6A */
     color: #6A6A6A;
     font-size: 13px;
 }
 
-#events_section .texto-events p.sede{
+#events_section .texto-events p.sede,
+#asia_section .texto-events p.sede{
     font-family: 'Montserrat-Regular';
     /* #6A6A6A */
     color: #909090;
     font-size: 11px;
+}
+
+#asia_section .texto-events li.redtext{
+    font-family: 'Montserrat-Regular';
+    color: #8E4239;
+}
+
+#asia_section .texto-events li{
+    font-family: 'Montserrat-Regular';
+    color: #6A6A6A;
+    font-size: 13px;
 }
 
 .padding-left-0{
@@ -855,6 +938,14 @@ footer .content-mencion{
     margin-top: 7px;
 }
 
+.lineback-locals{
+    width: 60px;
+    border-bottom: 1px solid black;
+    /* position: relative; */
+    margin: 0 auto;
+    margin-top: 7px;
+}
+
 .ourhistoryback{
     background-image: url('../img/portada_nuestra_historia.jpg');
     /*background-position: center center;*/
@@ -866,6 +957,19 @@ footer .content-mencion{
     background-image: url('../img/portada_reservas.jpg');
     /*background-position: center center;*/
     background-position: center 80%;
+}
+
+.asiaback{
+    background-image: url("../img/fachada_asia.jpg");
+    /*background-position: center center;*/
+    background-position: center bottom -12%;
+    background-size: cover;
+}
+.chorrillosback{
+    background-image: url("../img/fachada_chorrillos.jpg");
+    /*background-position: center center;*/
+    background-position: center bottom 50%;
+    background-size: cover;
 }
 
 .galleryback{
@@ -898,7 +1002,7 @@ footer .content-mencion{
 }
 
 .tos-pagination{
-    opacity: 1;
+    /*opacity: 1;*/
 }
 
 .no-padding{
@@ -941,6 +1045,20 @@ footer .content-mencion{
     color: #6A6A6A;
     font-size: 12px;
 }
+
+.border-top{
+    border-top: 2px solid #8E4239;
+}
+.border-right{
+    border-right: 2px solid #8E4239;
+}
+.border-bottom{
+    border-bottom: 2px solid #8E4239;
+} 
+.border-left{
+    border-left: 2px solid #8E4239;
+}
+
 /*
 Pagination tosrus events.php
 
