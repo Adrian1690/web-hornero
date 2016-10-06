@@ -182,7 +182,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-6 padding-left-0 padding-right-0 border-left border-bottom">
+			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
 				<div class="width-100per" style="min-height:400px;">
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "CUERO DE VACA"</div>
@@ -207,7 +207,7 @@
         			<div class="fachada-all fachada-chorrilloprivado3"></div>
         		</div>
 			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
+			<div class="col-md-6 padding-left-0 padding-right-0 border-right border-bottom">
 				<div class="width-100per" style="min-height:400px;">
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "CUERO DE VACA 2"</div>
