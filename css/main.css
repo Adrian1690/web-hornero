@@ -98,7 +98,9 @@
 	color: #77251B !important;
 	font-weight: bold;
 	transition: 1s ease all;
-	cursor: pointer;
+    -webkit-transition: 1s ease all;
+    -o-transition: 1s ease all;
+    cursor: pointer;
 }
 
 .dropdown-nav{
