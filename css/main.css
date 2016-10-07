@@ -397,8 +397,8 @@ footer{
 
 .fachada-nh2{
     background-image: url(../img/portada_slide_1.jpg);
-    background-position: 451px center;
-    background-size: 148%;
+    background-position: center center;
+    background-size: cover;
     height: 100%;
 }
 
