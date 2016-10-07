@@ -1060,7 +1060,7 @@ footer .content-mencion{
     background-image: url('../img/portada_nuestra_historia.jpg');
     /*background-position: center center;*/
     background-position: center bottom 11%;
-    background-position: cover;
+    background-size: cover;
 }
 
 .eventsback{
