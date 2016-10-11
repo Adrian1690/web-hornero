@@ -17,18 +17,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="item">
-					<a href="#">
-						<div class="fachada fachada-barranco">
-						</div>
-						<div class="info-fachada" style="display:none;">
-							<span>BARRANCO</span>
-							<div class="line-footer" ></div>
-							<br>
-							ATENCIÓN TODO EL AÑO
-						</div>
-					</a>
-				</div>
+				
 				<div class="item">
 					<a href="#">
 						<div class="fachada fachada-chorrillos">
@@ -37,7 +26,19 @@
 							<span>CHORRILLOS</span>
 							<div class="line-footer" ></div>
 							<br>
-							ATENCIÓN TODO EL AÑO
+							EL MALECON
+						</div>
+					</a>
+				</div>
+				<div class="item">
+					<a href="#">
+						<div class="fachada fachada-barranco">
+						</div>
+						<div class="info-fachada" style="display:none;">
+							<span>BARRANCO</span>
+							<div class="line-footer" ></div>
+							<br>
+							LA ROTONDA
 						</div>
 					</a>
 				</div>
@@ -50,7 +51,7 @@
 							<br>
 							<div class="line-footer" ></div>
 							<br>
-							ATENCIÓN TODO EL AÑO
+							LA CAZONA
 						</div>
 					</a>
 				</div>
