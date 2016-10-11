@@ -155,7 +155,7 @@
 				<div class="cont-fachada grid-item--height3 ">
 					<div class="fachada-mensajeblank">
 						<div class="verticalAuto text-center width-100per">
-							<span class="backtitle redtext"> "UN CLIENTE BIEN <br> ATENDIDO Y BIEN SERVIDO <br> SIEMPRE VA A HABLAR BIEN <br> DEL RESTAURANTE" </span>
+							<span class="backtitle redtext" style="font-size: 25px;"> "UN CLIENTE BIEN <br> ATENDIDO Y BIEN SERVIDO <br> SIEMPRE VA A HABLAR BIEN <br> DEL RESTAURANTE" </span>
 							<br>
 							<div style="padding-top: 10px;">
 								<span class="backtitle sumtext">ARMANDO TAFUR</span>
