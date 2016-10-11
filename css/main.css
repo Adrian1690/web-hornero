@@ -1028,6 +1028,7 @@ footer .content-mencion{
     font-family: 'GeoSlab703 Md BT Medium';
     font-size: 30px;
     text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .redtext{
