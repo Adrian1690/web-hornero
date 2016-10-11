@@ -205,6 +205,13 @@ footer{
     border-top: 2px solid #8E4239;
 }
 
+.lineHistory{
+    margin: 0 auto;
+    width: 70px;
+    margin-top: 7px;
+    border-top: 1px solid #484848;
+}
+
 .container-carousel{
     margin: 3% auto 0;
     max-width: 985px;
@@ -380,6 +387,12 @@ footer{
     height: 100%;
 }
 
+.fachada-mensajeblank{
+    background-image: url("../img/adorno/cartas_mensaje_blank.png");
+    background-position: center center;
+    background-size: 100% 100%;
+    height: 100%;
+}
 
 .fachada-mensaje2{
     background-image: url("../img/adorno/nuestra_historia_mensaje2.png");
@@ -1015,6 +1028,16 @@ footer .content-mencion{
     font-family: 'GeoSlab703 Md BT Medium';
     font-size: 30px;
     text-transform: uppercase;
+}
+
+.redtext{
+    color : #8E4239;
+}
+
+.sumtext{
+    font-size: 16px;
+    color: #484848;
+    letter-spacing: 1px;
 }
 
 .backtitle .title{

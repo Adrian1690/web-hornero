@@ -67,7 +67,12 @@
 			</div>
 			<div class="grid-item">
 				<div class="cont-fachada grid-item--height2 ">
-					<div class="fachada-nh1"></div>	
+					<div class="fachada-mensajeblank">
+						<div class="verticalAuto text-center width-100per">
+							<span class="backtitle redtext"> "El PRIMER HORNERO <br> EN CHORRILLOS"</span>
+							<div class="lineHistory"></div>
+						</div>
+					</div>	
 				</div>	
 			</div>
 			<div class="grid-item">
@@ -105,7 +110,16 @@
 			</div>
 			<div class="grid-item">
 				<div class="cont-fachada grid-item--height3 ">
-					<div class="fachada-mensaje2"></div>	
+					<div class="fachada-mensajeblank">
+						<div class="verticalAuto text-center width-100per">
+							<span class="backtitle redtext"> "LOS MEJORES CORTES <br> DE CARNE AMERICANA" </span>
+							<br>
+							<div style="padding-top: 10px;">
+								<span class="backtitle sumtext">CERTIFIED ANGUS BEEF</span>
+							</div>
+							<div class="lineHistory"></div>
+						</div>
+					</div>
 				</div>	
 			</div>
 
@@ -139,7 +153,16 @@
 			</div>
 			<div class="grid-item">
 				<div class="cont-fachada grid-item--height3 ">
-					<div class="fachada-mensaje3"></div>	
+					<div class="fachada-mensajeblank">
+						<div class="verticalAuto text-center width-100per">
+							<span class="backtitle redtext"> "UN CLIENTE BIEN <br> ATENDIDO Y BIEN SERVIDO <br> SIEMPRE VA A HABLAR BIEN <br> DEL RESTAURANTE" </span>
+							<br>
+							<div style="padding-top: 10px;">
+								<span class="backtitle sumtext">ARMANDO TAFUR</span>
+							</div>	
+							<div class="lineHistory"></div>
+						</div>
+					</div>
 				</div>	
 			</div>
 			<div class="grid-item">
