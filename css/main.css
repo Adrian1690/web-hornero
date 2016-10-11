@@ -886,6 +886,8 @@ footer .content-mencion{
 #index_section{
     transition: 1.5s ease all;
     background-image: url(../img/portada_slide_1.jpg);
+    background-size: cover;
+    background-position: center top;
 }
 
 .cont-fachada{
@@ -1208,6 +1210,30 @@ footer .content-mencion{
 } 
 .border-left{
     border-left: 2px solid #8E4239;
+}
+
+.fb-icon{
+    background-image: url('../img/adorno/fb.png');
+    height: 23px;
+    width: 23px;
+    background-size: 100% 100%;
+    float: left;
+}
+
+.fb-icon:hover{
+    background-image: url('../img/adorno/fb.png');
+}
+
+.yt-icon{
+    background-image: url('../img/adorno/youtube.png');
+    height: 23px;
+    width: 23px;
+    background-size: 100% 100%;
+    float: left;
+}
+
+.yt-icon:hover{
+    background-image: url('../img/adorno/youtube.png');
 }
 
 /*

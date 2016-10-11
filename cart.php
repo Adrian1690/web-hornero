@@ -150,7 +150,7 @@
 
 			<div class="col-md-6 padding-left-0 padding-right-0" style="">
 				<div class="cont-fachada " style="min-height:250px;"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-cart4"></div>
+        			<div class="fachada-cart4"></div>
         		</div>
 			</div>
 		</div>

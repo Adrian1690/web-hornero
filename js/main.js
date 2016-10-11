@@ -1,6 +1,5 @@
 'use strict';
 
-
 $(document).ready(function(){
 	/*console.log('Page is readyy');*/
     
@@ -69,6 +68,17 @@ $(document).ready(function(){
         }
     );
 
+});
+
+var linkInterno = $('a[href^="#"]');
+linkInterno.on('click', function (e) {
+
+    
+    //console.log('cleck');
+    var href = $(this).attr('href');
+    console.log($(href).offset().top);
+    $('html, body').animate({scrollTop: 0}, 'slow');
+    return false;
 });
 
 

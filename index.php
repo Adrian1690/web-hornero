@@ -29,7 +29,7 @@
 	-->
 
 
-	<section id="index_section" class="fullscreen background parallax"
+	<section id="index_section" class="fullscreen parallax"
              data-img-width="1400" data-img-height="767"
              data-diff="100" style="display:block;">
         <div class="content-a">

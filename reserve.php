@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.css"/>
 	<link rel="stylesheet" href="assets/css/jquery.tosrus.all.css"/>
+	<link rel="stylesheet" href="assets/css/animate.css"/>
 	<link rel="stylesheet" href="css/mansory.css"/>
     <link rel="stylesheet" href="css/main.css">
     
@@ -41,7 +42,7 @@
 		<div class="title-all" style="padding-top:0;">
 			“RESERVE Y DISFRUTE DE LOS MEJORES <br> CORTES DE CARNE AMERICANA”
 			<br><br>
-			<a id="fa" href="#fa"><div class="flechaabajo"></div></a>
+			<a href="#reserve-content"><div class="flechaabajo"></div></a>
 		</div>
 		<br><br>
 
