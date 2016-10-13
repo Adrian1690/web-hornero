@@ -74,7 +74,7 @@
 						</div>
 					</div>
 
-					<div id="locals-map" class="example gallery" style="height:100%;display: none;">
+					<div id="locals-map" class="example gallery" style="height:100%;display: block;">
 						<!-- <div class="fullback fachada-recuay">
 						</div> -->
 						<div id="map" style="height: 100%;"></div>
@@ -222,25 +222,12 @@
 	<script type="text/javascript">
 		$('#pagebarranco').addClass('active');
 
-		function initMap() {
-
-		    var map = new google.maps.Map(document.getElementById('map'), {
-		        /*scrollwheel: false,*/
-		        zoom: 12,
-		        center: {lat: -14.0065605, lng: -75.764739}
-		    });
-
-		    var image = 'img/flechitas.png';
-
-
-		    var beachMarker = new google.maps.Marker({
-		        position: {lat: -14.008138, lng: -75.765415},
-		        map: map
-		        
-		    });
-		}
+		var positionMap = { 
+			lat: -12.1351315,
+			lng: -77.0197867
+		};
 	</script>
-
+	<script src="js/initmap.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDXYDFBbB2nDDXaaEozBzETYILuz7jeESo&callback=initMap"
 	async defer>
 	</script>

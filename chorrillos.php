@@ -74,9 +74,8 @@
 						</div>
 					</div>
 
-					<div id="locals-map" class="example gallery" style="height:100%;display: none;">
-						<div class="fullback fachada-recuay">
-						</div>
+					<div id="locals-map" class="example gallery" style="height:100%;display: block;">
+						<div id="map" style="height: 100%;"></div>
 					</div>
         		</div>
         	</div>
@@ -219,6 +218,16 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pagechorrillos').addClass('active');
+
+		var positionMap = { 
+			lat: -12.1672804,
+			lng: -77.0283319
+		};
+	</script>
+
+	<script src="js/initmap.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDXYDFBbB2nDDXaaEozBzETYILuz7jeESo&callback=initMap"
+	async defer>
 	</script>
 </body>
 </html>
