@@ -63,12 +63,15 @@
         		<div class="cont-fachada " style="height:400px;"> 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
+
 						<div class="fullback fachada-lamolina1erpiso">
+							<span class="namelocal">SALÓN - 1ER PISO</span>
 						</div>
 						<div class="fullback fachada-lamolina2dopiso">
-							
+							<span class="namelocal">SALÓN - 2DO PISO</span>
 						</div>
 						<div class="fullback fachada-lamolinacavaeltinto">
+							<span class="namelocal">CAVA “EL TINTO”</span>
 						</div>
 					</div>
 

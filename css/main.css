@@ -667,7 +667,7 @@ footer{
 
 .fachada-barrancolavista{
     background-image: url("../img/el_hornero_barranco_lavista2.jpg");
-    background-position: center bottom 100px;
+    background-position: center bottom;
     background-size: cover;
     height: 100%;
 }
@@ -1176,8 +1176,26 @@ footer .content-mencion{
     min-height: 500px;
 }
 
+.tos-wrapper.tos-has-bullets .tos-pagination{
+    height: 56px;
+}
+
+.namelocal{
+    color: white;
+    position: absolute;
+    bottom: 19px;
+    left: 11%;
+    z-index: 2;
+    font-family: 'Montserrat-Light';
+    letter-spacing: .5px;
+}
+
 .tos-pagination{
-    /*opacity: 1;*/
+    opacity: 1;
+    padding-top: 20px;
+    padding-right: 1%;
+    background: rgba(0, 0, 0, .6);
+    text-align: right;
 }
 
 .no-padding{
@@ -1258,26 +1276,34 @@ footer .content-mencion{
     background-image: url('../img/adorno/youtube.png');
 }
 
-/*
-Pagination tosrus events.php
+
+/*Pagination tosrus events.php*/
 
 
 .tos-pagination.tos-bullets a,
 .tos-pagination.tos-bullets a:hover{
     background-image: url('../img/adorno/icon_slider_circle.png');
     background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-size: 60%;
+    background-position: center center;
 }
 
 .tos-pagination.tos-bullets a.tos-selected{
     background-image: url('../img/adorno/icon_slider_ornament.png');
     background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
 }
 
 .tos-wrapper.tos-has-bullets .tos-pagination a{
-    width: 10px;
+    width: 20px;
     height: 20px;
+    padding: 0;
 }
-*/
+
 
 @media only screen and (min-width: 768px) {
   	.item-nav{

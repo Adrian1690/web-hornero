@@ -66,11 +66,13 @@
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
 						<div class="fullback fachada-chorrillos1erpiso">
+							<span class="namelocal">COMEDOR “LOS ARCOS”</span>
 						</div>
 						<div class="fullback fachada-chorrillos2dopiso">
-							
+							<span class="namelocal">EL SALÓN - 2DO PISO”</span>
 						</div>
 						<div class="fullback fachada-chorrillosterraza">
+							<span class="namelocal">LA TERRAZA”</span>
 						</div>
 					</div>
 

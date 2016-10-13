@@ -63,11 +63,13 @@
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
 						<div class="fullback fachada-asiabar">
+							<span class="namelocal">EL BAR</span>
 						</div>
 						<div class="fullback fachada-asiasalon2">
-							
+							<span class="namelocal">EL SALON</span>
 						</div>
 						<div class="fullback fachada-asiaterraza">
+							<span class="namelocal">LA TERRAZA</span>
 						</div>
 					</div>
 

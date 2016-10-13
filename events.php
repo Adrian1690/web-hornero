@@ -13,6 +13,16 @@
 	<link rel="stylesheet" href="css/mansory.css"/>
     <link rel="stylesheet" href="css/main.css">
     
+    <style>
+    	.tos-pagination {
+    		padding-right: 0;
+    		text-align: center;
+		}
+		
+		.tos-pagination a{
+    		float: none;
+		}
+    </style>
     
 </head>
 <body cz-shortcut-listen="true">

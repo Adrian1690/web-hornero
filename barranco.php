@@ -66,11 +66,13 @@
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
 						<div class="fullback fachada-lacupula">
+							<span class="namelocal">GRAN SALÓN “LA CÚPULA”</span>
 						</div>
 						<div class="fullback fachada-barrancolavista">
-							
+							<span class="namelocal">PRIVADO “LA VISTA”</span>
 						</div>
 						<div class="fullback fachada-barrancoterraza">
+							<span class="namelocal">TERRAZA “LA VISTA”</span>
 						</div>
 					</div>
 
