@@ -17,8 +17,8 @@
     	.tos-pagination {
     		padding-right: 0;
     		text-align: center;
-		}
-		
+    	}
+
 		.tos-pagination a{
     		float: none;
 		}

@@ -1192,7 +1192,7 @@ footer .content-mencion{
 
 .tos-pagination{
     opacity: 1;
-    padding-top: 20px;
+    padding-top: 17px;
     padding-right: 1%;
     background: rgba(0, 0, 0, .6);
     text-align: right;
@@ -1295,7 +1295,6 @@ footer .content-mencion{
     background-color: transparent;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-
 }
 
 .tos-wrapper.tos-has-bullets .tos-pagination a{
