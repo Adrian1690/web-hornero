@@ -158,7 +158,7 @@
 			</div>
 			<div class="clearboth"></div>
 	        <div style="margin-top:2em;">
-	        	<a href="">
+	        	<a href="reserve.php">
 		        	<button class="border-button">
 						RESERVE AHORA
 					</button>
@@ -172,83 +172,91 @@
 			<br><br>
 			
 			<div class="row">
-				<div class="grid-item" style="padding: 3px;">
-					<div class="cont-fachada grid-item--height3 ">		
-						<div class="fachada-all fachada-asiaterraza"></div>
-						<div class="info-fachada-all hidefachada" style="display:none;">
-							<div class="width-100per verticalAuto" >
-								<div class="fachadaall-middletext">
-									<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
-										ASIA 
-										<div class="lineback-all"></div>
-									</span>	
+				<a href="asia.php">
+					<div class="grid-item" style="padding: 3px;">
+						<div class="cont-fachada grid-item--height3 ">		
+							<div class="fachada-all fachada-asiaterraza"></div>
+							<div class="info-fachada-all hidefachada" style="display:none;">
+								<div class="width-100per verticalAuto" >
+									<div class="fachadaall-middletext">
+										<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
+											ASIA 
+											<div class="lineback-all"></div>
+										</span>	
+										
+									</div>
 									
+									<!-- <div class="ornamental-blanco"></div> -->
 								</div>
-								
-								<!-- <div class="ornamental-blanco"></div> -->
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="grid-item" style="padding: 3px;">
-					<div class="cont-fachada grid-item--height3 ">		
-						<div class="fachada-all fachada-chorrillosterraza"></div>
-						<div class="info-fachada-all hidefachada" style="display:none;">
-							<div class="width-100per verticalAuto" >
-								<div class="fachadaall-middletext">
-									<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
-										CHORRILLOS
-										<div class="lineback-all"></div>
-									</span>	
+				</a>
+				<a href="chorrillos.php">
+					<div class="grid-item" style="padding: 3px;">
+						<div class="cont-fachada grid-item--height3 ">		
+							<div class="fachada-all fachada-chorrillosterraza"></div>
+							<div class="info-fachada-all hidefachada" style="display:none;">
+								<div class="width-100per verticalAuto" >
+									<div class="fachadaall-middletext">
+										<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
+											CHORRILLOS
+											<div class="lineback-all"></div>
+										</span>	
+										
+									</div>
 									
+									<!-- <div class="ornamental-blanco"></div> -->
 								</div>
-								
-								<!-- <div class="ornamental-blanco"></div> -->
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="grid-item" style="padding: 3px;">
-					<div class="cont-fachada grid-item--height3 ">		
-						<div class="fachada-all fachada-barrancoterraza"></div>
-						<div class="info-fachada-all hidefachada" style="display:none;">
-							<div class="width-100per verticalAuto" >
-								<div class="fachadaall-middletext">
-									<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
-										BARRANCO 
-										<div class="lineback-all"></div>
-									</span>	
+				</a>
+				<a href="barranco.php">					
+					<div class="grid-item" style="padding: 3px;">
+						<div class="cont-fachada grid-item--height3 ">		
+							<div class="fachada-all fachada-barrancoterraza"></div>
+							<div class="info-fachada-all hidefachada" style="display:none;">
+								<div class="width-100per verticalAuto" >
+									<div class="fachadaall-middletext">
+										<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
+											BARRANCO 
+											<div class="lineback-all"></div>
+										</span>	
+										
+									</div>
 									
+									<!-- <div class="ornamental-blanco"></div> -->
 								</div>
-								
-								<!-- <div class="ornamental-blanco"></div> -->
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="grid-item" style="padding: 3px;">
-					<div class="cont-fachada grid-item--height3 ">		
-						<div class="fachada-all fachada-lamolinaterraza2"></div>
-						<div class="info-fachada-all hidefachada" style="display:none;">
-							<div class="width-100per verticalAuto" >
-								<div class="fachadaall-middletext">
-									<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
-										LA MOLINA 
-										<div class="lineback-all"></div>
-									</span>	
+				</a>
+				<a href="lamolina.php">
+					<div class="grid-item" style="padding: 3px;">
+						<div class="cont-fachada grid-item--height3 ">		
+							<div class="fachada-all fachada-lamolinaterraza2"></div>
+							<div class="info-fachada-all hidefachada" style="display:none;">
+								<div class="width-100per verticalAuto" >
+									<div class="fachadaall-middletext">
+										<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
+											LA MOLINA 
+											<div class="lineback-all"></div>
+										</span>	
+										
+									</div>
 									
+									<!-- <div class="ornamental-blanco"></div> -->
 								</div>
-								
-								<!-- <div class="ornamental-blanco"></div> -->
 							</div>
 						</div>
 					</div>
-				</div>
+				</a>
 			</div>
 
 			<div class="clearboth"></div>
 	        <div style="margin-top:2em;">
-	        	<a href="">
+	        	<a href="reserve.php">
 		        	<button class="border-button">
 						RESERVE AHORA
 					</button>

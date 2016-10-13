@@ -482,6 +482,27 @@ footer{
     height: 100%;
 }
 
+.fachada-comedorrotonda{
+    background-image: url("../img/el_hornero_barranco_2dopiso.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-lavista{
+    background-image: url("../img/el_hornero_barranco_lavista.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-elescondite{
+    background-image: url("../img/el_hornero_barranco_privadop1.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
 .fachada-recuay{
     background-image: url("../img/el_hornero_lamolina_eltejado.jpg");
     background-position: center center;
@@ -639,7 +660,7 @@ footer{
 
 .fachada-chorrilloprivado3{
     background-image: url("../img/el_hornero_chorrillos_privadop3.jpg");
-    background-position: center bottom 16%;
+    background-position: center bottom;
     background-size: cover;
     height: 100%;
 }
@@ -923,7 +944,8 @@ footer .content-mencion{
 .fachada-cart4{
     background-image: url("../img/carta_cava_el_tinto2.jpg");
     height: 100%;
-    background-position: center 0;
+    background-position: center center;
+    background-size: cover;
 }
 
 
@@ -1259,7 +1281,7 @@ Pagination tosrus events.php
 
 @media only screen and (min-width: 768px) {
   	.item-nav{
-        width: 8em;
+        width: 100px;
 	    text-align: center;
 	}
 }

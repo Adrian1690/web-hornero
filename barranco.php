@@ -75,8 +75,9 @@
 					</div>
 
 					<div id="locals-map" class="example gallery" style="height:100%;display: none;">
-						<div class="fullback fachada-recuay">
-						</div>
+						<!-- <div class="fullback fachada-recuay">
+						</div> -->
+						<div id="map" style="height: 100%;"></div>
 					</div>
         		</div>
         	</div>
@@ -116,6 +117,87 @@
         		
         	</div>
 		</div>
+		
+		<br><br><br><br>
+		<div class="title-all" style="margin-top: 1em;font-size:25px;padding-top:0;">PRIVADOS </div>
+    	<div class="line" style="width: 70px; border-top:2px solid #8E4239;"></div>
+		<br><br>
+		
+		
+
+		<div class="row">
+			<div class="col-md-6 padding-left-0 padding-right-0">
+				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-lacupula"></div>
+        		</div>
+			</div>
+			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
+				<div class="width-100per" style="min-height:400px;">
+        			<div class="verticalAuto text-center width-100per">
+						<div class="title-all">GRAN SALÓN <br> "LA CUPULA"</div>
+						<p class="plocalsaforo">CAPACIDAD: 500 PERS.</p>
+						<div class="lineback-locals"></div>
+						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
+				<div class="width-100per" style="min-height:400px;">
+        			<div class="verticalAuto text-center width-100per">
+						<div class="title-all">COMEDOR <br> "LA ROTONDA"</div>
+						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
+						<div class="lineback-locals"></div>
+						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 padding-left-0 padding-right-0">
+				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-comedorrotonda"></div>
+        		</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-6 padding-left-0 padding-right-0">
+				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-lavista"></div>
+        		</div>
+			</div>
+			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
+				<div class="width-100per" style="min-height:400px;">
+        			<div class="verticalAuto text-center width-100per">
+						<div class="title-all">PRIVADO <br> "LA VISTA"</div>
+						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
+						<div class="lineback-locals"></div>
+						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-6 padding-left-0 padding-right-0 border-left border-bottom">
+				<div class="width-100per" style="min-height:400px;">
+        			<div class="verticalAuto text-center width-100per">
+						<div class="title-all">PRIVADO <br> "EL ESCONDITE"</div>
+						<p class="plocalsaforo">CAPACIDAD: 16 PERS.</p>
+						<div class="lineback-locals"></div>
+						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
+					</div>
+				</div>
+    		</div>
+			
+			<div class="col-md-6 padding-left-0 padding-right-0">
+				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-elescondite"></div>
+        		</div>
+			</div>
+		</div>
 
 		<div class="text-center">
         	<img style="margin-top:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
@@ -139,6 +221,30 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pagebarranco').addClass('active');
+
+		function initMap() {
+
+		    var map = new google.maps.Map(document.getElementById('map'), {
+		        /*scrollwheel: false,*/
+		        zoom: 12,
+		        center: {lat: -14.0065605, lng: -75.764739}
+		    });
+
+		    var image = 'img/flechitas.png';
+
+
+		    var beachMarker = new google.maps.Marker({
+		        position: {lat: -14.008138, lng: -75.765415},
+		        map: map
+		        
+		    });
+		}
 	</script>
+
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDXYDFBbB2nDDXaaEozBzETYILuz7jeESo&callback=initMap"
+	async defer>
+	</script>
+
+
 </body>
 </html>

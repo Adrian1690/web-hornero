@@ -8,6 +8,10 @@ $(document).ready(function(){
         $(this).find('.dropdown-toggle').css('color', '#7D7D7D !important');
         console.log($(this).find('.dropdown-toggle') );
     });*/
+    
+    $('#nav_drop').hover(function(){
+        $(this).toggleClass('open');
+    });
 
     $('.border-button').click(function(){
         $('.border-button').removeClass('active');
