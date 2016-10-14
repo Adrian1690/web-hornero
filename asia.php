@@ -137,6 +137,7 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pageasia').addClass('active');
+		$('.headerlocal').html('ASIA');
 
 		var positionMap = { 
 			lat: -12.7605546,

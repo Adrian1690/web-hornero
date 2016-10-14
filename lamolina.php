@@ -241,6 +241,7 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pagelamolina').addClass('active');
+		$('.headerlocal').html('LAMOLINA');
 
 		var positionMap = { 
 			lat: -12.0766148,

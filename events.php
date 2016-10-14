@@ -51,7 +51,7 @@
 		<div class="title-all" style="padding-top:0;">
 			"AMPLIOS ESPACIOS EN LOS DISTRITOS <br> MÁS DISTINGUIDOS DE LA CIUDAD"
 			<br><br>
-			<a id="fa" href="#fa"><div class="flechaabajo"></div></a>
+			<a id="flechaabajo" href="#events-content"><div class="flechaabajo"></div></a>
 		</div>
 		<br><br>
 

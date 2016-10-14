@@ -223,7 +223,8 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pagebarranco').addClass('active');
-
+		$('.headerlocal').html('BARRANCO');
+		
 		var positionMap = { 
 			lat: -12.1351315,
 			lng: -77.0197867

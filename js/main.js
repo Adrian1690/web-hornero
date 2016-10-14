@@ -74,14 +74,14 @@ $(document).ready(function(){
 
 });
 
-/*var linkInterno = $('a[href^="#"]');
+var linkInterno = $('#flechaabajo');
 linkInterno.on('click', function (e) {
-
+    var Hnav = $('nav.navbar.navbar-default.navbar-fixed-top').height();
     var href = $(this).attr('href');
     console.log($(href).offset().top);
-    $('html, body').animate({scrollTop: $(href).offset().top}, 'slow');
+    $('html, body').animate({scrollTop: $(href).offset().top - Hnav}, 'slow');
     return false;
-}); */
+}); 
 
 
 function allResize(){

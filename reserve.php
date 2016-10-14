@@ -42,7 +42,7 @@
 		<div class="title-all" style="padding-top:0;">
 			“RESERVE Y DISFRUTE DE LOS MEJORES <br> CORTES DE CARNE AMERICANA”
 			<br><br>
-			<a href="#reserve-content"><div class="flechaabajo"></div></a>
+			<a id="flechaabajo" href="#reserve-content"><div class="flechaabajo"></div></a>
 		</div>
 		<br><br>
 

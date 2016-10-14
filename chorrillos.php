@@ -220,6 +220,7 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pagechorrillos').addClass('active');
+		$('.headerlocal').html('CHORRILLOS');
 
 		var positionMap = { 
 			lat: -12.1672804,

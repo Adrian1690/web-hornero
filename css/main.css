@@ -1365,13 +1365,14 @@ footer .content-mencion{
 html{
   /* give this to all tags from html to .fullscreen */
     height:100%;
+    /*overflow-x: hidden;*/
 }
 
 body{
     height:100%;
     padding-top: 70px;
     width: 100%;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 
 
