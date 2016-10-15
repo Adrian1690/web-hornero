@@ -102,7 +102,7 @@
 					</div>
 					<div class="info-reserve">
 						<div class="phone-reserve">
-							<a href="tef:01 251 8109">
+							<a href="tef:(01) 251 8109">
 							<img src="img/adorno/tel_reservas.png" alt="">	01 251 8109
 							</a>
 						</div>
