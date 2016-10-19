@@ -1344,14 +1344,42 @@ footer .content-mencion{
 
 @media only screen and (max-width: 768px) {
     
+
+    #navi{
+        background-color: white;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+    .vineta-header{
+        list-style-image: url('../img/adorno/gps_menu.png');
+        list-style-position: inside;
+        color: #7D7D7D !important; 
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+
+    .vineta-header a{
+        color: #7D7D7D !important; 
+    }
+
+    .navbar-default .navbar-nav > li > a{
+        color: #777 !important;
+    }
+
+    #drop_responsive{
+        width: 100%;
+        padding-top: 7px;
+    }
+
     .navbar{
         text-align: center;
     }
     
-    .navbar-nav{
+    #navbar > .navbar-nav{
         height: 100%;
     }
-    
+    /*
     .nav > li {
         position: relative;
         display: block;
@@ -1372,7 +1400,7 @@ footer .content-mencion{
 
     .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{
         height: 100vh;
-    }
+    }*/
 
     .margin-right-10em{
         margin-right: 0;

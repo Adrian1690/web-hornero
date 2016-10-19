@@ -1,6 +1,6 @@
 <!-- Nav Bar-->
 <nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
+    
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 			  <span class="sr-only">Toggle navigation</span>
@@ -14,16 +14,26 @@
 				</a>	
 			</div>
 			
+
 		</div>
-		<div>
-			<ul class="dropdown-menu">
-				<li class="vineta-header" id="pageasia" ><a class="" href="asia.php">ASIA</a></li>
-				<li class="vineta-header" id="pagechorrillos"><a class="" href="chorrillos.php">CHORRILLOS</a></li>
-				<li class="vineta-header" id="pagebarranco"><a class="" href="barranco.php">BARRANCO</a></li>
-				<li class="vineta-header" id="pagelamolina"><a class="" href="lamolina.php">LA MOLINA</a></li>
-				<li class="vineta-header" id="pagesanisidro"><a class="" href="#">SAN ISIDRO</a></li>
-			</ul>
+		<div id="drop_responsive" class="dropdown dropdown-nav hidden-md">
+			<div style="height: 30px;">
+				<a  href="#" class="dropdown-toggle" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
+					<span class="headerlocal">Seleccione su Restaurante</span>
+					<span class="caret"></span>
+				</a>
+			</div>
+			<div id="navi" class="navbar-collapse collapse ">
+				<ul class="" style="padding-left: 0px">
+					<li class="vineta-header" id="pageasia" ><a class="" href="asia.php">ASIA</a></li>
+					<li class="vineta-header" id="pagechorrillos"><a class="" href="chorrillos.php">CHORRILLOS</a></li>
+					<li class="vineta-header" id="pagebarranco"><a class="" href="barranco.php">BARRANCO</a></li>
+					<li class="vineta-header" id="pagelamolina"><a class="" href="lamolina.php">LA MOLINA</a></li>
+					<li class="vineta-header" id="pagesanisidro"><a class="" href="#">SAN ISIDRO</a></li>	
+				</ul>
+			</div>	
 		</div>
+
 
 		<div id="navbar" class="navbar-collapse collapse">
 			<!-- <ul class="nav navbar-nav">
@@ -50,5 +60,5 @@
 				</li>
 			</ul>
 		</div><!--/.nav-collapse -->
-    </div><!--/.container-fluid -->
+    
 	</nav>
