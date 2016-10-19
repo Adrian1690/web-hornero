@@ -70,10 +70,7 @@
     font-family: 'Montserrat-Regular';
 }
 
-.navbar-default{
-	background-color: white;
-	/* border: none; */
-}
+
 .navbar-brand {
     float: left;
     height: 70px;
@@ -1304,6 +1301,22 @@ footer .content-mencion{
 }
 
 
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+    background-color: ivory;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+    background-color: #77251B;
+}
+
+.navbar-default .navbar-toggle{
+    border-color: ivory;
+}
+.navbar-default{
+    background-color: none;
+    /* border: none; */
+}
+
 @media only screen and (min-width: 768px) {
   	.item-nav{
         width: 100px;
@@ -1329,6 +1342,12 @@ footer .content-mencion{
 }
 
 @media only screen and (max-width: 768px) {
+    
+    .navbar-brand{
+        padding-left: 0px;
+        padding-right: 0px; 
+    }
+
     .fachadaall-middletext{
         width: 75%;
     }
