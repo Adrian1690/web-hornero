@@ -1302,7 +1302,8 @@ footer .content-mencion{
 
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
-    background-color: ivory;
+    background-color: white;
+    border-width: 0px;
 }
 
 .navbar-default .navbar-toggle .icon-bar{
@@ -1343,8 +1344,42 @@ footer .content-mencion{
 
 @media only screen and (max-width: 768px) {
     
+    .navbar{
+        text-align: center;
+    }
+    
+    .navbar-nav{
+        height: 100%;
+    }
+    
+    .nav > li {
+        position: relative;
+        display: block;
+        height: 16%;
+    }
+
+    .navbar-nav li a{
+        padding-top: 10%;
+    }
+
+    .navbar-toggle{
+        padding-top: 17px;
+    }
+    
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{
+        max-height: inherit;
+    }
+
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{
+        height: 100vh;
+    }
+
+    .margin-right-10em{
+        margin-right: 0;
+    }
+
     .navbar-brand{
-        padding-left: 0px;
+        padding-left: 1em;
         padding-right: 0px; 
     }
 
