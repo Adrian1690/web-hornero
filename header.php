@@ -16,7 +16,7 @@
 			
 
 		</div>
-		<div id="drop_responsive" class="dropdown dropdown-nav hidden-md">
+		<div id="drop_responsive" class="dropdown dropdown-nav hidden-md hidden-lg hidden-xl">
 			<div style="height: 30px;">
 				<a  href="#" class="dropdown-toggle" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
 					<span class="headerlocal">Seleccione su Restaurante</span>

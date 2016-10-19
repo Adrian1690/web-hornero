@@ -44,7 +44,7 @@
     <section id="history_section" class="contenedor">
         <div class="row text-center">
         	<div class="col-md-6  padding-right-0 padding-left-0">
-        		<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+        		<div class="cont-fachada heightimg-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-historyhornero"></div>
         		</div>
         	</div>
@@ -59,7 +59,7 @@
 													    border-left: 2px solid #8E4239;"></div>
         			<div class="texto-historyhornero text-center verticalAuto">
         				<span class="title-all">El PRIMER HORNERO</span>
-        				<div class="line"></div>
+        				<div class="line" style="display: block;"></div>
 						<div class="fachadaall-middletext">
 	        				<p>	
 	        					Hace más de 15 años, Armando Tafur 
