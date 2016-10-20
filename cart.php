@@ -39,7 +39,7 @@
 
    
     <section id="cart_section" class="contenedor" style="padding-top: 4%;">
-    	<div class="title-all" style="margin-top: 1em;font-size:25px;padding-top:0;">CARNES Y PARRILLAS </div>
+    	<div class="title-all title-cart hidden-xs" style="">CARNES Y PARRILLAS </div>
     	<div class="line" style="width: 70px; border-top:2px solid #8E4239;"></div>
 		<br><br>
 
@@ -60,6 +60,8 @@
 													    border-left: 2px solid #8E4239;"></div>
 
         			<div class="text-center">
+						<div class="title-all title-cart" style="">CARNES Y PARRILLAS </div>
+    					<div class="line showxs" style="width: 70px; border-top:2px solid #8E4239;"></div>
 
         				<div class="fachadaall-middletext">
 	        				<p clasS="info-history">
@@ -81,7 +83,7 @@
 			</div>
 		</div>
 
-		<div class="row" style="margin-top: 1em">
+		<div class="row hidden-xs" style="margin-top: 1em">
 			<div class="col-md-6 padding-left-0 padding-right-0" style="margin-bottom:1em;">
 				<div class="cont-fachada " style="min-height:250px;height:250px;"> 
 					<div class="fachada-mensajeblank">
@@ -104,8 +106,8 @@
 		</div>
 
 		
-		<div class="title-all" style="margin-top: 4em;font-size:25px;padding-top:0;">CAVA "EL TINTO" </div>
-    	<div class="line" style="width: 70px; border-top:2px solid #8E4239;"></div>
+		<div class="title-all title-cart" style="margin-top: 4em;">CAVA "EL TINTO" </div>
+    	<div class="line showxs" style="width: 70px; border-top:2px solid #8E4239;"></div>
 		<br><br>
 
 		<div class="row">
@@ -146,7 +148,7 @@
 			</div>
 		</div>
 
-		<div class="row" style="margin-top: 1em">
+		<div class="row hidden-xs" style="margin-top: 1em">
 			<div class="col-md-6 padding-left-0 padding-right-0" style="margin-bottom:1em;">
 				<div class="cont-fachada " style="min-height:250px;height:250px;"> 
 					<div class="fachada-mensajeblank">

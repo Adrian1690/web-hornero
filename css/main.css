@@ -891,7 +891,7 @@ footer .content-mencion{
 .border-button.active{
     color: white;
     /*border-color: white;*/
-    background-color: #8E4239;
+    background-color: #81291E;
 }
 
 .border-button:focus{
@@ -1040,6 +1040,12 @@ footer .content-mencion{
     font-family: 'GeoSlab703 Md BT Medium';
     font-size: 22px;
     letter-spacing: 3px;
+}
+
+.title-cart{
+    margin-top: 1em;
+    font-size:25px;
+    padding-top:0;
 }
 
 .backtitle{
@@ -1311,11 +1317,11 @@ footer .content-mencion{
 }
 
 .navbar-default .navbar-toggle{
-    border-color: ivory;
+    border-color: white;
 }
 .navbar-default{
-    background-color: none;
-    /* border: none; */
+    background-color: white;
+    border: none; 
 }
 
 .heightimg-desktop{
@@ -1351,8 +1357,14 @@ footer .content-mencion{
 
     #navi{
         background-color: white;
-        padding-left: 0;
+        text-align: left;
         padding-right: 0;
+        padding-left: 38%;
+    }
+
+    .dropdown-nav.active,.dropdown-nav.active a>span{
+        background-color: white !important;
+        color: #8E4239 !important;
     }
     
     .vineta-header{
@@ -1384,8 +1396,12 @@ footer .content-mencion{
         height: 100%;
     }
 
-    .line, .linea-right{
+    .line, .linea-right, .lineback-locals{
         display: none;
+    }
+
+    .line.showxs{
+        display: block;
     }
     
     .padding-right-0{
@@ -1398,7 +1414,7 @@ footer .content-mencion{
 
     .border-button{
         color: white;
-        background-color: #8E4239;
+        background-color: #81291E;
     }
 
     .heightimg-desktop{
@@ -1408,7 +1424,29 @@ footer .content-mencion{
     .texto-historyhornero{
         padding-top: 3em;
     }
+    
+    .title-all{
+        font-size: 19px;
+    }
 
+    .border-button.bottom{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+
+    .info-fachada, .info-fachada-all{
+        display: block !important;
+    }
+
+    .text-center-xs{
+        text-align: center;
+    }
+
+    .namelocal{
+        left: 3%;
+        font-size: 12px;
+    }
     /*
     .nav > li {
         position: relative;
@@ -1440,10 +1478,6 @@ footer .content-mencion{
         padding-top: 8%;
     }
     
-    .info-fachada{
-        display: block !important;
-    }
-
     .margin-right-10em{
         margin-right: 0;
     }
@@ -1466,6 +1500,10 @@ footer .content-mencion{
 
     .contenedor{
         width: 100% !important;
+    }
+
+    footer .container-info{
+        padding-bottom:5%;
     }
 }
 

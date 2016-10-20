@@ -9,6 +9,10 @@ $(document).ready(function(){
         console.log($(this).find('.dropdown-toggle') );
     });*/
     
+    $('#drop_responsive').click(function(){
+        $(this).toggleClass('active');
+    });
+    
     $('#nav_drop').hover(function(){
         $(this).toggleClass('open');
     });

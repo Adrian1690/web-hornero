@@ -68,6 +68,7 @@
 						</div>
 					</div>
 				</div>
+				<div class="visible-xs"><br><br><br></div>
 				<div class="col-md-6">
 					<div class="title-all" style="padding-top:0;">
 						LA MOLINA
@@ -111,6 +112,7 @@
 						</div>
 					</div>
 				</div>
+				<div class="visible-xs"><br><br><br></div>
 				<div class="col-md-6">
 					<div class="title-all" style="padding-top:0;">
 						BARRANCO

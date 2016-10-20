@@ -39,7 +39,14 @@
 		<span class="font-Montserrat-Regular"> font-Montserrat-Regular</span>
 	</div>
 	-->
-	
+	<div class="width-100per visible-xs">
+    	<a href="reserve.php">
+			<button class="border-button bottom" >
+				RESERVE AQUÍ
+			</button>
+		</a>
+	</div>		
+
 	<section class="backtitle eventsback parallax">
 		<div class="title">
 			EVENTOS
@@ -58,7 +65,7 @@
 		<div id="events-content" class="text-center">
         	<div class="row">
 	        	<div class="col-md-6  padding-right-0 padding-left-0">
-	        		<div class="cont-fachada " style="height:400px;"> 
+	        		<div class="cont-fachada heightimg-desktop" > 
 	        			<!-- <div class="fachada-historyhornero"></div> -->
 	        			<div id="events-wrapper" class="example gallery" style="height:100%;">
 							<div class="fullback fachada-lapampa">
@@ -76,7 +83,7 @@
 	        		</div>
 	        	</div>
 	        	<div class="col-md-6 padding-right-0 padding-left-0">
-	        		<div class="width-100per" style="min-height:400px;">
+	        		<div class="width-100per " style="min-height:400px;">
 	        			<div class="line" style="position: absolute;top: -6px;width:40%;"></div>
 	        			<div class="line" style="position: absolute;bottom: 0;width:40%;"></div>
 	        			<div class="linea-right" style="    position: absolute;

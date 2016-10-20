@@ -50,7 +50,7 @@
 		</div>
 		<br><br>
 
-		<div class="row">
+		<div class="row text-center-xs">
 			<button id="btn-gallery" class="border-button active" style="width: 130px;">
 				FOTOS
 			</button>
@@ -62,7 +62,7 @@
 		<br>
 		<div class="row">
         	<div class="col-md-6  padding-right-0 padding-left-0">
-        		<div class="cont-fachada " style="height:400px;"> 
+        		<div class="cont-fachada heightimg-desktop"> 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
 						<div class="fullback fachada-chorrillos1erpiso">

@@ -129,7 +129,7 @@
 					<div class="linea-right"></div>
 				</div>
 				
-				<div class="derecha col-md-8 visible-md">
+				<div class="derecha col-md-8 hidden-xs">
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							ASIA
