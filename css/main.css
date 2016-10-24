@@ -1455,7 +1455,7 @@ footer .content-mencion{
         font-size: 12px;
     }
 
-    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{
+    #navbar{
         height: 100vh !important;
         min-height: 100vh !important;
     }
@@ -1500,7 +1500,7 @@ footer .content-mencion{
     }
 
     .fachadaall-middletext{
-        width: 100%;
+        width: 90%;
     }
     .owl-controls .owl-prev {
         margin-left: -2%;

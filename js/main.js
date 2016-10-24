@@ -11,7 +11,7 @@ $(document).ready(function(){
     
 
     $('#drop_responsive_child').click(function(){
-        $(this).find('a').triger('click');
+        $(this).find('a').trigger('click');
     });
 
     $('#drop_responsive').click(function(){
