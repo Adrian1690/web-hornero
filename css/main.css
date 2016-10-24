@@ -1050,7 +1050,7 @@ footer .content-mencion{
 }
 
 .backtitle{
-    height: 40%;
+    height: 50%;
     width:100%;
     text-align: center;
     font-family: 'GeoSlab703 Md BT Medium';
@@ -1112,8 +1112,8 @@ footer .content-mencion{
 
 .ourhistoryback{
     background-image: url('../img/portada_nuestra_historia.jpg');
-    /*background-position: center center;*/
-    background-position: center bottom 11%;
+    background-position: center center;
+    /*background-position: center bottom 11%;*/
     background-size: cover;
 }
 
@@ -1126,28 +1126,28 @@ footer .content-mencion{
 
 .asiaback{
     background-image: url("../img/fachada_asia.jpg");
-    /*background-position: center center;*/
-    background-position: center bottom -12%;
+    background-position: center center;
+    /*background-position: center bottom -12%;*/
     background-size: cover;
 }
 .chorrillosback{
     background-image: url("../img/fachada_chorrillos.jpg");
-    /*background-position: center center;*/
-    background-position: center bottom 50%;
+    background-position: center center;
+    /*background-position: center bottom 50%;*/
     background-size: cover;
 }
 
 .lamolinaback{
     background-image: url("../img/fachada_lamolina.jpg");
-    /*background-position: center center;*/
-    background-position: center bottom -35%;
+    background-position: center center;
+    /*background-position: center bottom -35%;*/
     background-size: cover;
 }
 
 .barrancoback{
     background-image: url("../img/fachada_barranco.jpg");
-    /*background-position: center center;*/
-    background-position: center bottom 38%;
+    background-position: center center;
+    /*background-position: center bottom 38%;*/
     background-size: cover;
 }
 
@@ -1159,8 +1159,8 @@ footer .content-mencion{
 
 .cart{
     background-image: url('../img/carne_vino.jpg');
-    background-position: center bottom 45%;
-    /*background-position: center 600px;*/
+    /*background-position: center bottom 45%;*/
+    background-position: center center;
 }
 
 .notice-cart{

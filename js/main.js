@@ -17,6 +17,15 @@ $(document).ready(function(){
         $(this).toggleClass('open');
     });
 
+    $('#nav_drop').hover(
+        function(){
+            $(this).addClass('open');
+        },
+        function(){
+            $(this).removeClass('open');
+        }
+    );
+
     $('.border-button').click(function(){
         $('.border-button').removeClass('active');
         $(this).addClass('active');

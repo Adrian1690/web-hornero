@@ -47,7 +47,7 @@
 		</a>
 	</div>		
 
-	<section class="backtitle eventsback parallax">
+	<section class="backtitle eventsback">
 		<div class="title">
 			EVENTOS
 			<div class="lineback"></div>

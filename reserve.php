@@ -31,7 +31,7 @@
 	</div>
 	-->
 	
-	<section class="backtitle eventsback parallax">
+	<section class="backtitle eventsback">
 		<div class="title">
 			RESERVAS
 			<div class="lineback"></div>
@@ -54,9 +54,11 @@
 					</div>
 					<div class="line" style="width:60px;"></div>
 					<br>
-					<div class="item-reserve">
-						<div class="fachada-asia"></div>
-					</div>
+					<a href="asia.php">
+						<div class="item-reserve">
+							<div class="fachada-asia"></div>
+						</div>
+					</a>
 					<div class="info-reserve">
 						<div class="phone-reserve">
 							<a href="tef:01 530 7305">
@@ -75,9 +77,11 @@
 					</div>
 					<div class="line" style="width:60px;"></div>
 					<br>
-					<div class="item-reserve">
-						<div class="fachada-lamolina"></div>
-					</div>
+					<a href="lamolina.php">
+						<div class="item-reserve">
+							<div class="fachada-lamolina"></div>
+						</div>
+					</a>
 					<div class="info-reserve">
 						<div class="phone-reserve">
 							<a href="tef:01 436 8319">
@@ -98,9 +102,11 @@
 					</div>
 					<div class="line" style="width:60px;"></div>
 					<br>
-					<div class="item-reserve">
-						<div class="fachada-chorrillos"></div>
-					</div>
+					<a href="chorrillos.php">
+						<div class="item-reserve">
+							<div class="fachada-chorrillos"></div>
+						</div>
+					</a>	
 					<div class="info-reserve">
 						<div class="phone-reserve">
 							<a href="tef:(01) 251 8109">
@@ -119,9 +125,11 @@
 					</div>
 					<div class="line" style="width:60px;"></div>
 					<br>
-					<div class="item-reserve">
-						<div class="fachada-barranco"></div>
-					</div>
+					<a href="barranco.php">
+						<div class="item-reserve">
+							<div class="fachada-barranco"></div>
+						</div>
+					</a>	
 					<div class="info-reserve">
 						<div class="phone-reserve">
 							<a href="tef:01 247 4646">
@@ -142,9 +150,11 @@
 					</div>						
 					<div class="line" style="width:60px;"></div>
 					<br>
-					<div class="item-reserve">
-						<div class="fachada-barranco"></div>
-					</div>
+					<a href="">
+						<div class="item-reserve">
+							<div class="fachada-barranco"></div>
+						</div>
+					</a>	
 					<div class="info-reserve">
 						<div class="phone-reserve">
 							<a href="tef:01 530 7305">
