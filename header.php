@@ -17,11 +17,11 @@
 
 		</div>
 		<div id="drop_responsive" class="dropdown dropdown-nav hidden-md hidden-lg hidden-xl">
-			<div style="height: 30px;">
-				<a  href="#" class="dropdown-toggle" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
+			<div id="drop_responsive_child" style="height: 30px;">
+				<div  href="#" class="dropdown-toggle dropres" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
 					<span class="headerlocal">Seleccione su Restaurante</span>
 					<span class="caret"></span>
-				</a>
+				</div>
 			</div>
 			<div id="navi" class="navbar-collapse collapse ">
 				<ul class="" style="padding-left: 0px">
@@ -44,6 +44,18 @@
 				<li id="pageevents" class="item-nav" ><a href="events.php">Eventos</a></li>
 				<li id="pagegallery" class="item-nav" ><a href="gallery.php">Galeria</a></li>
 				<li id="pagereserve" class="item-nav margin-right-10em" ><a href="reserve.php">Reservas</a></li>
+
+				<li id="social" class="item-nav visible-xs" >
+					<ul class="list-inline">
+						<li>
+							<img style="width: 47px;" src="/img/adorno/facebook_rojo-responsive.png" alt="">
+						</li>
+						<li>
+							<img style="width: 47px;" src="/img/adorno/youtube_rojo-responsive.png" alt="">
+						</li>
+					</ul>
+				</li>
+
 				<li id="nav_drop" class="dropdown dropdown-nav hidden-sm hidden-xs" style="width: 229px;text-align:center;">
 					<a  href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 						<span class="headerlocal">Seleccione su Restaurante</span>

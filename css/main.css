@@ -110,7 +110,8 @@
    transition: 1s ease all !important; 
 }  
 
-.dropdown-nav a{
+.dropdown-nav a,
+.dropdown-nav .dropres{
     color: white !important;
     text-transform: uppercase;
     font-size: 12px;
@@ -221,12 +222,14 @@ footer{
     width: 30px;
     height: 32px;
     margin: 0 auto;
-    transition: .5s ease all;
+    /*transition: .5s ease all;*/
+    background-position: -3px -1px;
 }
 
 .flechaabajo:hover{
     background-image: url("../img/adorno/flecha_abajo_over.png");
     cursor: pointer;
+    background-position: -1px 0px;
 }
 
 .owl-controls .owl-prev {
@@ -236,28 +239,30 @@ footer{
     margin-left: -10%;
     background-image: url("../img/adorno/flecha_izquierda.png");
     font-size: 0px;
-    /*background-position: 0px center;*/
+    background-position: -3px -1px;
     margin-top: -115px;
-    transition: .5s ease all;
+    /*transition: .5s ease all;*/
 }
 .owl-controls .owl-prev:hover {
     background-image: url("../img/adorno/flecha_izquierda_over.png");
+    background-position: 0px 0px;
 }
 
 .owl-controls .owl-next {
     width: 30px;
     height: 32px;
     font-size: 0px;
-    /*background-position: 24px center;*/
+    background-position: -3px -1px;
     float: right;
     background-image: url("../img/adorno/flecha_derecha.png");
     margin-right: -10%;
     margin-top: -115px;
-    transition: .5s ease all;
+    /*transition: .5s ease all;*/
 }
 
 .owl-controls .owl-next:hover{
     background-image: url("../img/adorno/flecha_derecha_over.png");
+    background-position: 0px 0px;
 }
 .container-carousel .owl-carousel .item{
     height: 187px;
@@ -1265,7 +1270,7 @@ footer .content-mencion{
 }
 
 .fb-icon:hover{
-    background-image: url('../img/adorno/fb.png');
+    background-image: url('../img/adorno/facebook_blanco_responsive.png');
 }
 
 .yt-icon{
@@ -1277,7 +1282,7 @@ footer .content-mencion{
 }
 
 .yt-icon:hover{
-    background-image: url('../img/adorno/youtube.png');
+    background-image: url('../img/adorno/youtube_blanco_responsive.png');
 }
 
 
@@ -1363,7 +1368,7 @@ footer .content-mencion{
         padding-left: 38%;
     }
 
-    .dropdown-nav.active,.dropdown-nav.active a>span{
+    .dropdown-nav.active,.dropdown-nav.active a>span, .dropdown-nav.active .dropres{
         background-color: white !important;
         color: #8E4239 !important;
     }
@@ -1386,7 +1391,8 @@ footer .content-mencion{
 
     #drop_responsive{
         width: 100%;
-        padding-top: 7px;
+        /*height: 40px;*/
+        padding-top: 11px;
     }
 
     .navbar{
@@ -1447,6 +1453,11 @@ footer .content-mencion{
     .namelocal{
         left: 3%;
         font-size: 12px;
+    }
+
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{
+        height: 100vh !important;
+        min-height: 100vh !important;
     }
     /*
     .nav > li {
