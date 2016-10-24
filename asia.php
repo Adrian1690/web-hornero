@@ -59,7 +59,7 @@
 		<br>
 		<div class="row">
         	<div class="col-md-6  padding-right-0 padding-left-0">
-        		<div class="cont-fachada " style="height:400px;"> 
+        		<div class="cont-fachada heightimg-desktop" > 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
 						<div class="fullback fachada-asiabar">
@@ -79,7 +79,7 @@
         		</div>
         	</div>
         	<div class="col-md-6 padding-right-0 padding-left-0">
-        		<div class="width-100per" style="min-height:400px;">
+        		<div class="width-100per heightimg-desktop"  style="position: relative;">
         			<div class="line" style="position: absolute;top: -6px;width:40%;"></div>
         			<div class="line" style="position: absolute;bottom: 0;width:40%;"></div>
         			<div class="linea-right" style="    position: absolute;

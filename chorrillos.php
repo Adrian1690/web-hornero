@@ -82,7 +82,7 @@
         		</div>
         	</div>
         	<div class="col-md-6 padding-right-0 padding-left-0">
-        		<div class="width-100per" style="min-height:400px;">
+        		<div class="width-100per heightimgprivates-desktop" style="">
         			<div class="line" style="position: absolute;top: -6px;width:40%;"></div>
         			<div class="line" style="position: absolute;bottom: 0;width:40%;"></div>
         			<div class="linea-right" style="    position: absolute;
@@ -127,12 +127,12 @@
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-lapampa"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" style="">
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">GRAN SALÓN <br> "LA PAMPA"</div>
 						<p class="plocalsaforo">CAPACIDAD: 180 PERS.</p>
@@ -144,8 +144,13 @@
 		</div>
 
 		<div class="row">
+			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs">
+				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-chorrilloprivado2"></div>
+        		</div>
+			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" style="">
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "LA YEGUA"</div>
 						<p class="plocalsaforo">CAPACIDAD: 28 PERS.</p>
@@ -155,8 +160,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs">
+				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-chorrilloprivado2"></div>
         		</div>
 			</div>
@@ -164,12 +169,12 @@
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-chorrilloprivado3"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" style="">
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "EL CHALAN"</div>
 						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>
@@ -181,8 +186,13 @@
 		</div>
 
 		<div class="row">
+			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs">
+				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-miguelgrau"></div>
+        		</div>
+			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left border-bottom">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" style="">
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "MIGUEL GRAU"</div>
 						<p class="plocalsaforo">CAPACIDAD: 8 PERS.</p>
@@ -193,8 +203,8 @@
 				</div>
     		</div>
 			
-			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs">
+				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-miguelgrau"></div>
         		</div>
 			</div>

@@ -60,7 +60,7 @@
 		<br>
 		<div class="row">
         	<div class="col-md-6  padding-right-0 padding-left-0">
-        		<div class="cont-fachada " style="height:400px;"> 
+        		<div class="cont-fachada heightimg-desktop" > 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
 
@@ -81,7 +81,7 @@
         		</div>
         	</div>
         	<div class="col-md-6 padding-right-0 padding-left-0">
-        		<div class="width-100per" style="min-height:400px;">
+        		<div class="width-100per heightimgprivates-desktop" >
         			<div class="line" style="position: absolute;top: -6px;width:40%;"></div>
         			<div class="line" style="position: absolute;bottom: 0;width:40%;"></div>
         			<div class="linea-right" style="    position: absolute;
@@ -126,12 +126,12 @@
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-recuay"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" >
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "RECUAY"</div>
 						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
@@ -147,7 +147,7 @@
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" >
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "LA REJA"</div>
 						<p class="plocalsaforo">CAPACIDAD: 20 PERS.</p>
@@ -158,7 +158,7 @@
 				</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-lamolinalareja"></div>
         		</div>
 			</div>
@@ -166,12 +166,12 @@
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-lamolinaelangel"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" >
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "EL ANGEL"</div>
 						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>
@@ -185,7 +185,7 @@
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" >
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "CUERO DE VACA"</div>
 						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>
@@ -197,7 +197,7 @@
     		</div>
 			
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-miguelgrau"></div>
         		</div>
 			</div>
@@ -205,12 +205,12 @@
 		
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada " style="min-height:400px;"> <!-- Hmiddle-screen -->
+				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-chorrilloprivado3"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right border-bottom">
-				<div class="width-100per" style="min-height:400px;">
+				<div class="width-100per heightimgprivates-desktop" >
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "CUERO DE VACA 2"</div>
 						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>

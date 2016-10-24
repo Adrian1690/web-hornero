@@ -48,10 +48,14 @@
 				<li id="social" class="item-nav visible-xs" >
 					<ul class="list-inline">
 						<li>
-							<img style="width: 47px;" src="/img/adorno/facebook_rojo-responsive.png" alt="">
+							<a href="#">
+								<img style="width: 47px;" src="/img/adorno/facebook_rojo-responsive.png" alt="">
+							</a>
 						</li>
 						<li>
-							<img style="width: 47px;" src="/img/adorno/youtube_rojo-responsive.png" alt="">
+							<a href="#">
+								<img style="width: 47px;" src="/img/adorno/youtube_rojo-responsive.png" alt="">
+							</a>	
 						</li>
 					</ul>
 				</li>

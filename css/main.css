@@ -1334,6 +1334,10 @@ footer .content-mencion{
     height: 400px;
 }
 
+.heightimgprivates-desktop{
+    height: 400px;
+}
+
 @media only screen and (min-width: 768px) {
   	.item-nav{
         width: 100px;
@@ -1377,8 +1381,8 @@ footer .content-mencion{
         list-style-image: url('../img/adorno/gps_menu.png');
         list-style-position: inside;
         color: #7D7D7D !important; 
-        padding-top: 12px;
-        padding-bottom: 12px;
+        padding-top: 14px;
+        padding-bottom: 14px;
     }
 
     .vineta-header a{
@@ -1403,8 +1407,12 @@ footer .content-mencion{
         height: 100%;
     }
 
-    .line, .linea-right, .lineback-locals{
+    .line, .linea-right, .lineback-locals {
         display: none;
+    }
+    
+    .border-top, .border-right, .border-bottom, .border-left{
+        border: 0px;
     }
 
     .line.showxs{
@@ -1422,10 +1430,6 @@ footer .content-mencion{
     .border-button{
         color: white;
         background-color: #81291E;
-    }
-
-    .heightimg-desktop{
-        height: 300px;
     }
 
     .texto-historyhornero{
@@ -1458,6 +1462,20 @@ footer .content-mencion{
     #navbar{
         height: 100vh !important;
         min-height: 100vh !important;
+    }
+
+    .local-content, #local-content{
+        text-align: center;
+    }
+
+    .heightimg-desktop{
+        height: 300px;
+        position: relative;
+    }
+
+    .heightimgprivates-desktop{
+        height: 200px;
+        position: relative;
     }
     /*
     .nav > li {
