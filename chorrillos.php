@@ -46,11 +46,11 @@
 			<br>
 			CARNE FRENTE AL MAR DE GRAU”
 			<br><br>
-			<a id="fa" href="#fa"><div class="flechaabajo"></div></a>
+			<a id="flechaabajo" href="#local-content"><div class="flechaabajo"></div></a>
 		</div>
 		<br><br>
 
-		<div class="row text-center-xs">
+		<div id="local-content" class="row text-center-xs">
 			<button id="btn-gallery" class="border-button active" style="width: 130px;">
 				FOTOS
 			</button>

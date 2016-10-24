@@ -46,11 +46,11 @@
 			<br>
 			AROMA REDONDO DE CARNES Y VINOS”
 			<br><br>
-			<a id="fa" href="#fa"><div class="flechaabajo"></div></a>
+			<a id="flechaabajo" href="#local-content"><div class="flechaabajo"></div></a>
 		</div>
 		<br><br>
 
-		<div class="row">
+		<div id="local-content" class="row">
 			<button id="btn-gallery" class="border-button active" style="width: 130px;">
 				FOTOS
 			</button>
