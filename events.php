@@ -195,7 +195,7 @@
 							<div class="fachada-all fachada-asiaterraza"></div>
 							<div class="info-fachada-all hidefachada" style="display:none;">
 								<div class="width-100per verticalAuto" >
-									<div class="fachadaall-middletext">
+									<div class="fachadaall-middletext" style="text-align: center;">
 										<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
 											ASIA 
 											<div class="lineback-all"></div>
@@ -215,7 +215,7 @@
 							<div class="fachada-all fachada-chorrillosterraza"></div>
 							<div class="info-fachada-all hidefachada" style="display:none;">
 								<div class="width-100per verticalAuto" >
-									<div class="fachadaall-middletext">
+									<div class="fachadaall-middletext" style="text-align: center;">
 										<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
 											CHORRILLOS
 											<div class="lineback-all"></div>
@@ -235,7 +235,7 @@
 							<div class="fachada-all fachada-barrancoterraza"></div>
 							<div class="info-fachada-all hidefachada" style="display:none;">
 								<div class="width-100per verticalAuto" >
-									<div class="fachadaall-middletext">
+									<div class="fachadaall-middletext" style="text-align: center;">
 										<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
 											BARRANCO 
 											<div class="lineback-all"></div>
@@ -255,7 +255,7 @@
 							<div class="fachada-all fachada-lamolinaterraza2"></div>
 							<div class="info-fachada-all hidefachada" style="display:none;">
 								<div class="width-100per verticalAuto" >
-									<div class="fachadaall-middletext">
+									<div class="fachadaall-middletext" style="text-align: center;">
 										<span style="font-family: 'GeoSlab703 Md BT Medium';letter-spacing: 3px;"> 	
 											LA MOLINA 
 											<div class="lineback-all"></div>

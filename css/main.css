@@ -331,6 +331,7 @@ footer{
     margin: 0 auto;
     text-align: justify;
     text-align-last: center;
+    -ms-text-align-last: center;
 }
 
 .locals-middletext{
