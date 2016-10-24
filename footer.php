@@ -121,10 +121,16 @@
 
 	</div>
 	<div class="row container-info" style="margin-right: 0px;margin-left: 0px;">
+
+		<a id="flechaabajo" href="body"><div class="flechaabajo"></div></a>
+
 		<div class="col-md-10 col-md-offset-1" style="margin-bottom: 1%;">
 			<div class="row">
 
 				<div class="izquierda col-md-2 col-md-offset-1 text-center padding-left-0">
+
+					
+
 					<img style="margin-top:-20px;" class="img-responsive" src="img/adorno/logo_el_hornero_vertical.png" alt="iso">
 					<div class="linea-right"></div>
 				</div>
