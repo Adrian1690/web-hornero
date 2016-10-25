@@ -122,7 +122,7 @@
 	</div>
 	<div class="row container-info" style="margin-right: 0px;margin-left: 0px;">
 
-		<a id="flechaabajo" href="body" class="visible-xs visible-sm">
+		<a id="gotop" class="visible-xs visible-sm">
 			<div class="" style="margin:auto;width: 30px;height: 30px;background-color:white;margin-bottom: 2em;"></div>
 		</a>
 

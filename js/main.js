@@ -19,8 +19,8 @@ $(document).ready(function(){
         }
     });
 
-    $('#drop_responsive_child').click(function(){
-        $(this).find('a').trigger('click');
+    $('#drop_responsive').click(function(){
+        $(this).find('#drop_responsive_child_b').click();
     });
 
     $('#drop_responsive').click(function(){
@@ -42,6 +42,11 @@ $(document).ready(function(){
 
     $('.border-button').click(function(){
         $('.border-button').removeClass('active');
+        $(this).addClass('active');
+    });
+
+    $('.border-button2').click(function(){
+        $('.border-button2').removeClass('active');
         $(this).addClass('active');
     });
 
@@ -109,6 +114,11 @@ linkInterno.on('click', function (e) {
     $('html, body').animate({scrollTop: $(href).offset().top - Hnav}, 'slow');
     return false;
 }); 
+
+$('#gotop').click(function(){
+    $('html, body').animate({scrollTop: 0}, 'slow');
+    return false;
+});
 
 
 function allResize(){

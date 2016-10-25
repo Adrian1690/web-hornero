@@ -30,6 +30,17 @@
 	</div>
 	-->
 	
+	<a href="tel:01 251 8109">
+		<div class="width-100per visible-xs">
+	    	
+				<button class="border-button bottom" >
+					<img style="eight: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
+					01 251 8109
+				</button>
+			
+		</div>	
+	</a>
+	
 	<section class="backtitle lamolinaback">
 		<div class="title">
 			LA MOLINA
@@ -49,11 +60,11 @@
 		<br><br>
 
 		<div id="local-content" class="row">
-			<button id="btn-gallery" class="border-button active" style="width: 130px;">
+			<button id="btn-gallery" class="border-button2 active" style="width: 130px;">
 				FOTOS
 			</button>
 
-			<button id="btn-map" class="border-button" style="width: 130px;">
+			<button id="btn-map" class="border-button2" style="width: 130px;">
 				MAPA	
 			</button>
 		</div>
@@ -93,7 +104,7 @@
         				
         				<div id="infoevent-0" class="infoevent text-center">
         					
-        					<a href="tef:01 251 8109">
+        					<a href="tel:01 251 8109" class="hidden-xs">
 	        					<div class="button-local">
 				        			
 										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 251 8109

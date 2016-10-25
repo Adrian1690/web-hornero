@@ -21,7 +21,7 @@
 		</div>
 		<div id="drop_responsive" class="dropdown dropdown-nav hidden-md hidden-lg hidden-xl">
 			<div id="drop_responsive_child" style="height: 30px;">
-				<div  href="#" class="dropdown-toggle dropres" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
+				<div  id="drop_responsive_child_b" href="#" class="dropdown-toggle dropres" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
 					<span class="headerlocal">Seleccione su Restaurante</span>
 					<span class="caret"></span>
 				</div>

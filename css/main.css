@@ -900,7 +900,31 @@ footer .content-mencion{
     background-color: #81291E;
 }
 
+.border-button2{
+    border: 2px solid #8E4239;
+    color: #8E4239;
+    background-color: white;
+    font-family: 'GeoSlab703 Md BT Medium';
+    padding: 8px 20px 8px 20px;
+    text-transform: uppercase;
+    transition: .5s ease all;
+}
+
+.border-button2:hover,
+.border-button2.active{
+    color: white;
+    /*border-color: white;*/
+    background-color: #81291E;
+}
+
 .border-button:focus{
+    outline: -webkit-focus-ring-color auto 5px;
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+    outline-width: 0px;
+}
+
+.border-button2:focus{
     outline: -webkit-focus-ring-color auto 5px;
     outline-color: -webkit-focus-ring-color;
     outline-style: auto;
@@ -1458,6 +1482,7 @@ footer .content-mencion{
         position: fixed;
         bottom: 0;
         width: 100%;
+        z-index: 10;
     }
 
     .info-fachada, .info-fachada-all{
