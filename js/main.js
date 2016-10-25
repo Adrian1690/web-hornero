@@ -9,6 +9,15 @@ $(document).ready(function(){
         console.log($(this).find('.dropdown-toggle') );
     });*/
     
+    $('#button-header').click(function(){
+        if( $(this).attr('aria-expanded') == 'false' ){
+            $(this).find('img').show();
+            $(this).find('.icon-bar').hide();
+        }else{
+            $(this).find('img').hide();
+            $(this).find('.icon-bar').show();
+        }
+    });
 
     $('#drop_responsive_child').click(function(){
         $(this).find('a').trigger('click');

@@ -122,17 +122,32 @@
 	</div>
 	<div class="row container-info" style="margin-right: 0px;margin-left: 0px;">
 
-		<a id="flechaabajo" href="body"><div class="flechaabajo"></div></a>
+		<a id="flechaabajo" href="body" class="visible-xs visible-sm">
+			<div class="" style="margin:auto;width: 30px;height: 30px;background-color:white;margin-bottom: 2em;"></div>
+		</a>
 
 		<div class="col-md-10 col-md-offset-1" style="margin-bottom: 1%;">
 			<div class="row">
 
 				<div class="izquierda col-md-2 col-md-offset-1 text-center padding-left-0">
 
-					
-
 					<img style="margin-top:-20px;" class="img-responsive" src="img/adorno/logo_el_hornero_vertical.png" alt="iso">
 					<div class="linea-right"></div>
+					
+					
+						<div class="font-Montserrat-Light text-center visible-xs visible-sm" style="width: 50%;margin:0 auto;margin-top: 2em;border-top: .5px solid white;padding-top: 1em;">
+							SIGUENOS EN : 
+							<br>
+							<a href="" style="margin-right: 1em;">
+								
+								<img class="" style="width: 55px;" src="img/adorno/facebook_blanco_responsive.png" alt="">
+							</a>
+							<a style="" href="" >
+								<img class="" style="width: 55px;" src="img/adorno/youtube_blanco_responsive.png" alt="">
+							</a>
+						</div>
+					
+
 				</div>
 				
 				<div class="derecha col-md-8 hidden-xs">
@@ -221,9 +236,14 @@
 
 		</div>
 		<div class="clearboth"></div>
-		<div class="footer-mencion">
+		<div class="footer-mencion hidden-xs hidden-sm">
 				<span class="content-mencion">EL HORNERO todos los derechos reservados</span>
 				<span class="content-mencion" style="float:right;">Sitio creado por TUTAMANTA</span>
+		</div>
+
+		<div class="footer-mencion text-center visible-xs visible-sm">
+				<span class="content-mencion">EL HORNERO todos los derechos reservados</span><br>
+				<span class="content-mencion">Sitio creado por TUTAMANTA</span>
 		</div>
 		
 

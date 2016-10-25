@@ -245,7 +245,7 @@ footer{
 }
 .owl-controls .owl-prev:hover {
     background-image: url("../img/adorno/flecha_izquierda_over.png");
-    background-position: 0px 0px;
+    background-position: -3px -1px;
 }
 
 .owl-controls .owl-next {
@@ -262,7 +262,7 @@ footer{
 
 .owl-controls .owl-next:hover{
     background-image: url("../img/adorno/flecha_derecha_over.png");
-    background-position: 0px 0px;
+    background-position: -3px -1px;
 }
 .container-carousel .owl-carousel .item{
     height: 187px;
