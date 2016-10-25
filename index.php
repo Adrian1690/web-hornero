@@ -9,8 +9,19 @@
 
 	<link rel="stylesheet" href="assets/css/bootstrap.css">
 	<link rel="stylesheet" href="assets/css/owl.carousel.css"/>
+	<link rel="stylesheet" href="assets/css/jquery.tosrus.all.css"/>
     <link rel="stylesheet" href="css/main.css">
     
+    <style>
+    	.tos-pagination {
+    		padding-right: 0;
+    		text-align: center;
+    	}
+
+		.tos-pagination a{
+    		float: none;
+		}
+    </style>
     
 </head>
 <body cz-shortcut-listen="true">
@@ -28,17 +39,29 @@
 	</div>
 	-->
 
-
+	<!--
 	<section id="index_section" class="fullscreen parallax"
              data-img-width="1400" data-img-height="767"
              data-diff="100" style="display:block;">
         <div class="content-a">
             <div class="content-b">
                 <div class="container">
-                    
+                    <h1>sdas</h1>
                 </div>
             </div>
         </div>
+    </section> -->
+	
+	<section id="index_section" class="parallax" style="height:100%;"
+             data-img-width="1400" data-img-height="767"
+             data-diff="100" style="display:block;">
+        <div id="events-wrapper" class="example gallery" style="height:100%;">
+			<div class="fullback indexback">
+			</div>
+			<div class="fullback index2back">
+				
+			</div>
+		</div>
     </section>
 
     <section id="history_section" class="contenedor">
@@ -91,9 +114,26 @@
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/bootstrap.min.js"></script>
 	<script src="assets/js/owl.carousel.min.js"></script>
+	<script src="assets/js/jquery.tosrus.all.min.js"></script>
+	<script src="assets/js/hammer.min.js"></script>
 	<script src="js/main.js"></script>
 	<script>
 		$('#onlyfirst').show();
+
+		$("#events-wrapper").tosrus({
+		       autoplay   : {
+		          play       : false
+		       },
+		       slides     : {
+		          scale      : "fit"
+		       },
+		       effect : "slide",
+		       buttons    : false,
+		       pagination : {
+		          add     :   true
+		          
+		       }
+		    });
 	</script>
 </body>
 </html>

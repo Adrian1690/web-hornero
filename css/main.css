@@ -909,7 +909,7 @@ footer .content-mencion{
 
 #index_section{
     transition: 1.5s ease all;
-    background-image: url(../img/portada_slide_1.jpg);
+    /*background-image: url(../img/portada_slide_1.jpg);*/
     background-size: cover;
     background-position: center top;
 }
@@ -1113,6 +1113,20 @@ footer .content-mencion{
     /* position: relative; */
     margin: 0 auto;
     margin-top: 7px;
+}
+
+.indexback{
+    background-image: url(../img/portada_slide_1.jpg);
+    background-position: center center;
+    /*background-position: center bottom 11%;*/
+    background-size: cover;
+}
+
+.index2back{
+    background-image: url(../img/vino_del_mes.jpg);
+    background-position: center center;
+    /*background-position: center bottom 11%;*/
+    background-size: cover;
 }
 
 .ourhistoryback{

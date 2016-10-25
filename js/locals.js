@@ -7,7 +7,7 @@ $(document).ready(function(){
        slides     : {
           scale      : "fit"
        },
-       effect : "fade",
+       effect : "slide",
        buttons    : false,
        pagination : {
           add     :   true
