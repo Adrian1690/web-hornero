@@ -1481,7 +1481,9 @@ footer .content-mencion{
     .border-button.bottom{
         position: fixed;
         bottom: 0;
+        padding: 15px;
         width: 100%;
+        font-size: 20px;
         z-index: 10;
     }
 

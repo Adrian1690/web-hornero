@@ -21,6 +21,10 @@
 		.tos-pagination a{
     		float: none;
 		}
+
+		.tos-pagination{
+			background-color: transparent;
+		}
     </style>
     
 </head>

@@ -24,6 +24,7 @@ $(document).ready(function(){
     });
 
     $('#drop_responsive').click(function(){
+        console.log('aaa');
         $(this).toggleClass('active');
     });
     
