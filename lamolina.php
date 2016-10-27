@@ -34,18 +34,20 @@
 		<div class="width-100per visible-xs">
 	    	
 				<button class="border-button bottom" >
-					<img style="eight: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
+					<img style="height: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
 					01 251 8109
 				</button>
 			
 		</div>	
 	</a>
-	
-	<section class="backtitle lamolinaback">
+
+	<section class="fullscreen background backtitle lamolinaback">
 		<div class="title">
 			LA MOLINA
 			<div class="lineback"></div>
 		</div>
+
+		<a id="flechaabajo" style="position:absolute;bottom: 7%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_abajo_over.png')"></div></a>
 	</section>
 
    
@@ -55,7 +57,6 @@
 			<br>
 			UN VASTO LUGAR PARA DISFRUTARLA”
 			<br><br>
-			<a id="flechaabajo" href="#local-content"><div class="flechaabajo"></div></a>
 		</div>
 		<br><br>
 

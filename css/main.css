@@ -229,7 +229,7 @@ footer{
 .flechaabajo:hover{
     background-image: url("../img/adorno/flecha_abajo_over.png");
     cursor: pointer;
-    background-position: -1px 0px;
+    background-position: -3px -1px;
 }
 
 .owl-controls .owl-prev {
@@ -1623,7 +1623,7 @@ body{
 .fullscreen,
 .content-a {
   width:100%;
-  min-height:767px;
+  /*min-height:767px;*/
   height:100%;
   overflow:hidden;
 }
