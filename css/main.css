@@ -1140,13 +1140,20 @@ footer .content-mencion{
 }
 
 .indexback{
-    background-image: url(../img/portada_slide_1.jpg);
+    background-image: url(../img/portada_slide_1_2.jpg);
     background-position: center center;
     /*background-position: center bottom 11%;*/
     background-size: cover;
 }
 
 .index2back{
+    background-image: url(../img/portada_slide_2_2.jpg);
+    background-position: center center;
+    /*background-position: center bottom 11%;*/
+    background-size: cover;
+}
+
+.index3back{
     background-image: url(../img/vino_del_mes.jpg);
     background-position: center center;
     /*background-position: center bottom 11%;*/
