@@ -56,7 +56,7 @@
 			“PARA LOS AMANTES DE LA CARNE QUE PREFIEREN
 			<br>
 			UN VASTO LUGAR PARA DISFRUTARLA”
-			<br><br>
+			<br>
 		</div>
 		<br><br>
 
