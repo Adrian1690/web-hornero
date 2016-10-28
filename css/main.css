@@ -70,6 +70,21 @@
     font-family: 'Montserrat-Regular';
 }
 
+.title-baner{
+    line-height: 73px;
+    letter-spacing: 3px;
+    font-size: 78px;
+    color: #77251B;
+    font-family: 'GeoSlab703 Md BT Medium';
+}
+
+.subtitle-banner{
+    line-height: 40px;
+    font-size: 22px;
+    letter-spacing: 2px;
+    color: #605F60;
+    font-family: 'GeoSlab703 Md BT Bold';
+}
 
 .navbar-brand {
     float: left;
@@ -1160,7 +1175,7 @@ footer .content-mencion{
 }
 
 .index2back{
-    background-image: url(../img/portada_slide_2_2.jpg);
+    background-image: url(../img/portada_slide_2.jpg);
     background-position: center center;
     /*background-position: center bottom 11%;*/
     background-size: cover;
@@ -1188,6 +1203,7 @@ footer .content-mencion{
 }
 
 .asiaback{
+    /*background-image: url("../img/fachada_asia.jpg");*/
     background-image: url("../img/fachada_asia.jpg");
     background-position: center center;
     /*background-position: center bottom -12%;*/

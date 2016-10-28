@@ -47,7 +47,7 @@
 			<div class="lineback"></div>
 		</div>
 
-		<a id="flechaabajo" style="position:absolute;bottom: 7%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_abajo_over.png')"></div></a>
+		<a id="flechaabajo" style="position:absolute;bottom: 7%;left: 49%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_abajo_over.png')"></div></a>
 	</section> 
 
    

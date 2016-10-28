@@ -61,10 +61,31 @@
              data-diff="100" style="display:block;">
         <div id="events-wrapper" class="example gallery" style="height:100%;">
 			<div class="fullback indexback">
+				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
+					<div class="verticalAuto" 
+						style="left: 6%;">
+						<div class="title-baner">CORTES <br>	FINOS</div>
+						<div class="subtitle-banner">CARNES & PARRILLAS</div>
+					</div>
+				</div>
 			</div>
 			<div class="fullback index2back">
+				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
+					<div class="verticalAuto" 
+						style="left: 6%;">
+						<div class="title-baner" style="color: white">SIMETRIA Y <br>	ELEGANCIA</div>
+						<div class="subtitle-banner" style="color: #B99B82">LOS AMBIENTES</div>
+					</div>
+				</div>
 			</div>
 			<div class="fullback index3back">
+				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
+					<div class="verticalAuto" 
+						style="left: 6%;">
+						<div class="title-baner" style="color: white">VINOS <br>	DEL MES</div>
+						<div class="subtitle-banner" style="color: #D0B165">SANDEMAN</div>
+					</div>
+				</div>
 			</div>
 		</div>
     </section>
