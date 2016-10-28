@@ -17,7 +17,7 @@
 		    background-image: url('../img/fondo_para_historia_y_carta.jpg');
 		    /*background-position: center center;*/
 		    
-		    /*background-size: contain;*/
+		    background-size: cover;
 		}
 
     </style>
