@@ -13,9 +13,11 @@ $(document).ready(function(){
         if( $(this).attr('aria-expanded') == 'false' ){
             $(this).find('img').show();
             $(this).find('.icon-bar').hide();
+            $(this).css('padding-top', '7px');
         }else{
             $(this).find('img').hide();
             $(this).find('.icon-bar').show();
+            $(this).css('padding-top', '15px');
         }
     });
 

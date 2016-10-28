@@ -12,7 +12,15 @@
 	<link rel="stylesheet" href="css/mansory.css"/>
     <link rel="stylesheet" href="css/main.css">
     
-    
+    <style>
+    	body{
+		    background-image: url('../img/fondo_para_historia_y_carta.jpg');
+		    /*background-position: center center;*/
+		    
+		    /*background-size: contain;*/
+		}
+
+    </style>
 </head>
 <body cz-shortcut-listen="true">
 	
@@ -97,7 +105,7 @@
 
 			<div class="col-md-6 padding-left-0 padding-right-0" style="">
 				<div class="cont-fachada " style="min-height:250px;"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-cart2"></div>
+        			<div class="fachada-all fachada-cart2_2"></div>
         		</div>
 			</div>
 		</div>

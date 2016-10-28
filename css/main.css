@@ -961,6 +961,12 @@ footer .content-mencion{
     background-position: center center;
 }
 
+.fachada-cart2_2{
+    background-image: url("../img/carta_carnes_parrillas_2.jpg");
+    height: 100%;
+    background-position: center center;
+}
+
 .fachada-cart3{
     background-image: url("../img/carta_cava_el_tinto.jpg");
     height: 100%;
@@ -970,6 +976,13 @@ footer .content-mencion{
 
 .fachada-cart4{
     background-image: url("../img/carta_cava_el_tinto2.jpg");
+    height: 100%;
+    background-position: center center;
+    background-size: cover;
+}
+
+.fachada-cart4_2{
+    background-image: url("../img/carta_cava_el_tinto_2");
     height: 100%;
     background-position: center center;
     background-size: cover;
@@ -1205,12 +1218,14 @@ footer .content-mencion{
     background-image: url('../img/portada_slide_2.jpg');
     /*background-position: center center;*/
     background-position: center center;
+    background-size: cover;
 }
 
 .cart{
     background-image: url('../img/carne_vino.jpg');
     /*background-position: center bottom 45%;*/
     background-position: center center;
+    background-size: cover;
 }
 
 .notice-cart{
@@ -1226,7 +1241,8 @@ footer .content-mencion{
     padding-bottom: 4%;
     margin-right: auto;
     margin-left: auto;
-    width: 75%;
+    width: 85%;
+    max-width: 1200px;
     min-height: 500px;
 }
 
@@ -1369,6 +1385,8 @@ footer .content-mencion{
 
 .navbar-default .navbar-toggle{
     border-color: white;
+
+    border-width: 0px; 
 }
 .navbar-default{
     background-color: white;
@@ -1381,6 +1399,11 @@ footer .content-mencion{
 
 .heightimgprivates-desktop{
     height: 400px;
+}
+
+
+.padding-right-3em{
+    padding-right: 3em;
 }
 
 @media only screen and (min-width: 768px) {
@@ -1404,6 +1427,10 @@ footer .content-mencion{
 
     .info-fachada-all img{
         width: 120px;
+    }
+
+    .margin-right-10em{
+        margin-right: 2em;
     }
 }
 
@@ -1524,6 +1551,14 @@ footer .content-mencion{
     .heightimgprivates-desktop{
         height: 200px;
         position: relative;
+    }
+
+    .padding-right-3em{
+        padding-right: 0;
+    }
+
+    .padding-left-xs-0{
+        padding-left: 0;   
     }
     /*
     .nav > li {

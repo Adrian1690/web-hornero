@@ -122,16 +122,17 @@
 	</div>
 	<div class="row container-info" style="margin-right: 0px;margin-left: 0px;">
 
-		<a id="gotop" class="visible-xs visible-sm">
-			<div class="" style="margin:auto;width: 30px;height: 30px;background-color:white;margin-bottom: 2em;"></div>
+		<a id="gotop" class="visible-xs visible-sm text-center">
+			
+			<img style="margin:auto;width: 50px;height: 50px;margin-bottom: 2em;" src="img/adorno/FOOTER_FLECHA_ARRIBA.png" alt="">
 		</a>
 
 		<div class="col-md-10 col-md-offset-1" style="margin-bottom: 1%;">
 			<div class="row">
 
-				<div class="izquierda col-md-2 col-md-offset-1 text-center padding-left-0">
+				<div class="izquierda col-md-3 text-center padding-left-0 padding-right-3em padding-left-xs-0">
 
-					<img style="margin-top:-20px;" class="img-responsive" src="img/adorno/logo_el_hornero_vertical.png" alt="iso">
+					<img style="margin-top:-20px;" class="" src="img/adorno/logo_el_hornero_vertical.png" alt="iso">
 					<div class="linea-right"></div>
 					
 					

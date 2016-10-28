@@ -2,14 +2,14 @@
 <nav class="navbar navbar-default navbar-fixed-top">
     
 		<div class="navbar-header">
-			<button id="button-header" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+			<button id="button-header" style="padding-top: 15px;" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 			  <span class="sr-only">Toggle navigation</span>
 			  
 			  <span class="icon-bar"></span>
 			  <span class="icon-bar"></span>
 			  <span class="icon-bar"></span>
 			  
-			  <img style="width: 30px;display: none;" src="img/adorno/menu-close-responsive.png" alt="">
+			  <img style="width: 30px;display: none;" src="img/adorno/MENU_X.png" alt="">
 			</button>
 			<div>
 				<a class="navbar-brand" href="/">
@@ -19,7 +19,7 @@
 			
 
 		</div>
-		<div id="drop_responsive" class="dropdown dropdown-nav hidden-md hidden-lg hidden-xl">
+		<div id="drop_responsive" class="dropdown dropdown-nav hidden-sm hidden-md hidden-lg hidden-xl">
 			<div id="drop_responsive_child" style="height: 30px;">
 				<div  id="drop_responsive_child_b" href="#" class="dropdown-toggle dropres" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
 					<span class="headerlocal">Seleccione su Restaurante</span>
@@ -63,7 +63,7 @@
 					</ul>
 				</li>
 
-				<li id="nav_drop" class="dropdown dropdown-nav hidden-sm hidden-xs" style="width: 229px;text-align:center;">
+				<li id="nav_drop" class="dropdown dropdown-nav  hidden-xs" style="width: 229px;text-align:center;">
 					<a  href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 						<span class="headerlocal">Seleccione su Restaurante</span>
 						<span class="caret"></span>
