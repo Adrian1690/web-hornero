@@ -49,7 +49,7 @@
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="width-100per" style="padding: 13% 0 4% 0;min-height:400px;">
+				<div class="width-100per" style="position:relative;min-height:400px;">
         			<div class="line hidden-xs" style="position: absolute;top: -6px;width:40%;"></div>
         			<div class="line hidden-xs" style="position: absolute;bottom: 0;width:40%;"></div>
         			<div class="linea-right hidden-xs" style="    position: absolute;
@@ -58,7 +58,7 @@
 													    top: 6em;
 													    border-left: 2px solid #8E4239;"></div>
 
-        			<div class="text-center">
+        			<div class="text-center verticalAuto">
 						<div class="title-all title-cart" style="">CARNES Y PARRILLAS </div>
     					<div class="line showxs" style="width: 70px; border-top:2px solid #8E4239;"></div>
 
