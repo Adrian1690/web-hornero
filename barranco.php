@@ -45,9 +45,13 @@
 	</a>
 
 	<section class="backtitlelocal barrancoback">
-		
-		<a id="flechaabajo" style="position:absolute;bottom: 4%;left: 49%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div></a>
+		<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
+			<a id="flechaabajo"  href=".title-all">
+				<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
+			</a>	
+		</div>
 	</section>
+	
 	<div class="titlelocal text-center">
 		BARRANCO
 		<div class="lineback-titlelocal"></div>
