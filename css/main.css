@@ -1509,7 +1509,7 @@ footer .content-mencion{
     }
 
     .navbar-default .navbar-nav > li > a{
-        color: #777 !important;
+        /*color: #777 !important;*/
     }
 
     #drop_responsive{
