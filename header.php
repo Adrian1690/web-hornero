@@ -65,7 +65,7 @@
 				</li>
 
 				<li id="nav_drop" class="dropdown dropdown-nav  hidden-xs" style="width: 250px;text-align:center;transition: none;">
-					<a  href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+					<a  href="#" style="transition: 0s;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
 						<span class="headerlocal">Seleccione su Restaurante</span>
 						<span class="caret"></span>
 					</a>
