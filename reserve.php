@@ -64,7 +64,7 @@
 					</a>
 					<div class="info-reserve">
 						<div class="phone-reserve">
-							<a href="tef:01 530 7305">
+							<a href="tel:01 530 7305">
 							<img src="img/adorno/tel_reservas.png" alt="">	01 530 7305
 							</a>
 						</div>
@@ -87,7 +87,7 @@
 					</a>
 					<div class="info-reserve">
 						<div class="phone-reserve">
-							<a href="tef:01 436 8319">
+							<a href="tel:01 436 8319">
 							<img src="img/adorno/tel_reservas.png" alt="">	01 436 8319
 							</a>
 						</div>
@@ -112,7 +112,7 @@
 					</a>	
 					<div class="info-reserve">
 						<div class="phone-reserve">
-							<a href="tef:(01) 251 8109">
+							<a href="tel:(01) 251 8109">
 							<img src="img/adorno/tel_reservas.png" alt="">	01 251 8109
 							</a>
 						</div>
@@ -135,7 +135,7 @@
 					</a>	
 					<div class="info-reserve">
 						<div class="phone-reserve">
-							<a href="tef:01 247 4646">
+							<a href="tel:01 247 4646">
 							<img src="img/adorno/tel_reservas.png" alt="">	01 247 4646
 							</a>
 						</div>
@@ -153,14 +153,14 @@
 					</div>						
 					<div class="line" style="width:60px;"></div>
 					<br>
-					<a href="">
+					<a href="sanisidro.php">
 						<div class="item-reserve">
 							<div class="fachada-barranco"></div>
 						</div>
 					</a>	
 					<div class="info-reserve">
 						<div class="phone-reserve">
-							<a href="tef:01 530 7305">
+							<a href="tel:01 530 7305">
 							<img src="img/adorno/tel_reservas.png" alt="">	01 530 7305
 							</a>
 						</div>
