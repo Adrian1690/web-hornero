@@ -20,12 +20,13 @@
 
 		</div>
 		<div id="drop_responsive" class="dropdown dropdown-nav hidden-sm hidden-md hidden-lg hidden-xl">
-			<div id="drop_responsive_child" style="height: 30px;">
-				<div  id="drop_responsive_child_b" href="#" class="dropdown-toggle dropres" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
+			
+
+				<div  id="drop_responsive_child_b" style="width: 100%;height: 100%;padding-top: 15px;" href="#" class="dropdown-toggle dropres" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
 					<span class="headerlocal">Seleccione su Restaurante</span>
 					<span class="caret"></span>
 				</div>
-			</div>
+			
 			<div id="navi" class="navbar-collapse collapse ">
 				<ul class="" style="padding-left: 0px">
 					<li class="vineta-header" id="pageasia" ><a class="" href="asia.php">ASIA</a></li>

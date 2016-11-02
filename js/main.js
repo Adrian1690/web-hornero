@@ -1,5 +1,10 @@
 'use strict';
 
+$('#drop_responsive_child_b').on('click', function(){
+        console.log('a2');
+        $(this).parent().toggleClass('active');
+});
+
 $(document).ready(function(){
 	/*console.log('Page is readyy');*/
     
@@ -21,14 +26,8 @@ $(document).ready(function(){
         }
     });
 
-    $('#drop_responsive').click(function(){
-        $(this).find('#drop_responsive_child_b').click();
-    });
-
-    $('#drop_responsive').click(function(){
-        console.log('aaa');
-        $(this).toggleClass('active');
-    });
+    
+    
     
     $('#nav_drop').hover(function(){
         $(this).toggleClass('open');
