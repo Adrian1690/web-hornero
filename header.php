@@ -23,7 +23,7 @@
 		<div id="drop_responsive" class="dropdown dropdown-nav hidden-sm hidden-md hidden-lg hidden-xl">
 			
 
-				<div  id="drop_responsive_child_b" style="width: 100%;height: 100%;padding-top: 15px;" href="#" class="dropdown-toggle dropres" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
+				<div  id="drop_responsive_child_b" style="width: 100%;height: 100%;padding-top: 17px;padding-bottom: 16px;" href="#" class="dropdown-toggle dropres" data-toggle="collapse" data-target="#navi" role="button" aria-haspopup="true" aria-expanded="false">
 					<span class="headerlocal">Seleccione su Restaurante</span>
 					<span class="caret"></span>
 				</div>
