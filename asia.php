@@ -40,20 +40,18 @@
 		</div>	
 	</a>
 	
-	<section class="backtitle asiaback">
-		<div class="title">
-			ASIA
-			<div class="lineback"></div>
-		</div>
-		
+	<section class="backtitlelocal asiaback">
+		<a id="flechaabajo" style="position:absolute;bottom: 4%;left: 49%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div></a>
 	</section>
-
+	<div class="titlelocal text-center">
+		ASIA
+		<div class="lineback-titlelocal"></div>
+	</div>
    
-    <section id="asia_section" class="contenedor">
-    	<div class="title-all" style="padding-top:0;">
-			"BRINDAMOS ATENCIÓN <br> TODO EL AÑO
-			<br><br>
-			<a id="flechaabajo" href="#local-content"><div class="flechaabajo"></div></a>
+    <section id="asia_section" class="contenedor" style="padding-top: 1%;">
+    	<div class="title-all" style="padding-top:0;font-size: 17px;color: #333331;">
+			"BRINDAMOS ATENCIÓN TODO EL AÑO
+			<br>
 		</div>
 		<br><br>
 
@@ -147,7 +145,7 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pageasia').addClass('active');
-		$('.headerlocal').html('ASIA');
+		//$('.headerlocal').html('ASIA');
 
 		var positionMap = { 
 			lat: -12.7605546,

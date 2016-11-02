@@ -41,18 +41,18 @@
 		</div>	
 	</a>
 
-	<section class="fullscreen background backtitle lamolinaback">
-		<div class="title">
-			LA MOLINA
-			<div class="lineback"></div>
-		</div>
-
-		<a id="flechaabajo" style="position:absolute;bottom: 7%;left: 49%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_abajo_over.png')"></div></a>
+	<section class="backtitlelocal lamolinaback"">
+		
+		<a id="flechaabajo" style="position:absolute;bottom: 4%;left: 49%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div></a>
 	</section> 
+	<div class="titlelocal text-center">
+		LA MOLINA
+		<div class="lineback-titlelocal"></div>
+	</div>
 
    
-    <section id="asia_section" class="contenedor">
-    	<div class="title-all" style="padding-top:0;">
+    <section id="asia_section" class="contenedor" style="padding-top: 1%;">
+    	<div class="title-all" style="padding-top:0;font-size: 17px;color: #333331;">
 			“PARA LOS AMANTES DE LA CARNE QUE PREFIEREN
 			<br>
 			UN VASTO LUGAR PARA DISFRUTARLA”
@@ -265,7 +265,7 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pagelamolina').addClass('active');
-		$('.headerlocal').html('LA MOLINA');
+		//$('.headerlocal').html('LA MOLINA');
 
 		var positionMap = { 
 			lat: -12.0766148,

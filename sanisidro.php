@@ -30,36 +30,37 @@
 	</div>
 	-->
 	
-	<a href="tel:01 251 8109">
+	<a href="tel:01 247 4646">
 		<div class="width-100per visible-xs">
 	    	
 				<button class="border-button bottom" >
 					<img style="eight: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
-					01 251 8109
+					01 2916848
 				</button>
 			
 		</div>	
 	</a>
-	
-	<section class="backtitlelocal chorrillosback">
+
+	<section class="backtitlelocal barrancoback">
+		
 		<a id="flechaabajo" style="position:absolute;bottom: 4%;left: 49%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div></a>
 	</section>
 	<div class="titlelocal text-center">
-		CHORRILLOS
+		SAN ISIDRO
 		<div class="lineback-titlelocal"></div>
 	</div>
    
     <section id="asia_section" class="contenedor" style="padding-top: 1%;">
     	<div class="title-all" style="padding-top:0;font-size: 17px;color: #333331;">
 			
-			“PARA DISFRUTAR DE UN BUEN CORTE DE
+			“CON PERFECTOS CORTES SIMÉTRICOS Y UN
 			<br>
-			CARNE FRENTE AL MAR DE GRAU”
+			AROMA REDONDO DE CARNES Y VINOS”
 			<br>
 		</div>
 		<br><br>
 
-		<div id="local-content" class="row text-center-xs">
+		<div id="local-content" class="row">
 			<button id="btn-gallery" class="border-button2 active" style="width: 130px;">
 				FOTOS
 			</button>
@@ -71,27 +72,29 @@
 		<br>
 		<div class="row">
         	<div class="col-md-6  padding-right-0 padding-left-0">
-        		<div class="cont-fachada heightimg-desktop"> 
+        		<div class="cont-fachada heightimg-desktop" "> 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
-						<div class="fullback fachada-chorrillos1erpiso">
-							<span class="namelocal">COMEDOR “LOS ARCOS”</span>
+						<div class="fullback fachada-lacupula">
+							<span class="namelocal">GRAN SALÓN “LA CÚPULA”</span>
 						</div>
-						<div class="fullback fachada-chorrillos2dopiso">
-							<span class="namelocal">EL SALÓN - 2DO PISO”</span>
+						<div class="fullback fachada-barrancolavista">
+							<span class="namelocal">PRIVADO “LA VISTA”</span>
 						</div>
-						<div class="fullback fachada-chorrillosterraza">
-							<span class="namelocal">LA TERRAZA”</span>
+						<div class="fullback fachada-barrancoterraza">
+							<span class="namelocal">TERRAZA “LA VISTA”</span>
 						</div>
 					</div>
 
 					<div id="locals-map" class="example gallery" style="height:100%;display: block;">
+						<!-- <div class="fullback fachada-recuay">
+						</div> -->
 						<div id="map" style="height: 100%;"></div>
 					</div>
         		</div>
         	</div>
         	<div class="col-md-6 padding-right-0 padding-left-0">
-        		<div class="width-100per heightimgprivates-desktop" style="">
+        		<div class="width-100per heightimgprivates-desktop">
         			<div class="line" style="position: absolute;top: -6px;width:40%;"></div>
         			<div class="line" style="position: absolute;bottom: 0;width:40%;"></div>
         			<div class="linea-right" style="    position: absolute;
@@ -103,21 +106,21 @@
         				
         				<div id="infoevent-0" class="infoevent text-center">
         					
-        					<a href="tel:01 251 8109" class="hidden-xs">
+        					<a href="tel:01 247 4646" class="hidden-xs">
 	        					<div class="button-local">
 				        			
-										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 251 8109
+										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 2916848
 									
 	        					</div>
         					</a>				
 							<br>
 	        				<div class="locals-middletext">
 		        				<ul class="list-locals">
-		        					<li class="vineta-tel-locals"><p>Malecón Grau 983, Chorrillos</p></li>
+		        					<li class="vineta-tel-locals"><p>Av. Dos de Mayo 758, San Isidro</p></li>
 		        					<li class="vineta-ubi-locals redtext" style="margin-bottom: 10px;">HORARIO DE ATENCIÓN:</li>
 		        					
-		        					<li class="list-style-none ">L - S de 12:00 p.m. a 00:00 a.m.</li>
-		        					<li class="list-style-none ">D de 12:00 p.m. a 10:30 p.m.</li>
+		        					<li class="list-style-none ">L - S de 11:30 a.m. a 00:00 a.m.</li>
+		        					<li class="list-style-none ">D de 11:30 a.m. a 10:30 p.m.</li>
 		        				</ul>
 		        			</div>
         				</div>
@@ -126,7 +129,7 @@
         		
         	</div>
 		</div>
-
+		
 		<br><br><br><br>
 		<div class="title-all" style="margin-top: 1em;font-size:25px;padding-top:0;">PRIVADOS </div>
     	<div class="line" style="width: 70px; border-top:2px solid #8E4239;"></div>
@@ -136,15 +139,15 @@
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-lapampa"></div>
+				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-lacupula"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
-				<div class="width-100per heightimgprivates-desktop" style="">
+				<div class="width-100per heightimgprivates-desktop">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">GRAN SALÓN <br> "LA PAMPA"</div>
-						<p class="plocalsaforo">CAPACIDAD: 180 PERS.</p>
+						<div class="title-all">GRAN SALÓN <br> "LA CUPULA"</div>
+						<p class="plocalsaforo">CAPACIDAD: 500 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
 					</div>
@@ -154,39 +157,38 @@
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs">
-				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-chorrilloprivado2"></div>
+				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-comedorrotonda"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
-				<div class="width-100per heightimgprivates-desktop" style="">
+				<div class="width-100per heightimgprivates-desktop">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "LA YEGUA"</div>
-						<p class="plocalsaforo">CAPACIDAD: 28 PERS.</p>
+						<div class="title-all">COMEDOR <br> "LA ROTONDA"</div>
+						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
-						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs">
-				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-chorrilloprivado2"></div>
+				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-comedorrotonda"></div>
         		</div>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-chorrilloprivado3"></div>
+				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-lavista"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
-				<div class="width-100per heightimgprivates-desktop" style="">
+				<div class="width-100per heightimgprivates-desktop">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "EL CHALAN"</div>
-						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>
+						<div class="title-all">PRIVADO <br> "LA VISTA"</div>
+						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
 					</div>
@@ -195,35 +197,38 @@
 		</div>
 
 		<div class="row">
+
 			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs">
-				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-miguelgrau"></div>
+				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-elescondite"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left border-bottom">
-				<div class="width-100per heightimgprivates-desktop" style="">
+				<div class="width-100per heightimgprivates-desktop">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "MIGUEL GRAU"</div>
-						<p class="plocalsaforo">CAPACIDAD: 8 PERS.</p>
+						<div class="title-all">PRIVADO <br> "EL ESCONDITE"</div>
+						<p class="plocalsaforo">CAPACIDAD: 16 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
-						<p class="plocals" style="margin-top:0px;">VISTA AL MALECÓN DE CHORRILLOS</p>
+						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
 					</div>
 				</div>
     		</div>
 			
 			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs">
-				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-miguelgrau"></div>
+				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
+        			<div class="fachada-all fachada-elescondite"></div>
         		</div>
 			</div>
 		</div>
 
+		<div class="text-center">
+        	<img style="margin-top:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
+        </div>
+
+		
     </section>
 	
-	<div class="text-center">
-    	<img style="margin-top:1em;margin-bottom:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
-    </div>
 	
 
 	<?php include('footer.php'); ?>
@@ -238,18 +243,19 @@
 	<script src="js/locals.js"></script>
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
-		$('#pagechorrillos').addClass('active');
-		//$('.headerlocal').html('CHORRILLOS');
-
+		$('#pagebarranco').addClass('active');
+		//$('.headerlocal').html('BARRANCO');
+		
 		var positionMap = { 
-			lat: -12.1672804,
-			lng: -77.0283319
+			lat: -12.0913034,
+			lng: -77.0393988
 		};
 	</script>
-
 	<script src="js/initmap.js"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDXYDFBbB2nDDXaaEozBzETYILuz7jeESo&callback=initMap"
 	async defer>
 	</script>
+
+
 </body>
 </html>

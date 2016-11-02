@@ -12,15 +12,7 @@
 	<link rel="stylesheet" href="css/mansory.css"/>
     <link rel="stylesheet" href="css/main.css">
     
-    <style>
-    	body{
-		    background-image: url('../img/fondo_para_historia_y_carta.jpg');
-		    /*background-position: center center;*/
-		    
-		    /*background-size: contain;*/
-		}
-
-    </style>
+    
 </head>
 <body cz-shortcut-listen="true">
 	

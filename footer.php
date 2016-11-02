@@ -187,7 +187,7 @@
 							<div class="line-footer2" style=""></div>
 							<ul style="">
 								<li class="vineta-tel">
-									<a class="font-GeoSlab703bold li-telefono" href="tel:">
+									<a class="font-GeoSlab703bold li-telefono" href="tel: (511) 247 - 4646">
 										(511) 247 - 4646
 									</a>
 								</li>

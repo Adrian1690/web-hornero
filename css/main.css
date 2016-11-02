@@ -133,8 +133,8 @@
 } 
 
 .dropdown-menu{
-    min-width: 231px;
-    transition: 1s ease all;
+    min-width: 250px;
+    /*transition: 1s ease all;*/
 }
 
 .dropdown-menu li {
@@ -150,7 +150,8 @@
 .dropdown-menu li.vineta-header.active{
     background-color: #8E4239 !important;
     color:white !important;
-    transition: 1s ease;
+    /*transition: 1s ease;*/
+    list-style-image: url(../img/adorno/gps_menu_over.png);
 }
 
 .dropdown-menu li a{
@@ -1116,6 +1117,18 @@ footer .content-mencion{
     letter-spacing: 1px;
 }
 
+.backtitlelocal{
+    border-width: 0px;
+    height: 78%;
+    width:100%;
+    text-align: center;
+    font-family: 'GeoSlab703 Md BT Medium';
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: relative;
+}
+
 .redtext{
     color : #8E4239;
 }
@@ -1135,6 +1148,16 @@ footer .content-mencion{
     -ms-transform: translateY(-50%);
 } 
 
+.titlelocal{
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'GeoSlab703 Md BT Medium';
+    font-size: 30px;
+    color: #8E4239;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
 .verticalAuto{
     position: absolute;
     top: 50%;
@@ -1150,6 +1173,14 @@ footer .content-mencion{
     margin: 0 auto;
     margin-top: 7px;
 } 
+
+.lineback-titlelocal{
+    width: 60px;
+    border-bottom: 3px solid #8E4239;
+    /* position: relative; */
+    margin: 0 auto;
+    margin-top: 7px;
+}
 
 .lineback-all{
     width: 60px;
@@ -1205,7 +1236,7 @@ footer .content-mencion{
 .asiaback{
     /*background-image: url("../img/fachada_asia.jpg");*/
     background-image: url("../img/fachada_asia.jpg");
-    background-position: center center;
+    background-position: center bottom;
     /*background-position: center bottom -12%;*/
     background-size: cover;
 }
@@ -1218,14 +1249,14 @@ footer .content-mencion{
 
 .lamolinaback{
     background-image: url("../img/fachada_lamolina.jpg");
-    background-position: center center;
+    background-position: center bottom;
     /*background-position: center bottom -35%;*/
     background-size: cover;
 }
 
 .barrancoback{
     background-image: url("../img/fachada_barranco.jpg");
-    background-position: center center;
+    background-position: center bottom;
     /*background-position: center bottom 38%;*/
     background-size: cover;
 }

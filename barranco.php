@@ -41,23 +41,22 @@
 		</div>	
 	</a>
 
-	<section class="backtitle barrancoback">
-		<div class="title">
-			BARRANCO
-			<div class="lineback"></div>
-		</div>
+	<section class="backtitlelocal barrancoback">
 		
+		<a id="flechaabajo" style="position:absolute;bottom: 4%;left: 49%;" href=".title-all"><div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div></a>
 	</section>
-
+	<div class="titlelocal text-center">
+		BARRANCO
+		<div class="lineback-titlelocal"></div>
+	</div>
    
-    <section id="asia_section" class="contenedor">
-    	<div class="title-all" style="padding-top:0;">
+    <section id="asia_section" class="contenedor" style="padding-top: 1%;">
+    	<div class="title-all" style="padding-top:0;font-size: 17px;color: #333331;">
 			
 			“CON PERFECTOS CORTES SIMÉTRICOS Y UN
 			<br>
 			AROMA REDONDO DE CARNES Y VINOS”
-			<br><br>
-			<a id="flechaabajo" href="#local-content"><div class="flechaabajo"></div></a>
+			<br>
 		</div>
 		<br><br>
 
@@ -245,7 +244,7 @@
 	<script src="js/initmansory.js"></script>
 	<script type="text/javascript">
 		$('#pagebarranco').addClass('active');
-		$('.headerlocal').html('BARRANCO');
+		//$('.headerlocal').html('BARRANCO');
 		
 		var positionMap = { 
 			lat: -12.1351315,
