@@ -133,6 +133,7 @@
 } 
 
 .dropdown-menu{
+    margin-top: -1px !important;
     min-width: 250px;
     /*transition: 1s ease all;*/
 }
