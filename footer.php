@@ -77,7 +77,7 @@
 								<br>
 								<div class="line-footer" ></div>
 								<br>
-								PROXIMAMENTE
+								PRÓXIMAMENTE
 							</div>
 						</a>
 					</div>
