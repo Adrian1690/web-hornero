@@ -154,7 +154,7 @@
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
-				<div class="width-100per heightimgprivates-desktop" >
+				<div class="width-100per heightimgprivates-desktop2" >
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "RIWAY"</div>
 						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
