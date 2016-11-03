@@ -313,6 +313,20 @@ footer{
     cursor: pointer;
 }
 
+.info-fachada2{
+    font-family : 'Montserrat-Bold';
+    color: white;
+    text-align: center;
+    background: rgba(54, 25, 25, .5);
+    /*opacity:0.5;*/
+    height: 100%;
+    width:100%;
+    padding-top: 25%;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+}
+
 .info-fachada-all{
     font-family : 'Montserrat-Light';
     color: white;
@@ -394,6 +408,13 @@ footer{
 }
 .fachada-lamolina{
     background-image: url("../img/fachada_lamolina.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-none{
+    background-image: url("../img/adorno/fondo_fachada_proximamente.png");
     background-position: center center;
     background-size: cover;
     height: 100%;

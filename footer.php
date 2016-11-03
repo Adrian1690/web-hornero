@@ -57,27 +57,27 @@
 					</div>
 					<div class="item">
 						<a href="#">
-							<div class="fachada fachada-lamolina">
+							<div class="fachada fachada-none">
 							</div>
-							<div class="info-fachada" style="display:none;">
-								<span>LA MOLINA</span>
+							<div class="info-fachada" style="display:block;">
+								<span>SAN ISIDRO</span>
 								<br>
 								<div class="line-footer" ></div>
 								<br>
-								LA CAZONA
+								YA INAUGURAMOS
 							</div>
 						</a>
 					</div>
 					<div class="item">
 						<a href="#">
-							<div class="fachada fachada-lamolina">
+							<div class="fachada fachada-none">
 							</div>
-							<div class="info-fachada" style="display:none;">
-								<span>LA MOLINA</span>
+							<div class="info-fachada" style="display:block;">
+								<span>PACHACAMAC</span>
 								<br>
 								<div class="line-footer" ></div>
 								<br>
-								LA CAZONA
+								PROXIMAMENTE
 							</div>
 						</a>
 					</div>
