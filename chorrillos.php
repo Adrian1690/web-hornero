@@ -47,7 +47,7 @@
 	<div class="fullscreen">
 		<section class="backtitlelocal chorrillosback">
 			<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
-				<a id="flechaabajo"  href=".title-all">
+				<a id="flechaabajo"  href="#local-content">
 					<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
 				</a>	
 			</div>
