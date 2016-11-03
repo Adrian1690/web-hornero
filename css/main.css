@@ -1526,6 +1526,18 @@ footer .content-mencion{
     #navbar > .navbar-nav{
         height: 100%;
     }
+    
+    .indexback{
+        background-image: url(../img/portada_1_responsive.png);
+    }
+
+    .index2back{
+        background-image: url(../img/portada_2_responsive.png);
+    }
+
+    .index3back{
+        background-image: url(../img/portada_3_responsive.png);
+    }
 
     .line, .linea-right, .lineback-locals {
         display: none;
