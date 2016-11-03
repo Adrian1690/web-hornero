@@ -44,27 +44,31 @@
 		</div>	
 	</a>
 	
-	<section class="backtitlelocal chorrillosback">
-		<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
-			<a id="flechaabajo"  href=".title-all">
-				<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
-			</a>	
+	<div class="fullscreen">
+		<section class="backtitlelocal chorrillosback">
+			<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
+				<a id="flechaabajo"  href=".title-all">
+					<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
+				</a>	
+			</div>
+		</section>
+		
+		<div class="titlelocal text-center">
+			CHORRILLOS
+			<div class="lineback-titlelocal"></div>
 		</div>
-	</section>
-	
-	<div class="titlelocal text-center">
-		CHORRILLOS
-		<div class="lineback-titlelocal"></div>
-	</div>
-   
-    <section id="asia_section" class="contenedor" style="padding-top: 1%;">
-    	<div class="title-all" style="padding-top:0;font-size: 17px;color: #333331;">
+
+		<div class="title-all" style="padding-top:1%;font-size: 17px;color: #333331;">
 			
 			“PARA DISFRUTAR DE UN BUEN CORTE DE
 			<br>
 			CARNE FRENTE AL MAR DE GRAU”
 			<br>
 		</div>
+	</div>
+   
+    <section id="asia_section" class="contenedor" style="padding-top: 1%;">
+    	
 		<br><br>
 
 		<div id="local-content" class="row text-center-xs">
