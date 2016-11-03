@@ -1010,6 +1010,7 @@ footer .content-mencion a:hover{
     background-image: url("../img/carta_carnes_parrillas_2.jpg");
     height: 100%;
     background-position: center center;
+    background-size: cover;
 }
 
 .fachada-cart3{
