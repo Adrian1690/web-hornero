@@ -36,31 +36,35 @@
 		<div class="width-100per visible-xs">
 	    	
 				<button class="border-button bottom" >
-					<img style="eight: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
+					<img style="height: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
 					01 530 7305
 				</button>
 			
 		</div>	
 	</a>
 	
-	<section class="backtitlelocal asiaback">
-		<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
-			<a id="flechaabajo"  href=".title-all">
-				<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
-			</a>	
-		</div>
-	</section>
+	<div class="fullscreen">
+		<section class="backtitlelocal asiaback">
+			<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
+				<a id="flechaabajo"  href="#local-content">
+					<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
+				</a>	
+			</div>
+		</section>
 
-	<div class="titlelocal text-center">
-		ASIA
-		<div class="lineback-titlelocal"></div>
-	</div>
-   
-    <section id="asia_section" class="contenedor" style="padding-top: 1%;">
-    	<div class="title-all" style="padding-top:0;font-size: 17px;color: #333331;">
+		<div class="titlelocal text-center">
+			ASIA
+			<div class="lineback-titlelocal"></div>
+		</div>
+
+		<div class="title-all" style="padding-top:1%;font-size: 17px;color: #333331;">
 			"BRINDAMOS ATENCIÓN TODO EL AÑO
 			<br>
 		</div>
+	</div>
+   
+    <section id="asia_section" class="contenedor" style="padding-top: 1%;">
+    	
 		<br><br>
 
 		<div id="local-content" class="row">
