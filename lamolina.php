@@ -159,7 +159,7 @@
 				<div class="width-100per heightimgprivates-desktop heightimgprivates-desktop2" >
         			<div class="verticalAuto text-center width-100per">
 						<div class="title-all">PRIVADO <br> "RIWAY"</div>
-						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
+						<p class="plocalsaforo">CAPACIDAD: 80 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
 						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
