@@ -151,7 +151,7 @@
 
 				</div>
 				
-				<div class="derecha col-md-8 hidden-xs">
+				<div class="derecha col-md-8 hidden-xs hidden-sm">
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							ASIA

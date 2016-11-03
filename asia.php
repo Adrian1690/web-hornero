@@ -58,7 +58,7 @@
 		</div>
 
 		<div class="title-all" style="padding-top:1%;font-size: 17px;color: #333331;">
-			"BRINDAMOS ATENCIÓN TODO EL AÑO
+			BRINDAMOS ATENCIÓN TODO EL AÑO
 			<br>
 		</div>
 	</div>

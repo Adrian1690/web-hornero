@@ -1590,7 +1590,9 @@ footer .content-mencion a:hover{
         border: 0px;
     }
 
-    .line.showxs{
+    
+
+    .showsm{
         display: block;
     }
     
@@ -1637,10 +1639,7 @@ footer .content-mencion a:hover{
         font-size: 12px;
     }
 
-    #navbar{
-        height: 100vh !important;
-        min-height: 100vh !important;
-    }
+    
 
     .local-content, #local-content{
         text-align: center;
@@ -1742,6 +1741,15 @@ footer .content-mencion a:hover{
 
 /*   Small Devices, Tablets */
 @media only screen and (max-width: 600px) {
+    
+    #navbar{
+        height: 100vh !important;
+        min-height: 100vh !important;
+    }
+    
+    .showxs{
+        display: block;
+    }
     
     .info-fachada-all span{
         font-size: 14px;

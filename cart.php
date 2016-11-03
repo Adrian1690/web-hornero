@@ -41,8 +41,8 @@
 
    
     <section id="cart_section" class="contenedor" style="padding-top: 4%;">
-    	<div class="title-all title-cart hidden-xs" style="">CARNES Y PARRILLAS </div>
-    	<div class="line" style="width: 70px; border-top:2px solid #8E4239;"></div>
+    	<div class="title-all title-cart hidden-xs " style="">CARNES Y PARRILLAS </div>
+    	<div class="line showsm hidden-xs" style="width: 70px; border-top:2px solid #8E4239;"></div>
 		<br><br>
 
 		<div class="row">
@@ -62,8 +62,8 @@
 													    border-left: 2px solid #8E4239;"></div>
 
         			<div class="text-center verticalAuto">
-						<div class="title-all title-cart" style="">CARNES Y PARRILLAS </div>
-    					<div class="line showxs" style="width: 70px; border-top:2px solid #8E4239;"></div>
+						<div class="title-all title-cart hidden-sm" style="">CARNES Y PARRILLAS </div>
+    					<div class="line showsm hidden-sm" style="width: 70px; border-top:2px solid #8E4239;"></div>
 
         				<div class="fachadaall-middletext">
 	        				<p clasS="info-history">
