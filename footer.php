@@ -9,7 +9,7 @@
 						<a href="#">
 							<div class="fachada fachada-asia">
 							</div>
-							<div class="info-fachada" style="display:none;">
+							<div class="info-fachada hidefachada" style="display:none;">
 								<span>ASIA</span>
 								<div class="line-footer" ></div>
 								<br>
@@ -22,7 +22,7 @@
 						<a href="#">
 							<div class="fachada fachada-chorrillos">
 							</div>
-							<div class="info-fachada" style="display:none;">
+							<div class="info-fachada hidefachada" style="display:none;">
 								<span>CHORRILLOS</span>
 								<div class="line-footer" ></div>
 								<br>
@@ -34,7 +34,7 @@
 						<a href="#">
 							<div class="fachada fachada-barranco">
 							</div>
-							<div class="info-fachada" style="display:none;">
+							<div class="info-fachada hidefachada" style="display:none;">
 								<span>BARRANCO</span>
 								<div class="line-footer" ></div>
 								<br>
@@ -46,7 +46,7 @@
 						<a href="#">
 							<div class="fachada fachada-lamolina">
 							</div>
-							<div class="info-fachada" style="display:none;">
+							<div class="info-fachada hidefachada" style="display:none;">
 								<span>LA MOLINA</span>
 								<br>
 								<div class="line-footer" ></div>

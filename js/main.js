@@ -91,11 +91,11 @@ $(document).ready(function(){
     
     $('.container-carousel .owl-carousel .item , .container-propuestas .propuesta').hover(
     	function(){
-    		$(this).find('.info-fachada').fadeIn();
+    		$(this).find('.info-fachada.hidefachada').fadeIn();
     		$(this).find('.fachada').addClass('scale1-1');
     	},
     	function(){
-    		$(this).find('.info-fachada').fadeOut();	
+    		$(this).find('.info-fachada.hidefachada').fadeOut();	
     		$(this).find('.fachada').removeClass('scale1-1');
     	}
     );
