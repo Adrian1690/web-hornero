@@ -1119,7 +1119,7 @@ footer .content-mencion{
 
 .backtitlelocal{
     border-width: 0px;
-    height: 85%;
+    height: 74%;
     width:100%;
     text-align: center;
     font-family: 'GeoSlab703 Md BT Medium';
@@ -1149,7 +1149,8 @@ footer .content-mencion{
 } 
 
 .titlelocal{
-    margin-top: 10px;
+    margin-top: 1em;
+    /*margin-bottom: 1em;*/
     text-align: center;
     font-family: 'GeoSlab703 Md BT Medium';
     font-size: 30px;
