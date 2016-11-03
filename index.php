@@ -151,7 +151,8 @@
 
 		$("#events-wrapper").tosrus({
 		       autoplay   : {
-		          play       : false
+		          play       : true,
+		          timeout  	 : 6000
 		       },
 		       slides     : {
 		          scale      : "fit"
