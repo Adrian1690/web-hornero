@@ -872,12 +872,12 @@ footer .content-mencion{
 
 .button-local{
     border: 2px solid #8E4239;
-    color: #8E4239 !important;
+    color: #81291E !important;
     background-color: white;
     font-family: 'GeoSlab703 Md BT Medium';
     padding: 8px 20px 8px 20px;
     text-transform: uppercase;
-    transition: .5s ease all;
+    /*transition: .5s ease all;*/
     margin: 0 auto;
     font-size: 27px;
     width: 227px;
@@ -887,7 +887,7 @@ footer .content-mencion{
 .button-local.active{
     color: white !important;
     /*border-color: white;*/
-    background-color: #8E4239;
+    background-color: #81291E;
 }
 
 .button-local a{
