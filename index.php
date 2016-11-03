@@ -154,6 +154,7 @@
 		          play       : true,
 		          timeout  	 : 6000
 		       },
+		       infinite : true,
 		       slides     : {
 		          scale      : "fit"
 		       },
@@ -161,7 +162,6 @@
 		       buttons    : false,
 		       pagination : {
 		          add     :   true
-		          
 		       }
 		    });
 	</script>

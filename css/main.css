@@ -1536,6 +1536,8 @@ footer .content-mencion a:hover{
     .navbar-header{
         float: none;
     }*/
+    
+    /* sm nav responsive */
 
     .navbar-header {
         float: none;
@@ -1552,7 +1554,7 @@ footer .content-mencion a:hover{
     }
     .navbar-nav {
         float: none!important;
-        margin: 7.5px -15px;
+        margin: 18.5px -15px;
     }
     .navbar-nav>li {
         float: none;
@@ -1572,6 +1574,8 @@ footer .content-mencion a:hover{
     .collapsing {
         overflow: hidden!important;
     }
+
+    /* fin sm nav responsive */
 
 
     #navi{

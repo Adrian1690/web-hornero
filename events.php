@@ -129,7 +129,7 @@
 	        				</div>
 	        				<div id="infoevent-2" class="infoevent text-center" style="display:none">
 	        					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
-		        				<div class="line"></div>©
+		        				<div class="line"></div>
 		        				<br>
 		        				<span class="title-all">PRIVADO "RIWAY"</span>
 		        				<br> <br>

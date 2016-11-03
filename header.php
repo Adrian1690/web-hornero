@@ -53,7 +53,7 @@
 				<li id="social" class="item-nav visible-xs visible-sm" >
 					<ul class="list-inline">
 						<li>
-							<a href="#">
+							<a href="https://www.facebook.com/elhorneroparrilladas">
 								<img style="width: 47px;" src="/img/adorno/facebook_rojo-responsive.png" alt="">
 							</a>
 						</li>

@@ -139,7 +139,7 @@
 						<div class="font-Montserrat-Light text-center visible-xs visible-sm" style="width: 50%;margin:0 auto;margin-top: 2em;border-top: .5px solid white;padding-top: 1em;">
 							SÍGUENOS EN : 
 							<br>
-							<a href="" style="margin-right: 1em;">
+							<a href="https://www.facebook.com/elhorneroparrilladas" style="margin-right: 1em;">
 								
 								<img class="" style="width: 55px;" src="img/adorno/facebook_blanco_responsive.png" alt="">
 							</a>
@@ -218,12 +218,12 @@
 								<li class="font-Montserrat-Regular"><a href="">EVENTOS</a></li>
 								<li class="font-Montserrat-Regular"><a href="">FACTURACIÓN ELECTRÓNICA</a></li>
 								<li class="font-Montserrat-Regular" style="float:right;">
-									SIGUENOS EN : 
+									SÍGUENOS EN : 
 									
 									<a href="" style="float:right;margin-top: -3px;">
 										<div class="yt-icon"></div>
 									</a>
-									<a style="margin: -3px 10px 0 9px;float:right;" href="" >
+									<a style="margin: -3px 10px 0 9px;float:right;" href="https://www.facebook.com/elhorneroparrilladas" >
 										<div class="fb-icon"></div>
 									</a>
 								</li>

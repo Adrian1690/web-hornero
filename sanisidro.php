@@ -45,7 +45,7 @@
 	</a>
 	
 	<div class="fullscreen">
-		<section class="backtitlelocal barrancoback">
+		<section class="backtitlelocal fachada-barrilcartas">
 			<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
 				<a id="flechaabajo"  class="hidden" href="#local-content">
 					<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
@@ -87,14 +87,14 @@
         		<div class="cont-fachada heightimg-desktop" "> 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
-						<div class="fullback fachada-lacupula">
-							<span class="namelocal">GRAN SALÓN “LA CÚPULA”</span>
+						<div class="fullback fachada-portadareservas">
+							<span class="namelocal"> PRÓXIMAMENTE</span>
 						</div>
-						<div class="fullback fachada-barrancolavista">
-							<span class="namelocal">PRIVADO “LA VISTA”</span>
+						<div class="fullback fachada-portadareservas">
+							<span class="namelocal"> PRÓXIMAMENTE</span>
 						</div>
-						<div class="fullback fachada-barrancoterraza">
-							<span class="namelocal">TERRAZA “LA VISTA”</span>
+						<div class="fullback fachada-portadareservas">
+							<span class="namelocal"> PRÓXIMAMENTE</span>
 						</div>
 					</div>
 
@@ -154,16 +154,17 @@
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-lacupula"></div>
+        			<div class="fachada-all fachada-portadareservas"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
 				<div class="width-100per heightimgprivates-desktop">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">GRAN SALÓN <br> "LA CUPULA"</div>
-						<p class="plocalsaforo">CAPACIDAD: 500 PERS.</p>
-						<div class="lineback-locals"></div>
-						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+						<!-- <div class="title-all">GRAN SALÓN <br> "LA CUPULA"</div> -->
+						<div class="title-all">PRÓXIMAMENTE</div>
+						<p class="plocalsaforo hidden">CAPACIDAD: 500 PERS.</p>
+						<div class="lineback-locals hidden"></div>
+						<p class="plocals hidden">ATENCIÓN PERSONALIZADA</p>
 					</div>
 				</div>
 			</div>
@@ -172,22 +173,23 @@
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-comedorrotonda"></div>
+        			<div class="fachada-all fachada-portadareservas"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
 				<div class="width-100per heightimgprivates-desktop">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">COMEDOR <br> "LA ROTONDA"</div>
-						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
-						<div class="lineback-locals"></div>
-						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+						<!-- <div class="title-all">COMEDOR <br> "LA ROTONDA"</div> -->
+						<div class="title-all">PRÓXIMAMENTE</div> 
+						<p class="plocalsaforo hidden">CAPACIDAD: 100 PERS.</p>
+						<div class="lineback-locals hidden"></div>
+						<p class="plocals hidden">ATENCIÓN PERSONALIZADA</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-comedorrotonda"></div>
+        			<div class="fachada-all fachada-portadareservas"></div>
         		</div>
 			</div>
 		</div>
@@ -195,16 +197,17 @@
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-lavista"></div>
+        			<div class="fachada-all fachada-portadareservas"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
 				<div class="width-100per heightimgprivates-desktop">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "LA VISTA"</div>
-						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
-						<div class="lineback-locals"></div>
-						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
+						<!-- <div class="title-all">PRIVADO <br> "LA VISTA"</div> -->
+						<div class="title-all">PRÓXIMAMENTE</div> 
+						<p class="plocalsaforo hidden">CAPACIDAD: 100 PERS.</p>
+						<div class="lineback-locals hidden"></div>
+						<p class="plocals hidden">ATENCIÓN PERSONALIZADA</p>
 					</div>
 				</div>
 			</div>
@@ -214,24 +217,25 @@
 
 			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-elescondite"></div>
+        			<div class="fachada-all fachada-portadareservas"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-left border-bottom">
 				<div class="width-100per heightimgprivates-desktop">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "EL ESCONDITE"</div>
-						<p class="plocalsaforo">CAPACIDAD: 16 PERS.</p>
-						<div class="lineback-locals"></div>
-						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
-						<p class="plocals" style="margin-top:0px;">AIRE ACONDICIONADO</p>
+						<!-- <div class="title-all">PRIVADO <br> "EL ESCONDITE"</div> -->
+						<div class="title-all">PRÓXIMAMENTE</div> 
+						<p class="plocalsaforo hidden">CAPACIDAD: 16 PERS.</p>
+						<div class="lineback-locals hidden"></div>
+						<p class="plocals hidden">ATENCIÓN PERSONALIZADA</p>
+						<p class="plocals hidden" style="margin-top:0px;">AIRE ACONDICIONADO</p>
 					</div>
 				</div>
     		</div>
 			
 			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-elescondite"></div>
+        			<div class="fachada-all fachada-portadareservas"></div>
         		</div>
 			</div>
 		</div>
