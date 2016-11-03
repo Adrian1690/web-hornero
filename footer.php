@@ -137,7 +137,7 @@
 					
 					
 						<div class="font-Montserrat-Light text-center visible-xs visible-sm" style="width: 50%;margin:0 auto;margin-top: 2em;border-top: .5px solid white;padding-top: 1em;">
-							SIGUENOS EN : 
+							SÍGUENOS EN : 
 							<br>
 							<a href="" style="margin-right: 1em;">
 								

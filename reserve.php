@@ -160,12 +160,12 @@
 					</a>	
 					<div class="info-reserve">
 						<div class="phone-reserve">
-							<a href="tel:01 530 7305">
-							<img src="img/adorno/tel_reservas.png" alt="">	01 530 7305
+							<a href="tel:01 291 6848">
+							<img src="img/adorno/tel_reservas.png" alt="">	01 291 6848
 							</a>
 						</div>
 						<div class="address-reserve">
-							Av. Paseo de la República 6500, Barranco
+							Av. Dos de Mayo 758, San Isidro
 						</div>
 					</div>
 				</div>

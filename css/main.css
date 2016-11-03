@@ -1272,7 +1272,7 @@ footer .content-mencion a:hover{
 }
 .chorrillosback{
     background-image: url("../img/fachada_chorrillos.jpg");
-    background-position: center center;
+    background-position: center bottom;
     /*background-position: center bottom 50%;*/
     background-size: cover;
 }
@@ -1365,7 +1365,7 @@ footer .content-mencion a:hover{
 .phone-reserve{
     font-family: 'Montserrat-Bold';
     color: #77251B;
-    font-size: 14px;
+    font-size: 16px;
     margin-bottom: 6px;
 }
 
@@ -1383,7 +1383,7 @@ footer .content-mencion a:hover{
 .address-reserve{
     font-family: 'Montserrat-Light';
     color: #6A6A6A;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .border-top{
