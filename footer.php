@@ -95,7 +95,7 @@
 							<a target="_blank" href="http://sainttropez.com.pe/">
 								<div class="propuesta">
 									<div class="fachada fachada-saintfooter"></div>
-									<div class="info-fachada" style="display:none;padding-top:6em;">
+									<div class="info-fachada hidefachada" style="display:none;padding-top:6em;">
 										<span>SAINT TROPEZ</span>
 										<br>
 										RESTAURANTE
@@ -107,7 +107,7 @@
 						<div class="col-md-5">
 							<div class="propuesta">
 								<div class="fachada fachada-armandolafooter"></div>
-								<div class="info-fachada" style="display:none;padding-top:6em;">
+								<div class="info-fachada hidefachada" style="display:none;padding-top:6em;">
 									<span>ARMÁNDOLA</span>
 									<br>
 									PRÓXIMAMENTE
