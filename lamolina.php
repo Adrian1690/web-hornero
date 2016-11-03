@@ -156,7 +156,7 @@
 			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
 				<div class="width-100per heightimgprivates-desktop" >
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "RECUAY"</div>
+						<div class="title-all">PRIVADO <br> "RIWAY"</div>
 						<p class="plocalsaforo">CAPACIDAD: 100 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
