@@ -239,12 +239,12 @@
 		<div class="clearboth"></div>
 		<div class="footer-mencion hidden-xs hidden-sm">
 				<span class="content-mencion">EL HORNERO todos los derechos reservados</span>
-				<span class="content-mencion" style="float:right;">Sitio creado por TUTAMANTA</span>
+				<span class="content-mencion" style="float:right;">Sitio creado por <a href="http://tutamanta.pe">TUTAMANTA</a></span>
 		</div>
 
 		<div class="footer-mencion text-center visible-xs visible-sm">
 				<span class="content-mencion">EL HORNERO todos los derechos reservados</span><br>
-				<span class="content-mencion">Sitio creado por TUTAMANTA</span>
+				<span class="content-mencion">Sitio creado por <a href="http://tutamanta.pe">TUTAMANTA</a></span>
 		</div>
 		
 

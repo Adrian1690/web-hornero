@@ -891,6 +891,13 @@ footer .content-mencion{
     font-family: 'GeoSlab703 Md BT Bold';
 }
 
+footer .content-mencion a{
+    color: #A8847F;
+}
+
+footer .content-mencion a:hover{
+    color: #337ab7;
+}
 
 .button-local{
     border: 2px solid #8E4239;
@@ -1401,7 +1408,7 @@ footer .content-mencion{
 }
 
 .fb-icon:hover{
-    background-image: url('../img/adorno/facebook_blanco_responsive.png');
+    background-image: url('../img/adorno/fb_over_2.png');
 }
 
 .yt-icon{
@@ -1413,7 +1420,7 @@ footer .content-mencion{
 }
 
 .yt-icon:hover{
-    background-image: url('../img/adorno/youtube_blanco_responsive.png');
+    background-image: url('../img/adorno/youtube_over2.png');
 }
 
 
@@ -1663,6 +1670,14 @@ footer .content-mencion{
 
     .backtitlelocal{
         height: 50%;
+    }
+
+    .phone-reserve{
+        font-size: 16px;
+    }
+
+    .address-reserve{
+        font-size: 14px;
     }
     /*
     .nav > li {
