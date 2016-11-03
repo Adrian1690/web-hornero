@@ -1523,6 +1523,19 @@ footer .content-mencion a:hover{
     .margin-right-10em{
         margin-right: 2em;
     }
+
+    
+    /*.navbar-toggle{
+        display: block !important;
+    }
+
+    #navbar{
+        display: none !important;
+    }
+
+    .navbar-header{
+        float: none;
+    }*/
 }
 
 @media only screen and (max-width: 768px) {

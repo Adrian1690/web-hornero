@@ -99,13 +99,13 @@
 	        					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
 		        				<div class="line"></div>
 		        				<br>
-		        				<span class="title-all">GRAN SALON <br> "LA PAMPA"</span>
+		        				<span class="title-all">GRAN SALÓN <br> "LA PAMPA"</span>
 		        				<br> <br>
 		        				<p>
 		        					CAPACIDAD : 180 PERS.
 		        				</p>
 		        				<p>
-		        					ATENCION PERSONALIZADA
+		        					ATENCIÓN PERSONALIZADA
 		        				</p>
 		        				<p class="sede">
 		        					EL HORNERO CHORRILLOS
@@ -115,7 +115,7 @@
 	        					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
 		        				<div class="line"></div>
 		        				<br>
-		        				<span class="title-all">GRAN SALON <br> "LA CÚPULA"</span>
+		        				<span class="title-all">GRAN SALÓN <br> "LA CÚPULA"</span>
 		        				<br> <br>
 		        				<p>
 		        					CAPACIDAD : 500 PERS.
@@ -129,9 +129,9 @@
 	        				</div>
 	        				<div id="infoevent-2" class="infoevent text-center" style="display:none">
 	        					<span class="title-all" style="font-size: 16px">PRIVADOS</span>
-		        				<div class="line"></div>
+		        				<div class="line"></div>©
 		        				<br>
-		        				<span class="title-all">PRIVADO "RECUAY"</span>
+		        				<span class="title-all">PRIVADO "RIWAY"</span>
 		        				<br> <br>
 		        				<p>
 		        					CAPACIDAD : 80 PERS.

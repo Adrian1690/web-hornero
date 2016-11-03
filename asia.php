@@ -86,7 +86,7 @@
 							<span class="namelocal">EL BAR</span>
 						</div>
 						<div class="fullback fachada-asiasalon2">
-							<span class="namelocal">EL SALON</span>
+							<span class="namelocal">EL SALÓN</span>
 						</div>
 						<div class="fullback fachada-asiaterraza">
 							<span class="namelocal">LA TERRAZA</span>

@@ -47,7 +47,7 @@
 				<li id="pagehistory" class="item-nav"><a href="ourhistory.php">Historia</a></li>
 				<li id="pagecart" class="item-nav" ><a href="cart.php">La carta</a></li>
 				<li id="pageevents" class="item-nav" ><a href="events.php">Eventos</a></li>
-				<li id="pagegallery" class="item-nav" ><a href="gallery.php">Galeria</a></li>
+				<li id="pagegallery" class="item-nav" ><a href="gallery.php">Galería</a></li>
 				<li id="pagereserve" class="item-nav margin-right-10em" ><a href="reserve.php">Reservas</a></li>
 
 				<li id="social" class="item-nav visible-xs" >

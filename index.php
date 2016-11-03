@@ -76,7 +76,7 @@
 				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
 					<div class="verticalAuto" 
 						style="left: 6%;">
-						<div class="title-baner" style="color: white">SIMETRIA Y <br>	ELEGANCIA</div>
+						<div class="title-baner" style="color: white">SIMETRÍA Y <br>	ELEGANCIA</div>
 						<div class="subtitle-banner" style="color: #B99B82">LOS AMBIENTES</div>
 					</div>
 				</div>
@@ -85,7 +85,7 @@
 				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
 					<div class="verticalAuto" 
 						style="left: 6%;">
-						<div class="title-baner" style="color: white">VINOS <br>	DEL MES</div>
+						<div class="title-baner" style="color: white">VINO <br>	DEL MES</div>
 						<div class="subtitle-banner" style="color: #D0B165">SANDEMAN</div>
 					</div>
 				</div>

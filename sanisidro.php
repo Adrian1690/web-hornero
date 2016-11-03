@@ -170,7 +170,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs">
+			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-comedorrotonda"></div>
         		</div>
@@ -185,7 +185,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs">
+			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-comedorrotonda"></div>
         		</div>
@@ -212,7 +212,7 @@
 
 		<div class="row">
 
-			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs">
+			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-elescondite"></div>
         		</div>
@@ -229,7 +229,7 @@
 				</div>
     		</div>
 			
-			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs">
+			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
 				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-elescondite"></div>
         		</div>

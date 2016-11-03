@@ -90,10 +90,10 @@
 							<span class="namelocal">COMEDOR “LOS ARCOS”</span>
 						</div>
 						<div class="fullback fachada-chorrillos2dopiso">
-							<span class="namelocal">EL SALÓN - 2DO PISO”</span>
+							<span class="namelocal">EL SALÓN - 2DO PISO</span>
 						</div>
 						<div class="fullback fachada-chorrillosterraza">
-							<span class="namelocal">LA TERRAZA”</span>
+							<span class="namelocal">LA TERRAZA</span>
 						</div>
 					</div>
 
@@ -167,7 +167,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs">
+			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
 				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-chorrilloprivado2"></div>
         		</div>
@@ -183,7 +183,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs">
+			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
 				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-chorrilloprivado2"></div>
         		</div>
@@ -199,7 +199,7 @@
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
 				<div class="width-100per heightimgprivates-desktop" style="">
         			<div class="verticalAuto text-center width-100per">
-						<div class="title-all">PRIVADO <br> "EL CHALAN"</div>
+						<div class="title-all">PRIVADO <br> "EL CHALÁN"</div>
 						<p class="plocalsaforo">CAPACIDAD: 12 PERS.</p>
 						<div class="lineback-locals"></div>
 						<p class="plocals">ATENCIÓN PERSONALIZADA</p>
@@ -209,7 +209,7 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs">
+			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
 				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-miguelgrau"></div>
         		</div>
@@ -226,7 +226,7 @@
 				</div>
     		</div>
 			
-			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs">
+			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
 				<div class="cont-fachada  heightimgprivates-desktop" style=""> <!-- Hmiddle-screen -->
         			<div class="fachada-all fachada-miguelgrau"></div>
         		</div>
