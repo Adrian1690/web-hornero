@@ -33,12 +33,12 @@
 	</div>
 	-->
 	
-	<a href="tel:01 247 4646">
+	<a href="tel:01 291 6848">
 		<div class="width-100per visible-xs">
 	    	
 				<button class="border-button bottom" >
-					<img style="eight: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
-					01 2916848
+					<img style="height: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
+					01 291 6848
 				</button>
 			
 		</div>	
@@ -118,10 +118,10 @@
         				
         				<div id="infoevent-0" class="infoevent text-center">
         					
-        					<a href="tel:01 247 4646" class="hidden-xs">
+        					<a href="tel:01 291 6848" class="hidden-xs">
 	        					<div class="button-local">
 				        			
-										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 2916848
+										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 291 6848
 									
 	        					</div>
         					</a>				

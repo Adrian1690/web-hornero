@@ -37,7 +37,7 @@
 		<div class="width-100per visible-xs">
 	    	
 				<button class="border-button bottom" >
-					<img style="eight: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
+					<img style="height: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
 					01 247 4646
 				</button>
 			

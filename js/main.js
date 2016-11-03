@@ -1,8 +1,10 @@
 'use strict';
 
 $('#drop_responsive_child_b').on('click', function(){
-        console.log('a2');
-        $(this).parent().toggleClass('active');
+    $(this).parent().toggleClass('active');
+
+    if ( $('#button-header').attr('aria-expanded') == 'true' )
+         $('#button-header').click();
 });
 
 $(document).ready(function(){
@@ -19,10 +21,15 @@ $(document).ready(function(){
             $(this).find('img').show();
             $(this).find('.icon-bar').hide();
             $(this).css('padding-top', '7px');
+
+            if( $('#drop_responsive').hasClass('active') ) 
+                $('#drop_responsive_child_b').click();
+
         }else{
             $(this).find('img').hide();
             $(this).find('.icon-bar').show();
             $(this).css('padding-top', '15px');
+        
         }
     });
 

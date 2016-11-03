@@ -33,12 +33,12 @@
 	</div>
 	-->
 	
-	<a href="tel:01 4368319">
+	<a href="tel:01 436 8319">
 		<div class="width-100per visible-xs">
 	    	
 				<button class="border-button bottom" >
 					<img style="height: 11px;margin-top: -4px;margin-right: 4px;" src="/img/adorno/tel_foot.png" alt="">
-					01 4368319
+					01 436 8319
 				</button>
 			
 		</div>	
@@ -112,10 +112,10 @@
         				
         				<div id="infoevent-0" class="infoevent text-center">
         					
-        					<a href="tel:01 4368319" class="hidden-xs">
+        					<a href="tel:01 436 8319" class="hidden-xs">
 	        					<div class="button-local">
 				        			
-										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 4368319
+										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 436 8319
 									
 	        					</div>
         					</a>				
