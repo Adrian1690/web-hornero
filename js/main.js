@@ -16,6 +16,17 @@ $(document).ready(function(){
         console.log($(this).find('.dropdown-toggle') );
     });*/
     
+
+    $('.button-local').hover(
+        function(){
+            $(this).find('.nover').hide();    
+            $(this).find('.over').show();    
+        },
+        function(){
+            $(this).find('.over').hide();    
+            $(this).find('.nover').show();
+        }
+    );
     $('#button-header').click(function(){
         if( $(this).attr('aria-expanded') == 'false' ){
             $(this).find('img').show();

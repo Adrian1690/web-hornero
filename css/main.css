@@ -1475,6 +1475,19 @@ footer .content-mencion{
     padding-right: 3em;
 }
 
+.nover{
+    margin-top: -7px;
+    padding-right: 4px;
+}
+
+.over{
+    display: none;    
+    height: 21px;
+    width: 18px;
+    margin-top: -7px;
+    padding-right: 4px;
+}
+
 @media only screen and (min-width: 768px) {
   	.item-nav{
         width: 100px;

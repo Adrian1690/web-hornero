@@ -46,7 +46,7 @@
 	<div class="fullscreen">
 		<section class="backtitlelocal asiaback">
 			<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
-				<a id="flechaabajo"  href="#local-content">
+				<a id="flechaabajo" class="hidden" href="#local-content">
 					<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
 				</a>	
 			</div>
@@ -114,7 +114,10 @@
         					<a href="tel:01 530 7305" class="hidden-xs">
 	        					<div class="button-local">
 				        			
-										<img style="margin-top: -7px;padding-right: 4px;" src="img/adorno/tel_reservas.png" alt="">	01 530 7305
+									<img class="nover" style="" src="img/adorno/tel_reservas.png" alt="">	
+									<img class="over" style="" src="img/adorno/telefono_reservas_over.png" alt="">	
+
+									01 530 7305
 									
 	        					</div>
         					</a>				
