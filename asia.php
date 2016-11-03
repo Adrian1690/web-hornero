@@ -124,8 +124,8 @@
 		        					<li class="vineta-tel-locals"><p>Panamericana Sur Km. 97.50, Boulevard de Asia</p></li>
 		        					<li class="vineta-ubi-locals redtext" style="margin-bottom: 10px;">HORARIO DE ATENCIÓN:</li>
 		        					<li class="list-style-none redtext">Temporada Alta (Dic. - Mar.)</li>
-		        					<li class="list-style-none ">L - S de 12:00 p.m. a 02:00 a.m.</li>
-		        					<li class="list-style-none ">D de 12:00 p.m. a 00:00 a.m.</li>
+		        					<li class="list-style-none ">L - D de 12:00 p.m. a 00:00 a.m.</li>
+		        					<!-- <li class="list-style-none ">D de 12:00 p.m. a 00:00 a.m.</li> -->
 		        					<li class="list-style-none redtext">Fuera de Temporada (Abr. - Nov.)</li>
 		        					<li class="list-style-none ">L - S de 12:00 p.m. a 10:00 p.m.</li>
 		        					<li class="list-style-none ">D de 12:00 p.m. a 06:00 p.m.</li>
