@@ -121,7 +121,7 @@
 		        					CAPACIDAD : 500 PERS.
 		        				</p>
 		        				<p>
-		        					ATENCION PERSONALIZADA
+		        					ATENCIÓN PERSONALIZADA
 		        				</p>
 		        				<p class="sede">
 		        					EL HORNERO BARRANCO
@@ -137,7 +137,7 @@
 		        					CAPACIDAD : 80 PERS.
 		        				</p>
 		        				<p>
-		        					ATENCION PERSONALIZADA
+		        					ATENCIÓN PERSONALIZADA
 		        				</p>
 		        				<p>
 		        					AIRE ACONDICIONADO
@@ -162,7 +162,7 @@
 		        					CAPACIDAD : 8 PERS.
 		        				</p>
 		        				<p>
-		        					ATENCION PERSONALIZADA
+		        					ATENCIÓN PERSONALIZADA
 		        				</p>
 		        				<p>
 		        					VISTA AL MALECÓN

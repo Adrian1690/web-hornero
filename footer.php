@@ -26,7 +26,7 @@
 								<span>CHORRILLOS</span>
 								<div class="line-footer" ></div>
 								<br>
-								EL MALECON
+								EL MALECÓN
 							</div>
 						</a>
 					</div>
