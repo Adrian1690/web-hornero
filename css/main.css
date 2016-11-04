@@ -129,12 +129,14 @@
 .dropdown-nav .dropres{
     color: white !important;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 13px;
+    letter-spacing: 1px;
+    font-family: 'GeoSlab703 Md BT Medium';
 } 
 
 .dropdown-menu{
     margin-top: -1px !important;
-    min-width: 250px;
+    min-width: 280px;
     /*transition: 1s ease all;*/
 }
 

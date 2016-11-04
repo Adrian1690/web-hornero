@@ -99,8 +99,7 @@
 									construyeran una empresa 
 									familiar, siendo pioneros en 
 									albergar los mejores cortes de 
-									carne americana (Certified 
-									Angus Beef).			 
+									carne americana.			 
 						
 								</span>
 							</div>	
@@ -117,7 +116,7 @@
 							<span class="backtitle redtext"> "LOS MEJORES CORTES <br> DE CARNE AMERICANA" </span>
 							<br>
 							<div style="padding-top: 10px;">
-								<span class="backtitle sumtext">CERTIFIED ANGUS BEEF</span>
+								<span class="backtitle sumtext hidden">CERTIFIED ANGUS BEEF</span>
 							</div>
 							<div class="lineHistory"></div>
 						</div>
