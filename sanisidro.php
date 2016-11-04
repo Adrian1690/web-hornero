@@ -60,10 +60,8 @@
 
 		<div class="title-all" style="padding-top:1%;font-size: 17px;color: #333331;">
 			
-			“CON PERFECTOS CORTES SIMÉTRICOS Y UN
-			<br>
-			AROMA REDONDO DE CARNES Y VINOS”
-			<br>
+			PRÓXIMAMENTE
+			
 		</div>
 	</div>
    

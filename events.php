@@ -86,7 +86,8 @@
 	        		</div>
 	        	</div>
 	        	<div class="col-md-6 padding-right-0 padding-left-0">
-	        		<div class="width-100per " style="min-height:400px;">
+	        		<br class="visible-xs visible-sm">
+	        		<div class="width-100per heightimgprivates-desktop" style="">
 	        			<div class="line" style="position: absolute;top: -6px;width:40%;"></div>
 	        			<div class="line" style="position: absolute;bottom: 0;width:40%;"></div>
 	        			<div class="linea-right" style="    position: absolute;

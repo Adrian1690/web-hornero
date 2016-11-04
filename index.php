@@ -86,7 +86,7 @@
 					<div class="verticalAuto" 
 						style="left: 6%;">
 						<div class="title-baner" style="color: white">VINO <br>	DEL MES</div>
-						<div class="subtitle-banner" style="color: #D0B165">SANDEMAN</div>
+						<div class="subtitle-banner hidden" style="color: #D0B165">SANDEMAN</div>
 					</div>
 				</div>
 			</div>
