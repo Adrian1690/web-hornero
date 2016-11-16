@@ -57,9 +57,9 @@
 					</div>
 					<div class="item">
 						<a href="#">
-							<div class="fachada fachada-none">
+							<div class="fachada fachada-sanisidro">
 							</div>
-							<div class="info-fachada" style="display:block;">
+							<div class="info-fachada hidefachada" style="display:none;">
 								<span>SAN ISIDRO</span>
 								<br>
 								<div class="line-footer" ></div>

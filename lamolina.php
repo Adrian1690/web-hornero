@@ -197,7 +197,7 @@
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
 				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-lamolinaelangel"></div>
+        			<div class="fachada-all fachada-privadolamolinaelangel"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
@@ -217,7 +217,7 @@
 
 			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
 				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-miguelgrau"></div>
+        			<div class="fachada-all fachada-cuerovaca1"></div>
         		</div>
 			</div>
 
@@ -235,7 +235,7 @@
 			
 			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
 				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-miguelgrau"></div>
+        			<div class="fachada-all fachada-cuerovaca1"></div>
         		</div>
 			</div>
 		</div>
@@ -243,7 +243,7 @@
 		<div class="row">
 			<div class="col-md-6 padding-left-0 padding-right-0">
 				<div class="cont-fachada  heightimgprivates-desktop" > <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-chorrilloprivado3"></div>
+        			<div class="fachada-all fachada-cuerovaca2"></div>
         		</div>
 			</div>
 			<div class="col-md-6 padding-left-0 padding-right-0 border-right border-bottom">

@@ -416,6 +416,13 @@ footer{
     height: 100%;
 }
 
+.fachada-sanisidro{
+    background-image: url("../img/fachada_sanisidro.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
 .fachada-none{
     background-image: url("../img/adorno/fondo_fachada_proximamente.png");
     background-position: center center;
@@ -652,6 +659,27 @@ footer{
     height: 100%;
 }
 
+.fachada-sanisidro_slide_1{
+    background-image: url('../img/sanisidro_slide_1.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-sanisidro_slide_2{
+    background-image: url('../img/sanisidro_slide_2.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-sanisidro_slide_3{
+    background-image: url('../img/sanisidro_slide_3.jpg');
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+}
+
 .fachada-asiabar{
     background-image: url("../img/el_hornero_asia_bar.jpg");
     background-position: center center;
@@ -745,6 +773,27 @@ footer{
 
 .fachada-lamolinaelangel{
     background-image: url("../img/el_hornero_lamolina_privadop1.jpg");
+    background-position: center bottom;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-privadolamolinaelangel{
+    background-image: url("../img/el_hornero_lamolina_privado_1.jpg");
+    background-position: center bottom;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-cuerovaca1{
+    background-image: url("../img/el_hornero_lamolina_cuerodevaca1.jpg");
+    background-position: center bottom;
+    background-size: cover;
+    height: 100%;
+}
+
+.fachada-cuerovaca2{
+    background-image: url("../img/el_hornero_lamolina_cuerodevaca2.jpg");
     background-position: center bottom;
     background-size: cover;
     height: 100%;
@@ -1283,6 +1332,13 @@ footer .content-mencion a:hover{
 
 .lamolinaback{
     background-image: url("../img/fachada_lamolina.jpg");
+    background-position: center bottom;
+    /*background-position: center bottom -35%;*/
+    background-size: cover;
+}
+
+.sanisidroback{
+    background-image: url("../img/fachada_sanisidro.jpg");
     background-position: center bottom;
     /*background-position: center bottom -35%;*/
     background-size: cover;

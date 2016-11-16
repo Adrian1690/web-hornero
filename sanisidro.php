@@ -45,7 +45,7 @@
 	</a>
 	
 	<div class="fullscreen">
-		<section class="backtitlelocal fachada-barrilcartas">
+		<section class="backtitlelocal sanisidroback">
 			<div style="position:absolute;bottom: 4%;" class="text-center width-100per">
 				<a id="flechaabajo"  class="hidden" href="#local-content">
 					<div class="flechaabajo" style="background-image:url('img/adorno/flecha_locales.png');height: 42px;width: 42px;"></div>
@@ -85,13 +85,13 @@
         		<div class="cont-fachada heightimg-desktop" "> 
         			<!-- <div class="fachada-historyhornero"></div> -->
         			<div id="locals-wrapper" class="example gallery" style="height:100%;">
-						<div class="fullback fachada-portadareservas">
+						<div class="fullback fachada-sanisidro_slide_1">
 							<span class="namelocal"> PRÓXIMAMENTE</span>
 						</div>
-						<div class="fullback fachada-portadareservas">
+						<div class="fullback fachada-sanisidro_slide_2">
 							<span class="namelocal"> PRÓXIMAMENTE</span>
 						</div>
-						<div class="fullback fachada-portadareservas">
+						<div class="fullback fachada-sanisidro_slide_3">
 							<span class="namelocal"> PRÓXIMAMENTE</span>
 						</div>
 					</div>
@@ -142,102 +142,6 @@
         	</div>
 		</div>
 		
-		<br><br><br><br>
-		<div class="title-all" style="margin-top: 1em;font-size:25px;padding-top:0;">PRIVADOS </div>
-    	<div class="line" style="width: 70px; border-top:2px solid #8E4239;"></div>
-		<br><br>
-		
-		
-
-		<div class="row">
-			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-portadareservas"></div>
-        		</div>
-			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0 border-top border-right">
-				<div class="width-100per heightimgprivates-desktop">
-        			<div class="verticalAuto text-center width-100per">
-						<!-- <div class="title-all">GRAN SALÓN <br> "LA CUPULA"</div> -->
-						<div class="title-all">PRÓXIMAMENTE</div>
-						<p class="plocalsaforo hidden">CAPACIDAD: 500 PERS.</p>
-						<div class="lineback-locals hidden"></div>
-						<p class="plocals hidden">ATENCIÓN PERSONALIZADA</p>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
-				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-portadareservas"></div>
-        		</div>
-			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0 border-left">
-				<div class="width-100per heightimgprivates-desktop">
-        			<div class="verticalAuto text-center width-100per">
-						<!-- <div class="title-all">COMEDOR <br> "LA ROTONDA"</div> -->
-						<div class="title-all">PRÓXIMAMENTE</div> 
-						<p class="plocalsaforo hidden">CAPACIDAD: 100 PERS.</p>
-						<div class="lineback-locals hidden"></div>
-						<p class="plocals hidden">ATENCIÓN PERSONALIZADA</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
-				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-portadareservas"></div>
-        		</div>
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="col-md-6 padding-left-0 padding-right-0">
-				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-portadareservas"></div>
-        		</div>
-			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0 border-right">
-				<div class="width-100per heightimgprivates-desktop">
-        			<div class="verticalAuto text-center width-100per">
-						<!-- <div class="title-all">PRIVADO <br> "LA VISTA"</div> -->
-						<div class="title-all">PRÓXIMAMENTE</div> 
-						<p class="plocalsaforo hidden">CAPACIDAD: 100 PERS.</p>
-						<div class="lineback-locals hidden"></div>
-						<p class="plocals hidden">ATENCIÓN PERSONALIZADA</p>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="row">
-
-			<div class="col-md-6 padding-left-0 padding-right-0 visible-xs visible-sm">
-				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-portadareservas"></div>
-        		</div>
-			</div>
-			<div class="col-md-6 padding-left-0 padding-right-0 border-left border-bottom">
-				<div class="width-100per heightimgprivates-desktop">
-        			<div class="verticalAuto text-center width-100per">
-						<!-- <div class="title-all">PRIVADO <br> "EL ESCONDITE"</div> -->
-						<div class="title-all">PRÓXIMAMENTE</div> 
-						<p class="plocalsaforo hidden">CAPACIDAD: 16 PERS.</p>
-						<div class="lineback-locals hidden"></div>
-						<p class="plocals hidden">ATENCIÓN PERSONALIZADA</p>
-						<p class="plocals hidden" style="margin-top:0px;">AIRE ACONDICIONADO</p>
-					</div>
-				</div>
-    		</div>
-			
-			<div class="col-md-6 padding-left-0 padding-right-0 hidden-xs hidden-sm">
-				<div class="cont-fachada  heightimgprivates-desktop"> <!-- Hmiddle-screen -->
-        			<div class="fachada-all fachada-portadareservas"></div>
-        		</div>
-			</div>
-		</div>
-
 		<div class="text-center">
         	<img style="margin-top:3em;" src="img/adorno/adorno_ornamental.png" alt="adornooramental">	
         </div>
