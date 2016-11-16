@@ -63,7 +63,18 @@
              data-img-width="1400" data-img-height="767"
              data-diff="100" style="display:block;">
         <div id="events-wrapper" class="example gallery" style="height:100%;">
+			
 			<div class="fullback indexback">
+				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
+					<div class="verticalAuto" 
+						style="left: 6%;">
+						<div class="title-baner" style="color: white">EL PRIMER <br> RESTAURANTE</div>
+						<div class="subtitle-banner" style="color: white;font-family:"GeoSlab703 Md BT Medium" >EN CARNES & PARRILLAS</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="fullback indexback_back">
 				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
 					<div class="verticalAuto" 
 						style="left: 6%;">
@@ -72,7 +83,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="fullback index2back">
+			<!-- <div class="fullback index2back">
 				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
 					<div class="verticalAuto" 
 						style="left: 6%;">
@@ -80,7 +91,7 @@
 						<div class="subtitle-banner" style="color: #B99B82">LOS AMBIENTES</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="fullback index3back">
 				<div class="fullback hidden-xs hidden-sm" style="position: relative;">
 					<div class="verticalAuto" 

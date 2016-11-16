@@ -1282,6 +1282,13 @@ footer .content-mencion a:hover{
 }
 
 .indexback{
+    background-image: url(../img/portada_slide_1_fachada_chorrillos.jpg);
+    background-position: center bottom;
+    /*background-position: center bottom 11%;*/
+    background-size: cover;
+}
+
+.indexback_back{
     background-image: url(../img/portada_slide_1_2.jpg);
     background-position: center center;
     /*background-position: center bottom 11%;*/

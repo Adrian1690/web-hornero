@@ -155,7 +155,7 @@
 					<br>
 					<a href="sanisidro.php">
 						<div class="item-reserve">
-							<div class="fachada-barrilcartas"></div>
+							<div class="fachada-sanisidro"></div>
 						</div>
 					</a>	
 					<div class="info-reserve">
