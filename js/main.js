@@ -16,6 +16,13 @@ $(document).ready(function(){
         console.log($(this).find('.dropdown-toggle') );
     });*/
     
+    $('.dropdown-menu li.vineta-header').hover(
+        function(){
+            $(this).find('img').attr('src', '/../img/adorno/gps_menu_over.png');
+        },function(){
+            $(this).find('img').attr('src', '/../img/adorno/gps_menu.png');
+        }
+    );
 
     $('.button-local').hover(
         function(){

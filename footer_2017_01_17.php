@@ -6,7 +6,7 @@
 			<div class="container-carousel">
 				<div class="owl-carousel owl-theme">
 					<div class="item">
-						<a href="/asia.php">
+						<a href="#">
 							<div class="fachada fachada-asia">
 							</div>
 							<div class="info-fachada hidefachada" style="display:none;">
@@ -19,7 +19,7 @@
 					</div>
 					
 					<div class="item">
-						<a href="chorrillos.php">
+						<a href="#">
 							<div class="fachada fachada-chorrillos">
 							</div>
 							<div class="info-fachada hidefachada" style="display:none;">
@@ -31,7 +31,7 @@
 						</a>
 					</div>
 					<div class="item">
-						<a href="barranco.php">
+						<a href="#">
 							<div class="fachada fachada-barranco">
 							</div>
 							<div class="info-fachada hidefachada" style="display:none;">
@@ -43,7 +43,7 @@
 						</a>
 					</div>
 					<div class="item">
-						<a href="lamolina.php">
+						<a href="#">
 							<div class="fachada fachada-lamolina">
 							</div>
 							<div class="info-fachada hidefachada" style="display:none;">
@@ -56,7 +56,7 @@
 						</a>
 					</div>
 					<div class="item">
-						<a href="sanisidro.php">
+						<a href="#">
 							<div class="fachada fachada-sanisidro">
 							</div>
 							<div class="info-fachada hidefachada" style="display:none;">
@@ -153,14 +153,14 @@
 				
 				<div class="derecha col-md-8 hidden-xs hidden-sm">
 					<div class="row">
-						<div class="col-xs-12 col-sm-6 col-md-2">
+						<div class="col-xs-12 col-sm-6 col-md-3">
 							ASIA
 							<div class="line-footer2" style=""></div>
 
 							<ul style="">
 								<li class="vineta-tel">
 									<a class="font-GeoSlab703bold li-telefono" style="" href="tel:(511) 530 - 7305">
-										511 530 - 7305
+										(511) 530 - 7305
 									</a>
 								</li>
 								<li class="vineta-ubi">
@@ -168,63 +168,48 @@
 								</li>
 							</ul>
 						</div>
-						<div class="col-xs-12 col-sm-6 col-md-2">
+						<div class="col-xs-12 col-sm-6 col-md-3">
 							CHORRILLOS
 							<div class="line-footer2" style=""></div>
 							<ul style="">
 								<li class="vineta-tel">
 									<a class="font-GeoSlab703bold li-telefono" href="tel:(511) 251 - 8109">
-										511 251 - 8109
+										(511) 251 - 8109
 									</a>
 								</li>
 								<li class="vineta-ubi">
-									<span>Malecón Grau 983, Chorrillos</span>
+									<span>Malecón Grau 983, Chorrillos</span>
 								</li>
 							</ul>
 						</div>
-						<div class="col-xs-12 col-sm-6 col-md-2">
+						<div class="col-xs-12 col-sm-6 col-md-3">
 							BARRANCO
 							<div class="line-footer2" style=""></div>
 							<ul style="">
 								<li class="vineta-tel">
 									<a class="font-GeoSlab703bold li-telefono" href="tel: (511) 247 - 4646">
-										511 247 - 4646
+										(511) 247 - 4646
 									</a>
 								</li>
 								<li class="vineta-ubi">
-									<span>Av. Paseo de la República 6500, Barranco</span>
+									<span>Av. Paseo de la República 6500, Barranco</span>
 								</li>
 							</ul>
 						</div>
-						<div class="col-xs-12 col-sm-6 col-md-2">
+						<div class="col-xs-12 col-sm-6 col-md-3">
 							LA MOLINA
 							<div class="line-footer2" style=""></div>
 							<ul style="">
 								<li class="vineta-tel">
 									<a class="font-GeoSlab703bold li-telefono" href="tel:(511) 436 - 8319">
-										511 436 - 8319
+										(511) 436 - 8319
 									</a>
 								</li>
 								<li class="vineta-ubi">
-									<span>Av. Circunvalación del Golf 408, Camacho, La Molina</span>
+									<span>Av. Circunvalación del Golf 408, Camacho, La Molina</span>
 								</li>
 							</ul>
 						</div>
-                        <div class="col-xs-12 col-sm-6 col-md-2">
-							SAN ISIDRO
-							<div class="line-footer2" style=""></div>
-							<ul style="">
-								<li class="vineta-tel">
-									<a class="font-GeoSlab703bold li-telefono" href="tel: (511) 291 - 6848">
-										511 291 - 6848
-									</a>
-								</li>
-								<li class="vineta-ubi">
-									<span>Av. Dos de Mayo 758, San Isidro</span>
-								</li>
-							</ul>
-						</div>
-                     
 					</div>
 					<div class="row linea-top-full" style="margin-top:2em;">
 						<div class="derecha col-md-12">

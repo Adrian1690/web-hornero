@@ -72,11 +72,11 @@
 					</a>
 
 					<ul class="dropdown-menu">
-						<li class="vineta-header" id="pageasia" ><a class="" href="asia.php">ASIA</a></li>
-						<li class="vineta-header" id="pagechorrillos"><a class="" href="chorrillos.php">CHORRILLOS</a></li>
-						<li class="vineta-header" id="pagebarranco"><a class="" href="barranco.php">BARRANCO</a></li>
-						<li class="vineta-header" id="pagelamolina"><a class="" href="lamolina.php">LA MOLINA</a></li>
-						<li class="vineta-header" id="pagesanisidro"><a class="" href="sanisidro.php">SAN ISIDRO</a></li>
+						<li class="vineta-header" id="pageasia" ><a class="" href="asia.php"><img src="img/adorno/gps_menu.png" alt="">ASIA</a></li>
+						<li class="vineta-header" id="pagechorrillos"><a class="" href="chorrillos.php"><img src="img/adorno/gps_menu.png" alt="">CHORRILLOS</a></li>
+						<li class="vineta-header" id="pagebarranco"><a class="" href="barranco.php"><img src="img/adorno/gps_menu.png" alt="">BARRANCO</a></li>
+						<li class="vineta-header" id="pagelamolina"><a class="" href="lamolina.php"><img src="img/adorno/gps_menu.png" alt="">LA MOLINA</a></li>
+						<li class="vineta-header" id="pagesanisidro"><a class="" href="sanisidro.php"><img src="img/adorno/gps_menu.png" alt="">SAN ISIDRO</a></li>
 					</ul>
 				</li>
 			</ul>
