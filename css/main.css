@@ -146,7 +146,12 @@
 .dropdown-menu li.vineta-header {
     list-style-image: url('../img/adorno/gps_menu.png');
     list-style-position: inside;
+    display: inline;
     color: #7D7D7D !important; 
+}
+
+.dropdown-menu li.vineta-header img{
+    padding-right: 1em;
 }
 
 .dropdown-menu li.vineta-header:hover,
@@ -624,7 +629,7 @@ footer{
 }
 
 .fachada-molinaangel{
-    background-image: url("../img/el_hornero_lamolina_angel.jpg");
+    background-image: url("../img/elhornero_carne_fuego.png");
     background-position: center center;
     background-size: cover;
     height: 100%;
@@ -660,21 +665,21 @@ footer{
 }
 
 .fachada-sanisidro_slide_1{
-    background-image: url('../img/sanisidro_slide_1.jpg');
+    background-image: url('../img/elhornero_sanisidro_reservas.png');
     background-position: center center;
     background-size: cover;
     height: 100%;
 }
 
 .fachada-sanisidro_slide_2{
-    background-image: url('../img/sanisidro_slide_2.jpg');
+    background-image: url('../img/elhornero_sanisidro_terraza.png');
     background-position: center center;
     background-size: cover;
     height: 100%;
 }
 
 .fachada-sanisidro_slide_3{
-    background-image: url('../img/sanisidro_slide_3.jpg');
+    background-image: url('../img/elhornero_sanisidro_barril.png');
     background-position: center center;
     background-size: cover;
     height: 100%;
@@ -1107,7 +1112,7 @@ footer .content-mencion a:hover{
 }
 
 #history_section .fachada-historyhornero{
-    background-image: url("../img/fachada_chorrillos.jpg");
+    background-image: url("../img/fachada_chorrillos_byn.png");
     height: 100%;
 }
 
@@ -1317,7 +1322,7 @@ footer .content-mencion a:hover{
 }
 
 .eventsback{
-    background-image: url('../img/portada_reservas.jpg');
+    background-image: url('../img/portada_reservas.png');
     /*background-position: center center;*/
     background-position: center center;
     background-size: cover;
@@ -1345,7 +1350,7 @@ footer .content-mencion a:hover{
 }
 
 .sanisidroback{
-    background-image: url("../img/fachada_sanisidro.jpg");
+    background-image: url("../img/fachada_sanisidro.png");
     background-position: center bottom;
     /*background-position: center bottom -35%;*/
     background-size: cover;
@@ -1710,12 +1715,12 @@ footer .content-mencion a:hover{
         background-image: url(../img/portada_1_responsive.png);
     }
 
-    .index2back{
+    .indexback_back{
         background-image: url(../img/portada_2_responsive.png);
     }
 
     .index3back{
-        background-image: url(../img/portada_3_responsive.png);
+        background-image: url(../img/portada_3_responsive.jpg);
     }
 
     .line, .linea-right, .lineback-locals {
